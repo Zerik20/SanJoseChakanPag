@@ -1,0 +1,33 @@
+{
+    "Header":{
+        "Inicio": "HOME",
+        "AcercaDe": "ABOUT US",
+        "Productos": "PRODUCTS",
+        "AvisoLegal": "LEGAL ADVICE",
+        "BienestaryRelajacion": "WELLNESS AND RELAXATION",
+        "Emociones": "EMOTIONS",
+        "ArtesCulinarias": "CULINARY ARTS"
+    },
+    "Footer":{
+        "Inicio": "Home"
+    },
+    "Index1":{
+        "Slogan": "Real estate sale in the heart of the Mayan culture.",
+        "Descripcion": "Just 15 minutes from Mérida, located in Chixchulub Pueblo, within the population quadrant with the highest capital gains, we offer residential lots for sale from 700 to 1,500m2 and macro lots for investment projects. Get to know one of the most booming projects in the area."
+    },
+    "MasterPlan":{
+        "Ofrecemos": "WE OFFER",
+        "AccesoResi": "Access to residential",
+        "CampGolf": "9-hole golf course",
+        "CasaHc": "Hacienda clubhouse",
+        "AmeDep": "Sport areas",
+        "AreaSoci": "Social area",
+        "Helipuerto": "Heliport",
+        "Market": "Market Place",
+        "Estudios": "Dens",
+        "Glamping": "Glamping",
+        "ColSui": "Swiss School",
+        "MayaKi": "Maya Kingdom",
+        "PetPa": "Pet Park"
+    }
+}
