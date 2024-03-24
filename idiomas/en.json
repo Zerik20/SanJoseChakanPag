@@ -39,5 +39,19 @@
         "VillasCard": "Villas",
         "KidsKCard": "Kids Kloster",
         "PiYPuCard": "Pitch & Putt"
+    },
+    "Amenidades":{
+        "TituloAmeni": "CLUBHOUSE AMENITIES",
+        "DescAmeni": "Welcome, here you will find the most luxurious facilities to enjoy your free time and relax in an exceptional environment.",
+        "CampGolfAmeni": "Golf course",
+        "Hoyo10Ameni": "Hole 10",
+        "RestAmeni": "Restaurant",
+        "GimAmeni": "Gym",
+        "SalaJAmeni": "Game room",
+        "PisciAmeni": "Pool"
+    },
+    "Lema":{
+        "LemaText": "Royal County San José Chakan, a unique and exclusive community, nurtured by a deep ecological commitment and the desire to live sustainably and to the fullest.",
+        "BotoLema": "See more"
     }
 }
