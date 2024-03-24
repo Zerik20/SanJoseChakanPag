@@ -29,5 +29,15 @@
         "ColSui": "Swiss School",
         "MayaKi": "Maya Kingdom",
         "PetPa": "Pet Park"
+    },
+    "Cards":{
+        "CampGolfCard": "Golf course",
+        "CasaClubCard": "Club House",
+        "AreaLecCard": "Reading area",
+        "AreaEventCard": "Events area",
+        "ClinYSpaCard": "Clinic & Spa",
+        "VillasCard": "Villas",
+        "KidsKCard": "Kids Kloster",
+        "PiYPuCard": "Pitch & Putt"
     }
 }

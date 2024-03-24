@@ -29,5 +29,15 @@
         "ColSui": "Colegio Suizo",
         "MayaKi": "Maya Kingdom",
         "PetPa": "Parque de mascotas"
+    },
+    "Cards":{
+        "CampGolfCard": "Campo de golf",
+        "CasaClubCard": "Casa Club",
+        "AreaLecCard": "Area de lectura",
+        "AreaEventCard": "Area de eventos",
+        "ClinYSpaCard": "Clinica y Spa",
+        "VillasCard": "Villas",
+        "KidsKCard": "Kids Kloster",
+        "PiYPuCard": "Pitch & Putt"
     }
 }

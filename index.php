@@ -112,7 +112,7 @@
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/cg.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fab fa-font-awesome-flag me-2"></i><h3 id="imhtitlistcampogolf" class="tit-prod text-white sombre-txt">Campo de Golf</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fab fa-font-awesome-flag me-2"></i><h3 id="imhtitlistcampogolf" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="CampGolfCard">Campo de Golf</h3></div>
                         </div>
                     </div>
                 </div>
@@ -123,7 +123,7 @@
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/club2.jpeg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-home me-2"></i><h3 id="imhtitlist1club" class="tit-prod text-white sombre-txt">Casa club</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-home me-2"></i><h3 id="imhtitlist1club" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="CasaClubCard">Casa club</h3></div>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                 <div class="img-zona-gallery sombra" style="background-image: url('img/Lectura.jpeg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-hotel me-2"></i><h3 id="imhtitlist1hotel" class="tit-prod text-white sombre-txt">Area de lectura</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-hotel me-2"></i><h3 id="imhtitlist1hotel" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaLecCard">Area de lectura</h3></div>
                         </div>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                 <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-glass-cheers me-2"></i><h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt"> Area de eventos</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-glass-cheers me-2"></i><h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard"> Area de eventos</h3></div>
                         </div>
                     </div>
                 </div>
@@ -156,7 +156,7 @@
                 <div class="img-zona-gallery sombra" style="background-image: url('img/spa.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-clinic-medical me-2"></i><h3 id="imhtitlist1colegio" class="tit-prod text-white sombre-txt"> Clinica y Spa</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-clinic-medical me-2"></i><h3 id="imhtitlist1colegio" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="ClinYSpaCard"> Clinica y Spa</h3></div>
                         </div>
                     </div>
                 </div>
@@ -193,7 +193,7 @@
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/golf.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-house-user me-2" aria-hidden="true"></i><h3 id="imhtitlist1villas:" class="tit-prod text-white sombre-txt"> Villas</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-house-user me-2" aria-hidden="true"></i><h3 id="imhtitlist1villas:" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="VillasCard" > Villas</h3></div>
                         </div>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
                 <div class="img-zona-gallery sombra" style="background-image: url('img/Kids.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-shapes me-2"></i><h3 id="imhtitlist1kids" class="tit-prod text-white sombre-txt"> Kids Kloster</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-shapes me-2"></i><h3 id="imhtitlist1kids" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="KidsKCard"> Kids Kloster</h3></div>
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                 <div class="img-zona-gallery sombra" style="background-image: url('img/pp.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-golf-ball me-2"></i><h3 id="imhtitlist1pp" class="tit-prod text-white sombre-txt"> Pitch & Putt</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-golf-ball me-2"></i><h3 id="imhtitlist1pp" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="PiYPuCard"> Pitch & Putt</h3></div>
                         </div>
                     </div>
                 </div>
