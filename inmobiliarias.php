@@ -188,49 +188,109 @@
               <div class="accordion-body">
                 <div class="row">
                   <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE01.pdf" download="LOTE01.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 01</h5>
-                    </a>
-                  </div>
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE02.pdf" download="LOTE02.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 02</h5>
-                    </a>
-                  </div>
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE03.pdf" download="LOTE03.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 03</h5>
-                    </a>
-                  </div>
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE04.pdf" download="LOTE04.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 04</h5>
-                    </a>
-                  </div>
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE05.pdf" download="LOTE05.pdf">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE05.pdf" download="LOTE01.pdf">
                       <img class="w-100" src="img/pdfd.png" alt="">
                       <h5 class="text-center mt-2 text-black">LOTE 05</h5>
                     </a>
                   </div>
                   <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE06.pdf" download="LOTE06.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 06</h5>
-                    </a>
-                  </div>
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE07.pdf" download="LOTE07.pdf">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE07.pdf" download="LOTE02.pdf">
                       <img class="w-100" src="img/pdfd.png" alt="">
                       <h5 class="text-center mt-2 text-black">LOTE 07</h5>
                     </a>
                   </div>
                   <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/MANZANA01.pdf" download="MANZANA01.pdf">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE08.pdf" download="LOTE03.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 08</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE09.pdf" download="LOTE04.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 09</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE10.pdf" download="LOTE05.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 10</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE11.pdf" download="LOTE06.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 11</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE16.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 16</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE17.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 17</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE18.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 18</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE19.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 19</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE20.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 20</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE21.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 21</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE22.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 22</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE23.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 23</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE24.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 24</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE25.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 25</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE26.pdf" download="LOTE07.pdf">
+                      <img class="w-100" src="img/pdfd.png" alt="">
+                      <h5 class="text-center mt-2 text-black">LOTE 26</h5>
+                    </a>
+                  </div>
+                  <div class="col-md-2 mx-2 mb-3">
+                    <a class="text-decoration-none" href="documentos/MANZANA01/MANZANA1.pdf" download="MANZANA01.pdf">
                       <img class="w-100" src="img/pdfd.png" alt="">
                       <h5 id="mzn01" class="text-center mt-2 text-black">MANZANA 01</h5>
                     </a>
