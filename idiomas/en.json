@@ -9,7 +9,20 @@
         "ArtesCulinarias": "CULINARY ARTS"
     },
     "Footer":{
-        "Inicio": "Home"
+        "InicioFoot": "Home",
+        "AcercaDeFoot": "About us",
+        "ProductosFoot": "Products",
+        "BiYReFoot": "Wellness and Relaxation",
+        "EmoFoot": "Emotions",
+        "ArtCuFoot": "Culinary Arts",
+        "MenuFoot": "MENU",
+        "ProdTitFoot": "PRODUCTS",
+        "LotFoot": "Lots",
+        "ResiFoot": "Residences",
+        "DepaFoot": "Departments",
+        "InmoFoot": "Real estate",
+        "ContacFoot": "CONTACT US",
+        "CopyFoot": "©2023 Royal County San José Chakan; All rights reserved."
     },
     "Index1":{
         "Slogan": "Real estate sale in the heart of the Mayan culture.",
