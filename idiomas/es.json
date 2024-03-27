@@ -84,6 +84,12 @@
         "FotVidListM": "Fotos y videos de avance",
         "PreciListM": "Lista de precios y disponibilidad",
         "RendListM": "Renders",
-        "UbiSaListM": "Ubicación satelital"
+        "UbiSaListM": "Ubicación satelital",
+        "MasterSubC": "Pongase en contacto para adquirir alguno de nuestros lotes disponibles o para resolver sus dudas.",
+        "BotoConC": "CONTÁCTANOS",
+        "Op1C": "Vendidos",
+        "Op2C": "Disponibles",
+        "Op3C": "Reservados",
+        "Op4C": "No disponibles"
     }
 }

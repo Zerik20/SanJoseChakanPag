@@ -85,6 +85,12 @@
         "FotVidListM": "Progress Photos and Videos",
         "PreciListM": "Price and Availability List",
         "RendListM": "Renders",
-        "UbiSaListM": "Satellite Location"
+        "UbiSaListM": "Satellite Location",
+        "MasterSubC": "Get in touch to purchase one of our available lots or to resolve your questions.",
+        "BotoConC": "CONTACT US",
+        "Op1C": "Sold",
+        "Op2C": "Available",
+        "Op3C": "Reserved",
+        "Op4C": "Not available"
         }
 }

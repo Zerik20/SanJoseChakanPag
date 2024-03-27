@@ -25,9 +25,9 @@
                 </div>
                 <div id="col-menu-1" class="col-md-5 text-center text-white">
                     <ul class="nav justify-content-end">
-                        <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion">Wellness & Relaxation</a></li>
-                        <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="Emociones">Emotions</a></li>
-                        <li class="nav-item menu"><a id="artcul" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias">Culinary Arts</a></li>
+                        <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion">Bienestar y Relajacion</a></li>
+                        <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="Emociones">Emociones</a></li>
+                        <li class="nav-item menu"><a id="artcul" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias">Artes Culinarias</a></li>
                     </ul>
                     <ul class="nav justify-content-end" style="border: none;">
                         <li class="nav-item"><a href="tel:9997001585" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</a></li>
@@ -71,9 +71,9 @@
                                 <li class="nav-item mm2 menu"><a id="acercam" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="AcercaDe">ACERCA DE</a></li>
                                 <li class="nav-item mm2 menu"><a id="productosm" href="productos.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="Productos">PRODUCTOS</a></li>
                                 <li class="nav-item menu"><a id="legalm" class="nav-link link-body-emphasis px-2 text-white disabled"  aria-disabled="true"data-section="Header" data-value="AvisoLegal">LEGAL</a></li>
-                                <li class="nav-item mm2 menu"><a id="descyrelm" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"data-section="Header" data-value="BienestaryRelajacion">Wellness & Relaxation</a></li>
-                                <li class="nav-item mm2 menu"><a id="emocionesm" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="Emociones">Emotions</a></li>
-                                <li class="nav-item mm2 menu"><a id="artculm" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="ArtesCulinarias">Culinary Arts</a></li>
+                                <li class="nav-item mm2 menu"><a id="descyrelm" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"data-section="Header" data-value="BienestaryRelajacion">Bienestar y Relajacion</a></li>
+                                <li class="nav-item mm2 menu"><a id="emocionesm" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="Emociones">Emociones</a></li>
+                                <li class="nav-item mm2 menu"><a id="artculm" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white"data-section="Header" data-value="ArtesCulinarias">Artes Culinarias</a></li>
                             </ul>
                             <ul class="nav justify-content-center mt-5">
                                 <li class="nav-item mm2"><a href="tel:9997001585" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</a></li>

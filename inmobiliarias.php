@@ -70,10 +70,10 @@
       <div class="container text-center" data-aos="fade-up">
           <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
           <h1 id="" class="tit text-center">Master Plan</h1>
-          <p id="txtinm0" class="text-center">Pongase en contacto para adquirir alguno de nuestros lotes disponibles o para resolver sus dudas.</p>
+          <p id="txtinm0" class="text-center" data-section="Inmobiliarias" data-value="MasterSubC">Pongase en contacto para adquirir alguno de nuestros lotes disponibles o para resolver sus dudas.</p>
           <div class="py-2"></div>
           <div class="d-flex justify-content-center cont-btn-inm">
-            <a id="btninm1" href="https://wa.link/ebt4dl" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i> Contáctanos</a>
+            <a id="btninm1" href="https://wa.link/ebt4dl" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i data-section="Inmobiliarias" data-value="BotoConC"> Contáctanos</a>
           </div>
           
           <div class="row mt-5">
@@ -92,19 +92,19 @@
               <div class="col-md-3 p-4">
                   <div class="d-flex mb-4 align-items-center">
                       <div class="p-3 me-2" style="background: red; border-radius: 50px;"></div>
-                      <h6 id="infocolorinm1" class="m-0">Vendidos.</h6>
+                      <h6 id="infocolorinm1" class="m-0" data-section="Inmobiliarias" data-value="Op1C">Vendidos.</h6>
                   </div>
                   <div class="d-flex mb-4 align-items-center">
                       <div class="p-3 me-2" style="background: blue; border-radius: 50px;"></div>
-                      <h6 id="infocolorinm2" class="m-0">Disponibles.</h6>
+                      <h6 id="infocolorinm2" class="m-0" data-section="Inmobiliarias" data-value="Op2C">Disponibles.</h6>
                   </div>
                   <div class="d-flex mb-4 align-items-center">
                       <div class="p-3 me-2" style="background: green; border-radius: 50px;"></div>
-                      <h6 id="infocolorinm3" class="m-0">Reservados.</h6>
+                      <h6 id="infocolorinm3" class="m-0" data-section="Inmobiliarias" data-value="Op3C">Reservados.</h6>
                   </div>
                   <div class="d-flex mb-4 align-items-center">
                       <div class="p-3 me-2" style="background: yellow; border-radius: 50px;"></div>
-                      <h6 id="infocolorinm4" class="m-0">No Disponible.</h6>
+                      <h6 id="infocolorinm4" class="m-0" data-section="Inmobiliarias" data-value="Op4C">No Disponible.</h6>
                   </div>
               </div>
             
@@ -187,12 +187,12 @@
             <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
               <div class="accordion-body">
                 <div class="row">
-                  <div class="col-md-2 mx-2 mb-3">
-                    <a class="text-decoration-none" href="documentos/MANZANA01/LOTE05.pdf" download="LOTE05.pdf">
-                      <img class="w-100" src="img/pdfd.png" alt="">
-                      <h5 class="text-center mt-2 text-black">LOTE 05</h5>
-                    </a>
-                  </div>
+                <div class="col-md-2 mx-2 mb-3">
+                  <a class="text-decoration-none" href="documentos/MANZANA01/LOTE05.pdf" download="LOTE05.pdf">
+                    <img class="w-100" src="img/pdfd.png" alt="">
+                    <h5 class="text-center mt-2 text-black">LOTE 05</h5>
+                  </a>
+                </div>
                   <div class="col-md-2 mx-2 mb-3">
                     <a class="text-decoration-none" href="documentos/MANZANA01/LOTE07.pdf" download="LOTE07.pdf">
                       <img class="w-100" src="img/pdfd.png" alt="">
