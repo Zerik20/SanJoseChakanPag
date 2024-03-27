@@ -181,11 +181,41 @@ div#cont-principal {
     background-size: cover;
     
 }
+.slider {
+  position: relative;
+  width: 100%;
+  height: 100vh; /* ajusta la altura del slider según lo que necesites */
+  overflow: hidden;
+}
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
 .overlay {
-    background: rgb(0 0 0 / 53%);
-    /*background: linear-gradient(180deg, rgb(0 0 0 / 61%) 0%, rgba(0,212,255,0) 100%);*/
-    position: relative;
-    z-index: 98;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* ajusta el color del overlay según lo que necesites */
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.cont-index-prox {
+  position: relative;
+  z-index: 1;
+  color: white; /* ajusta el color del texto según lo que necesites */
+}
+.slider:hover .overlay,
+.slider:hover .image {
+  opacity: 1;
 }
 .cont-index-prox {
     margin-bottom: 52px;

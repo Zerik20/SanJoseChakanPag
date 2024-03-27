@@ -8,47 +8,31 @@
     include('templates/link.php');
     ?>
  
-    
-
-        
 
 </head>
 <body>
 <?php include('templates/header.php'); ?>
-
-
-
-
-<div class="slider" style="background-image: url(https://sanjosechakan.com/img/img2.jpg), url(https://sanjosechakan.com/img/img3.jpg), url(https://sanjosechakan.com/img/4.jpeg)  !important; background-size: cover;">
-  <div class="image"></div>
-  <div class="image"></div>
-  <div class="image"></div>
-  <div class="image"></div>
+<div class="slider">
+  <div class="image" style="background-image: url(https://sanjosechakan.com/img/img2.jpg);"></div>
+  <div class="image" style="background-image: url(https://sanjosechakan.com/img/4.jpeg);"></div>
+  <div class="image" style="background-image: url(https://sanjosechakan.com/img/img3.jpg);"></div>
   <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
-        <div class="cont-index-prox w-75">
-            <div class="iconos text-center" data-aos="fade-up">
-                <!--i class="fab fa-facebook text-white icon-index"></i-->
-                <a href="https://wa.link/12w7hk"><i class="fab fa-whatsapp text-white icon-index"></i></a>
-                <a href="mailto:info@sanjosechakan.com"><i class="fas fa-envelope text-white icon-index"></i></a>
-                <a href="tel:9997001585"><i class="fas fa-phone-alt text-white icon-index"></i></a>
-            </div>
-            
-            <hr class="hr-prox">
-            <div data-aos="fade-up">
-                <p id="txtindex1" class="text-center text-white p1" data-section="Index1" data-value="Slogan">Venta de residencias en el corazón de la cultura maya.</p>
-                <p id="txtindex2" class="text-center text-white p1 text-movil" data-section="Index1" data-value="Descripcion">
-                    Un nuevo concepto que redefine la manera de vivir en Yucatán con un campo de golf de 9 hoyos Iluminados y un club deportivo que cumple con los más altos requerimientos.
-                </p> 
-            </div>
-            
-
-        </div>
-        
+    <div class="cont-index-prox w-75">
+      <div class="iconos text-center" data-aos="fade-up">
+        <a href="https://wa.link/12w7hk"><i class="fab fa-whatsapp text-white icon-index"></i></a>
+        <a href="mailto:info@sanjosechakan.com"><i class="fas fa-envelope text-white icon-index"></i></a>
+        <a href="tel:9997001585"><i class="fas fa-phone-alt text-white icon-index"></i></a>
+      </div>
+      <hr class="hr-prox">
+      <div data-aos="fade-up">
+        <p id="txtindex1" class="text-center text-white p1" data-section="Index1" data-value="Slogan">Venta de residencias en el corazón de la cultura maya.</p>
+        <p id="txtindex2" class="text-center text-white p1 text-movil" data-section="Index1" data-value="Descripcion">
+          Un nuevo concepto que redefine la manera de vivir en Yucatán con un campo de golf de 9 hoyos Iluminados y un club deportivo que cumple con los más altos requerimientos.
+        </p> 
+      </div>
     </div>
+  </div>
 </div>
-
-
-
 
 
 
@@ -141,8 +125,8 @@
             </a>
         </div>
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/boda.jpg" data-lightbox="example-2" data-title="">
-                <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpg') !important;">
+            <a class="example-image-link" href="img/boda.jpeg" data-lightbox="example-2" data-title="">
+                <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpeg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
                             <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-glass-cheers me-2"></i><h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard"> Area de eventos</h3></div>
@@ -290,12 +274,12 @@
                     </div>
                 </div>
                 <div class="tab-pane h-100 fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/bh10.jpg') !important; background-size: cover; background-position: center;">
+                    <div class="w-100 h-100" style="background-image: url('img/bh10.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
                 <div class="tab-pane h-100 fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/res.jpg') !important; background-size: cover; background-position: center;">
+                    <div class="w-100 h-100" style="background-image: url('img/res.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
