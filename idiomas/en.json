@@ -66,5 +66,12 @@
     "Lema":{
         "LemaText": "Royal County San José Chakan, a unique and exclusive community, nurtured by a deep ecological commitment and the desire to live sustainably and to the fullest.",
         "BotoLema": "See more"
+    },
+    "Modals":{
+        "TitMod": "ENTER YOUR PASSWORD",
+        "SubTitMod": "Enter the password provided to you.",
+        "OlvMod": "I forgot my password",
+        "NoContraMod": "I still don't have a password",
+        "IniMod": "Log in"
     }
 }

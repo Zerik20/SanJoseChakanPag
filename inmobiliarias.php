@@ -14,7 +14,6 @@
     <?php
     include('templates/link.php');
     ?>
-    <script src="idiomas/lenginm.js"></script>
 
 </head>
 <body>
