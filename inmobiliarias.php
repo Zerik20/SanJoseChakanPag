@@ -33,35 +33,35 @@
 <div class="d-flex align-items-start my-5">
   <div id="inm-select-movil" class="w-25 me-3" style="display:none;">
     <select class="form-select" id="v-pills-select" aria-label="Selecciona una sección">
-      <option id="optmpm" value="#v-pills-home">Master Plan</option>
-      <option id="optbrom" value="#v-pills-profile">Brochure</option>
-      <option id="optchepm" value="#v-pills-disabled">Chepinas</option>
-      <option id="optcomm" value="#v-pills-messages">Comisiones</option>
-      <option id="optcvm" value="#v-pills-newsec1">Curriculum de la desarrolladora</option>
-      <option id="optftm" value="#v-pills-newsec2">Ficha técnica</option>
-      <option id="optform" value="#v-pills-newsec3">Formatos</option>
-      <option id="optfyvm" value="#v-pills-newsec4">Fotos y videos de avance</option>
-      <option id="optlisprem" value="#v-pills-newsec5">Lista de precios y disponibilidad</option>
+      <option id="optmpm" value="#v-pills-home" data-section="Inmobiliarias" data-value="MasterListM">Master Plan</option>
+      <option id="optbrom" value="#v-pills-profile" data-section="Inmobiliarias" data-value="BrochListM">Brochure</option>
+      <option id="optchepm" value="#v-pills-disabled" data-section="Inmobiliarias" data-value="ChepListM">Chepinas</option>
+      <option id="optcomm" value="#v-pills-messages" data-section="Inmobiliarias" data-value="ComiListM">Comisiones</option>
+      <option id="optcvm" value="#v-pills-newsec1" data-section="Inmobiliarias" data-value="CVListM">Curriculum de la desarrolladora</option>
+      <option id="optftm" value="#v-pills-newsec2" data-section="Inmobiliarias" data-value="FichListM">Ficha técnica</option>
+      <option id="optform" value="#v-pills-newsec3" data-section="Inmobiliarias" data-value="FormListM">Formatos</option>
+      <option id="optfyvm" value="#v-pills-newsec4" data-section="Inmobiliarias" data-value="FotVidListM">Fotos y videos de avance</option>
+      <option id="optlisprem" value="#v-pills-newsec5" data-section="Inmobiliarias" data-value="PreciListM">Lista de precios y disponibilidad</option>
       <!--option value="#v-pills-newsec6">Memoria descriptiva</!--option>
       <option-- value="#v-pills-newsec7">Planos</option-->
-      <option id="optrendm" value="#v-pills-newsec8">Renders</option>
-      <option id="optusm" value="#v-pills-newsec9">Ubicación satelital</option>
+      <option id="optrendm" value="#v-pills-newsec8" data-section="Inmobiliarias" data-value="RendListM">Renders</option>
+      <option id="optusm" value="#v-pills-newsec9" data-section="Inmobiliarias" data-value="UbiSaListM">Ubicación satelital</option>
     </select>
   </div>
   <div  class="nav w-25 flex-column inm-btns nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-    <button id="optmp" class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"><p class="m-0 text-center">Master Plan</p></button>
-    <button id="optbro" class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false"><p class="m-0 text-center">Brochure</p></button>
-    <button id="optchep" class="nav-link" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false"><p class="m-0 text-center">Chepinas</p></button>
-    <button id="optcom" class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false"><p class="m-0 text-center">Comisiones</p></button>
-    <button id="optcv" class="nav-link" id="v-pills-newsec1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec1" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Curriculum de la desarrolladora</p></button>
-    <button id="optft" class="nav-link" id="v-pills-newsec2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec2" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Ficha técnica</p></button>
-    <button id="optfor" class="nav-link" id="v-pills-newsec3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec3" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Formatos</p></button>
-    <button id="optfyv" class="nav-link" id="v-pills-newsec4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec4" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Fotos y videos de avance</p></button>
-    <button id="optlispre" class="nav-link" id="v-pills-newsec5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec5" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Lista de precios y disponibilidad</p></button>
+    <button id="optmp" class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="MasterListM">Master Plan</p></button>
+    <button id="optbro" class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="BrochListM">Brochure</p></button>
+    <button id="optchep" class="nav-link" id="v-pills-disabled-tab" data-bs-toggle="pill" data-bs-target="#v-pills-disabled" type="button" role="tab" aria-controls="v-pills-disabled" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="ChepiListM">Chepinas</p></button>
+    <button id="optcom" class="nav-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="ComiListM">Comisiones</p></button>
+    <button id="optcv" class="nav-link" id="v-pills-newsec1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec1" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="CVListM">Curriculum de la desarrolladora</p></button>
+    <button id="optft" class="nav-link" id="v-pills-newsec2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec2" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="FichListM">Ficha técnica</p></button>
+    <button id="optfor" class="nav-link" id="v-pills-newsec3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec3" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="FormListM">Formatos</p></button>
+    <button id="optfyv" class="nav-link" id="v-pills-newsec4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec4" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="FotVidListM">Fotos y videos de avance</p></button>
+    <button id="optlispre" class="nav-link" id="v-pills-newsec5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec5" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="PreciListM">Lista de precios y disponibilidad</p></button>
     <!--button class="nav-link" id="v-pills-newsec6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec6" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Memoria descriptiva</p></!--button-->
     <!--button class="nav-link" id="v-pills-newsec7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec7" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Planos</p></!--button-->
-    <button id="optrend" class="nav-link" id="v-pills-newsec8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec8" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Renders</p></button>
-    <button id="optus" class="nav-link" id="v-pills-newsec9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec9" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center">Ubicación satelital</p></button>
+    <button id="optrend" class="nav-link" id="v-pills-newsec8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec8" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="RendListM">Renders</p></button>
+    <button id="optus" class="nav-link" id="v-pills-newsec9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec9" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="UbiSaListM">Ubicación satelital</p></button>
   </div>
   <div class="tab-content w-75 p-3" id="v-pills-tabContent">
     <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0">

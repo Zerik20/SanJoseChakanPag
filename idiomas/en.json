@@ -73,5 +73,18 @@
         "OlvMod": "I forgot my password",
         "NoContraMod": "I still don't have a password",
         "IniMod": "Log in"
-    }
+    },
+    "Inmobiliarias": {
+        "MasterListM": "Master Plan",
+        "BrochListM": "Brochures",
+        "ChepinasListM": "Chepinas",
+        "ComiListM": "Commissions",
+        "CVListM": "Developer's Resume",
+        "FichListM": "Technical Data Sheet",
+        "FormListM": "Forms",
+        "FotVidListM": "Progress Photos and Videos",
+        "PreciListM": "Price and Availability List",
+        "RendListM": "Renders",
+        "UbiSaListM": "Satellite Location"
+        }
 }

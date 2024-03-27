@@ -71,7 +71,19 @@
         "TitMod": "INGRESA TU CONTRASEÑA",
         "SubTitMod": "Ingrese la contraseña que le fue proporcionada.",
         "OlvMod": "Olvidé  mi contraseña",
-        "NoContraMod": "Aun no tengo una contraseña",
-        "IniMod": "Iniciar sesión"
+        "NoContraMod": "Aun no tengo una contraseña"
+    },
+    "Inmobiliarias":{
+        "MasterListM": "Master Plan",
+        "BrochListM": "Folletos",
+        "ChepinasListM": "Chepinas",
+        "ComiListM": "Comisiones",
+        "CVListM": "Curriculum de la desarrolladora",
+        "FichListM": "Ficha técnica",
+        "FormListM": "Formatos",
+        "FotVidListM": "Fotos y videos de avance",
+        "PreciListM": "Lista de precios y disponibilidad",
+        "RendListM": "Renders",
+        "UbiSaListM": "Ubicación satelital"
     }
 }
