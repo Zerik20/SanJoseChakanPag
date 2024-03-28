@@ -30,7 +30,7 @@
     },
     "MasterPlan":{
         "Ofrecemos": "WE OFFER",
-        "AccesoResi": "Access to residential",
+        "AccesoResi": "Guardhouse with controlled access.",
         "CampGolf": "9-hole golf course",
         "CasaHc": "Hacienda clubhouse",
         "AmeDep": "Sport areas",
@@ -49,7 +49,7 @@
         "AreaLecCard": "Reading area",
         "AreaEventCard": "Events area",
         "ClinYSpaCard": "Clinic & Spa",
-        "VillasCard": "Villas",
+        "EstudiosCard": "Studies",
         "KidsKCard": "Kids Kloster",
         "PiYPuCard": "Pitch & Putt"
     },
@@ -57,10 +57,10 @@
         "TituloAmeni": "CLUBHOUSE AMENITIES",
         "DescAmeni": "Welcome, here you will find the most luxurious facilities to enjoy your free time and relax in an exceptional environment.",
         "CampGolfAmeni": "Golf course",
-        "Hoyo10Ameni": "Hole 10",
+        "BarAmeni": "Hole 10",
         "RestAmeni": "Restaurant",
-        "GimAmeni": "Gym",
-        "SalaJAmeni": "Game room",
+        "PetParkAmeni": "Pet Park",
+        "SpaAmeni": "Spa",
         "PisciAmeni": "Pool"
     },
     "Lema":{
@@ -91,6 +91,32 @@
         "Op1C": "Sold",
         "Op2C": "Available",
         "Op3C": "Reserved",
-        "Op4C": "Not available"
+        "Op4C": "Not available",
+        "TitComisi": "COMMISSION PAYMENT.",
+        "PorcComisi": "COMMISSION: 4%",
+        "BotoComisi": "DOWNLOAD COMMISSION PAYMENT FORMAT",
+        "DescComisi": "The commission is paid upon the signing of the purchase agreement once the client has made the 30% down payment. Commission payment is via bank transfer or check to the account, in the national currency.",
+        "TitProComisi": "Process for Commission Payment:",
+        "Pas1Comisi": "Confirmation and proof of down payment are required.",
+        "Pas2Comisi": "Have all required client signatures.",
+        "Pas3Comisi": "The commission is based on the base price, excluding any additional fees.",
+        "Pas4Comisi": "The commission is paid to the agency that receives the reservation and down payment.",
+        "Pas5Comisi": "The person requesting commission payment must be the owner of the real estate agency.",
+        "Pas6Comisi": "Commission payment request is made via email, the email must come from the owner's email address.",
+        "Pas7Comisi": "If the owner cannot personally collect the payment, the email must mention who will collect it, and this person must present their ID for identification.",
+        "Pas8Comisi": "The person collecting the commission must bring the commission payment format printed.",
+        "Pas9Comisi": "The average time for commission release is 15 to 30 days maximum.",
+        "Pas10Comisi": "According to NOM 247, commission may be requested after the 5-day period given to the client to request their down payment refund.",
+        "Pas11Comisi": "If there is any delay in commission release, the owner will be notified via message or email."
+        },
+    "AcercaDe":{
+        "AcerTitAcer": "ABOUT US",
+        "DescAcer":"It is part of one of the most exclusive communities; fusing luxury and colonial architecture, as well as a deep ecological, sustainable sense. Just 20 minutes from Mérida and 10 minutes from Chixchulub Puerto beach. Within the residential quadrant with the highest capital gains. Residences with lots from 1,000 to 2,000 meters of land and 355 meters of construction.",
+        "BotoVerAcer": "See more"
+        },
+    "BieyRela":{
+        "NombreBieRel": "Eternal Clinical Beauty & Spa",
+        "EsloganBieRel": "WELLNESS & RELAXATION",
+        "DescBieRel": "A space created especially for you, stop, breathe and relax at the Eternal Beauty spa clinic. Let us pamper you, surrender to joy, pure bliss and sensory delight. Enjoy a kingdom of beauty with complete confidence and serenity."
         }
 }

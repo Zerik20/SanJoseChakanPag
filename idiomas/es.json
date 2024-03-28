@@ -5,7 +5,7 @@
         "Productos": "PRODUCTOS",
         "AvisoLegal": "AVISO LEGAL",
         "BienestaryRelajacion": "BIENESTAR Y RELAJACIÓN",
-        "Emociones": "EMOCIÓNES",
+        "Emociones": "EMOCIONES",
         "ArtesCulinarias": "ARTES CULINARIAS"
     },
     "Footer":{
@@ -30,7 +30,7 @@
     },
     "MasterPlan":{
         "Ofrecemos": "OFRECEMOS",
-        "AccesoResi": "Acceso a residencial",
+        "AccesoResi": "Caseta de vigilancia con acceso controlado",
         "CampGolf": "Campo de golf de 9 hoyos",
         "CasaHc": "Casa club hacienda",
         "AmeDep": "Amenidades Deportivas",
@@ -49,7 +49,7 @@
         "AreaLecCard": "Area de lectura",
         "AreaEventCard": "Area de eventos",
         "ClinYSpaCard": "Clinica y Spa",
-        "VillasCard": "Villas",
+        "EstudiosCard": "Estudios",
         "KidsKCard": "Kids Kloster",
         "PiYPuCard": "Pitch & Putt"
     },
@@ -57,10 +57,10 @@
         "TituloAmeni": "AMENIDADES DE LA CASA CLUB",
         "DescAmeni": "Bienvenido, aquí encontrarás las mas lujosas instalaciones para disfrutar de tu tiempo libre y relajarte en un entorno excepcional.",
         "CampGolfAmeni": "Campo de golf",
-        "Hoyo10Ameni": "Hoyo 10",
+        "BarAmeni": "Bar",
         "RestAmeni": "Restaurante",
-        "GimAmeni": "Gimnasio",
-        "SalaJAmeni": "Sala de juegos",
+        "PetParkAmeni": "Parque de Mascotas",
+        "SalaJAmeni": "Spa",
         "PisciAmeni": "Piscina"
     },
     "Lema":{
@@ -90,6 +90,32 @@
         "Op1C": "Vendidos",
         "Op2C": "Disponibles",
         "Op3C": "Reservados",
-        "Op4C": "No disponibles"
+        "Op4C": "No disponibles",
+        "TitComisi": "PAGO DE COMISIONES",
+        "PorcComisi": "COMISIÓN: 4%",
+        "BotoComisi": "DESCARGAR FORMATO DE COBRO DE COMISIÓN",
+        "DescComisi": "La comisión se paga en la promesa de compraventa una vez que el cliente haya dado el 30% de enganche. El pago de la comisión es via transferencia o cheque a cuenta, en moneda nacional.",
+        "TitProComisi": "Proceso para el cobro de comisión:",
+        "Pas1Comisi": "Se requiere la confirmación y comprobante del pago del enganche.",
+        "Pas2Comisi": "Contar con todas las firmas requeridas del cliente.",
+        "Pas3Comisi": "La comisión es sobre el precio base, no participando los adicionales.",
+        "Pas4Comisi": "La comisión se le paga a la agencia que deposite el apartado y el enganche.",
+        "Pas5Comisi": "La persona que solicita el cobro de la comisión deberá ser el titular de la agencia inmobiliaria.",
+        "Pas6Comisi": "La solicitud del cobro se hace mediante correo, el correo debe venir del correo del titular.",
+        "Pas7Comisi": "Si el titular no puede pasar al cobro, en el correo deberá mencionar quién es la persona que se apersonará y esta persona deberá presentar su INE para identificarse.",
+        "Pas8Comisi": "La persona que cobrará la comisión deberá de llevar impreso el formato de cobro de comisión.",
+        "Pas9Comisi": "El tiempo promedio que se libera la comisión será de 15 a 30 días máximo.",
+        "Pas10Comisi": "De acuerdo con la NOM 247 la comisión podrá solicitarse pasando los 5 días con los que cuenta el cliente para solicitar su devolución de enganche.",
+        "Pas11Comisi": "Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo."
+    },
+    "AcercaDe":{
+        "AcerTitAcer": "ACERCA DE",
+        "DescAcer":"Forma parte de una de las comunidades más exclusivas; fusionando el lujo y la arquitectura colonial, así como un profundo sentido ecológico, sustentable. A tan solo 20 minutos de Mérida y 10 minutos de la playa de Chicxulub Puerto. Dentro del cuadrante residencial de mayor plusvalía. Residencias con lotes desde 1,000 hasta 2,000 metros de terreno y 355 metros de construcción.",
+        "BotoVerAcer": "Ver Más"
+    },
+    "BieyRela":{
+        "NombreBieRel": "ETERNAL ClÍNICA DE BELLEZA Y SPA",
+        "EsloganBieRel": "BIENESTAR Y RELAJACIÓN",
+        "DescBieRel": "Un espacio creado especialmente para ti, detente, respira y relájate en la clinica spa Eternal Beauty. Dejanos consentirte, ríndete a la alegría, la dicha pura y el deleite sensorial. Disfruta de un reino de belleza con total confianza y serenidad."
     }
 }

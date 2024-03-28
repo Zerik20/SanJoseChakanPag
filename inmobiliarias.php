@@ -1292,30 +1292,28 @@
     
     
       <div class="w-100">
-        <h4 id="titinm1" class="subtitle text-center">Pago de comisiones.</h4>
-        <h1 id="stitinm1" class="tit text-center mb-5">Comisión: 4%</h1>
+        <h4 id="titinm1" class="subtitle text-center" data-section="Inmobiliarias" data-value="TitComisi">Pago de comisiones.</h4>
+        <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi">Comisión: 4%</h1>
 
         <div class="text-center w-100">
-          <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4"> Descaragar Formato de cobro de comisión</span></a>
+          <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4" data-section="Inmobiliarias" data-value="BotoComisi"> Descaragar Formato de cobro de comisión</span></a>
         </div>
 
         <div class="px-5 mt-5">
-          <p id="txtinm1">La comisión se paga en la promesa de compraventa una vez que el cliente 
-          haya dado el 30% de enganche. El pago de la comisión es en efectivo, en moneda 
-          nacional.</p>
-          <h2 id="titinm2">Proceso para el cobro de comisión:</h2>
+          <p id="txtinm1" data-section="Inmobiliarias" data-value="DescComisi">La comisión se paga en la promesa de compraventa una vez que el cliente haya dado el 30% de enganche. El pago de la comisión es via transferencia o cheque a cuenta, en moneda nacional.</p>
+          <h2 id="titinm2" data-section="Inmobiliarias" data-value="TitProComisi">Proceso para el cobro de comisión:</h2>
           <ul>
-            <li id="txtinm2">Se requiere la confirmación y comprobante del pago del enganche.</li>
-            <li id="txtinm3">Contar con todas las firmas requeridas del cliente.</li>
-            <li id="txtinm4">La comisión es sobre el precio base, no participando los adicionales.</li>
-            <li id="txtinm5">La comisión se le paga a la agencia que deposite el apartado y el enganche.</li>
-            <li id="txtinm6">La persona que solicita el cobro de la comisión deberá ser el titular de la agencia inmobiliaria.</li>
-            <li id="txtinm7">La solicitud del cobro se hace mediante correo, el correo debe venir del correo del titular.</li>
-            <li id="txtinm8">Si el titular no puede pasar al cobro, en el correo deberá mencionar quién es la persona que se apersonará y esta persona deberá presentar su INE para identificarse.</li>
-            <li id="txtinm9">La persona que cobrará la comisión deberá de llevar impreso el formato de cobro de comisión.</li>
-            <li id="txtinm10">El tiempo promedio que se libera la comisión será de 15 a 30 días máximo.</li>
-            <li id="txtinm11">De acuerdo con la NOM 247 la comisión podrá solicitarse pasando los 5 días con los que cuenta el cliente para solicitar su devolución de enganche.</li>
-            <li id="txtinm12"> Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo.</li>
+            <li id="txtinm2" data-section="Inmobiliarias" data-value="Pas1Comisi">Se requiere la confirmación y comprobante del pago del enganche.</li>
+            <li id="txtinm3" data-section="Inmobiliarias" data-value="Pas2Comisi">Contar con todas las firmas requeridas del cliente.</li>
+            <li id="txtinm4" data-section="Inmobiliarias" data-value="Pas3Comisi">La comisión es sobre el precio base, no participando los adicionales.</li>
+            <li id="txtinm5" data-section="Inmobiliarias" data-value="Pas4Comisi">La comisión se le paga a la agencia que deposite el apartado y el enganche.</li>
+            <li id="txtinm6" data-section="Inmobiliarias" data-value="Pas5Comisi">La persona que solicita el cobro de la comisión deberá ser el titular de la agencia inmobiliaria.</li>
+            <li id="txtinm7" data-section="Inmobiliarias" data-value="Pas6Comisi">La solicitud del cobro se hace mediante correo, el correo debe venir del correo del titular.</li>
+            <li id="txtinm8" data-section="Inmobiliarias" data-value="Pas7Comisi">Si el titular no puede pasar al cobro, en el correo deberá mencionar quién es la persona que se apersonará y esta persona deberá presentar su INE para identificarse.</li>
+            <li id="txtinm9" data-section="Inmobiliarias" data-value="Pas8Comisi">La persona que cobrará la comisión deberá de llevar impreso el formato de cobro de comisión.</li>
+            <li id="txtinm10" data-section="Inmobiliarias" data-value="Pas9Comisi">El tiempo promedio que se libera la comisión será de 15 a 30 días máximo.</li>
+            <li id="txtinm11" data-section="Inmobiliarias" data-value="Pas10Comisi">De acuerdo con la NOM 247 la comisión podrá solicitarse pasando los 5 días con los que cuenta el cliente para solicitar su devolución de enganche.</li>
+            <li id="txtinm12" data-section="Inmobiliarias" data-value="Pas11Comisi"> Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo.</li>
           </ul>
         </div>
         

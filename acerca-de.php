@@ -34,15 +34,15 @@
                 <div class="image-acerca" style="background-image: url('img/img4.jpg') !important; margin-top: -20px;"></div>
             </div>
             <div class="col-md-6 p-2">
-                <div class="image-acerca" style="background-image: url('img/img5.2.jpeg') !important; margin-top: 20px;"></div>
+                <div class="image-acerca" style="background-image: url('img/Pavo.jpeg') !important; margin-top: 20px;"></div>
             </div>
         </div>
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <h4 id="subtitac" class="subtitle ">Royal County San José Chakan</h4>
-                <h1 id="titac" class="tit ">ACERCA DE</h1>
-                <p id="txtac" class="">Forma parte de una de las comunidades más exclusivas; fusionando el lujo y la arquitectura orgánica, así como un profundo sentido ecológico, sustentable y de buen vivir. A tan solo 15 minutos de Mérida, ubicado en Chixchulub Pueblo, dentro del cuadrante poblacional con mayor plusvalía, ofrecemos residencias en venta desde 300 hasta 1,500m2 y macro lotes para proyectos de inversión. Conozca uno de los proyectos con mayor auge de la zona.</p>
-                <a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></a>
+                <h1 id="titac" class="tit" data-section="AcercaDe" data-value="AcerTitAcer">ACERCA DE</h1>
+                <p id="txtac" class="" data-section="AcercaDe" data-value="DescAcer" >Forma parte de una de las comunidades más exclusivas; fusionando el lujo y la arquitectura colonial, así como un profundo sentido ecológico, sustentable. A tan solo 20 minutos de Mérida y 10 minutos de la playa de Chicxulub Puerto. Dentro del cuadrante residencial de mayor plusvalía. Residencias con lotes desde 1,000 hasta 2,000 metros de terreno y 355 metros de construcción.</p>
+                <a id="btnac" href="productos.php" class="boton" data-section="AcercaDe" data-value="BotoVerAcer">Ver Más <i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
         

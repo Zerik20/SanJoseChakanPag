@@ -28,12 +28,26 @@
 
 <div class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
-        <h4 id="acsubtit" class="subtitle text-center" data-aos="fade-up">Arte Culinario</h4>
-        <h1 id="actit" class="tit text-center" data-aos="fade-up">PROXIMAMENTE</h1>
+    <h1 id="actit" class="tit text-center" data-aos="fade-up">Arte Culinario</h1>
+    <!--<h1 id="actit" class="tit text-center" data-aos="fade-up">PROXIMAMENTE</h1>-->
     <div class="p-3"></div>
-    
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <div class="image-relax" style="background-image: url('img/res.jpeg'); background-size: cover; background-position: center; height: 400px;"></div>
+        </div>
+    </div>
+    <div class="row justify-content-center mt-4"> <!-- Agregamos un margen top de 4 unidades -->
+        <div class="col-md-8 text-center">
+            <div class="image-relax" style="background-image: url('img/res2.jpeg'); background-size: cover; background-position: center; height: 400px;"></div>
+        </div>
+    </div>
 </div>
 
+
+
+<div class="p-5 m-5"></div>
+<div class="p-5 m-5"></div>
+<div class="p-5 m-5"></div>
 
 
 
