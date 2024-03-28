@@ -137,6 +137,9 @@ select#language:hover {
   margin-bottom: 10px;
   filter: invert(1);
 }
+.navscroll.fixed-top.inscroll img#logom2 {
+  filter: invert(1);
+}
 .navscroll.fixed-top.inscroll i.fas.fa-globe {
   color: black;
 }
@@ -646,7 +649,7 @@ h3.text-black.text-decoration-none:hover {
 
    }
    img#logo {
-    width: 126px;
+    width: 30%;
   }
   .cont-index-prox {
     margin: 0px;
@@ -792,7 +795,7 @@ h3.text-black.text-decoration-none:hover {
    
   }
   img#logom2 {
-    width: 49%;
+    width: 30%;
   }
   .navscroll.fixed-top.inscroll li.nav-item.mm2 a{
     color: #ffffff !important;

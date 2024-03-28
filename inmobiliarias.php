@@ -22,7 +22,7 @@
 
 <div id="cont-acerca-de" class="" style="background: url('img/arqbg.jpg') !important;">
 
-  <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
+  <div class="overlay h-50 w-50 d-flex justify-content-center align-items-end">
   
       
   </div>
