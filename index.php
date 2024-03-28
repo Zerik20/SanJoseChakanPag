@@ -173,7 +173,7 @@
         </div>
 -->
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/golf.jpg" data-lightbox="example-2" data-title="">
+            <a class="example-image-link" href="img/Estudios1.jpg" data-lightbox="example-2" data-title="">
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/Estudios1.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
