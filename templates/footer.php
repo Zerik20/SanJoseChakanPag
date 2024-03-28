@@ -44,9 +44,9 @@
                             <a class="text-white text-decoration-none" href="index.php"><li class="mb-2 link-footer"><p id="optfooter1" data-section="Footer" data-value="InicioFoot">Inicio</p></li></a>
                             <a class="text-white text-decoration-none" href="acerca-de.php"><li class="mb-2 link-footer"><p id="optfooter3" data-section="Footer" data-value="AcercaDeFoot">Acerca de</p></li></a>
                             <a class="text-white text-decoration-none" href="productos.php"><li class="mb-2 link-footer"><p id="optfooter4" data-section="Footer" data-value="ProductosFoot">Productos</p></li></a>
-                            <a class="text-white text-decoration-none" href="bienestar-y-relajacion.php"><li class="mb-2 link-footer"><p id="optfooter8" data-section="Footer" data-value="BiYReFoot">Wellness & Relaxation</p></li></a>
+                            <a class="text-white text-decoration-none" href="bienestar-y-relajacion.php"><li class="mb-2 link-footer"><p id="optfooter8" data-section="Footer" data-value="BiYReFoot">Bienestar y Relajación</p></li></a>
                             <a class="text-white text-decoration-none" href="emociones.php"><li class="mb-2 link-footer"><p id="optfooter9" data-section="Footer" data-value="EmoFoot">Emotions</p></li></a>
-                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot">Culinary Arts</p></li></a>
+                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot">Artes Culinarias</p></li></a>
                             
                         </ul>
                     </div>
