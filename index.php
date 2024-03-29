@@ -54,9 +54,9 @@
                     <h4 class="subtitle text-white" data-aos="fade-up">Royal County San José Chakan</h4>
                     <h1 id="titofre" class="tit text-white" data-aos="fade-up" data-section="MasterPlan" data-value="Ofrecemos">Ofrecemos</h1>
                     <ul class="mb-5" data-aos="fade-up">
-                        <li class="newlis1 d-flex mb-3"><span>1</span><p id="btnlist1Acceso" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="AccesoResi">Caseta de vigilancia con acceso controlado.</p></li>
-                        <li class="newlis1 d-flex mb-3"><span>2</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="CampGolf">Campo de golf de 9 hoyos.</p></li>
-                        <li class="newlis1 d-flex mb-3"><span>3</span><p id="btnlist1colegio" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="CasaHc">Casa club hacienda</p></li>
+                        <li class="newlis1 d-flex mb-3"><span>1</span><p id="btnlist1Acceso" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="AccesoResi">Caseta de Vigilancia con Acceso Controlado.</p></li>
+                        <li class="newlis1 d-flex mb-3"><span>2</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="CampGolf">Campo de Golf de 9 Hoyos.</p></li>
+                        <li class="newlis1 d-flex mb-3"><span>3</span><p id="btnlist1colegio" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="CasaHc">Casa-Club Hacienda</p></li>
                         <li class="newlis1 d-flex mb-3"><span>4</span><p id="btnlist1glamping" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="AmeDep">Amenidades Deportivas</p></li>
                         <li class="newlis1 d-flex mb-3"><span>5</span><p id="btnlist1comer" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="AreaSoci">Área Social</p></li>
                         <li class="newlis1 d-flex mb-3"><span>6</span><p id="btnlist1hotel" class="m-0 mt-1 txt-list1 fw-bold text-start text-white" data-section="MasterPlan" data-value="Helipuerto">Helipuerto</p></li>
