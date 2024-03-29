@@ -19,9 +19,18 @@ hr.hr-tit{
   letter-spacing: 4px;
   text-transform: uppercase;
 }
+.titroboto {
+  font-family: 'Roboto Serif', serif;
+  color: rgb(0, 0, 0);
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
 
 .subtitle {
   font-family: 'Julius Sans One', sans-serif;
+}
+.subtitleroboto {
+  font-family: 'Roboto Serif', serif;
 }
 
 .sombra{

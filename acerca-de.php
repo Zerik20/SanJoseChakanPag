@@ -39,7 +39,7 @@
         </div>
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
-                <h4 id="subtitac" class="subtitle ">Royal County San José Chakan</h4>
+                <h4 id="subtitac" class="subtitleroboto ">Royal County San José Chakan</h4>
                 <h1 id="titac" class="tit" data-section="AcercaDe" data-value="AcerTitAcer">ACERCA DE</h1>
                 <p id="txtac" class="" data-section="AcercaDe" data-value="DescAcer" >Forma parte de una de las comunidades más exclusivas; fusionando el lujo y la arquitectura colonial, así como un profundo sentido ecológico, sustentable. A tan solo 20 minutos de Mérida y 10 minutos de la playa de Chicxulub Puerto. Dentro del cuadrante residencial de mayor plusvalía. Residencias con lotes desde 1,000 hasta 2,000 metros de terreno y 355 metros de construcción.</p>
                 <a id="btnac" href="productos.php" class="boton" data-section="AcercaDe" data-value="BotoVerAcer">Ver Más <i class="fas fa-arrow-right"></i></a>
