@@ -394,14 +394,14 @@ li.newlis1 {
 }
 
 li.newlis1.d-flex.mb-3 span {
-  background: #789b37;
   display: inline-block;
-  width: 30px;
+  width: 20px;
   height: 30px;
   color: white;
   text-align: center;
-  border-radius: 22px;
+  border-radius: 10px;
   margin-right: 6px;
+  margin-left: 10px;
   padding: 3px;
 }
 /**button span {
