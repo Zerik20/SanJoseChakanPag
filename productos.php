@@ -27,23 +27,30 @@
     <h4 id="subtitpr" class="subtitle text-center">Nuestros</h4>
     <h1 id="titpro" class="tit text-center">PRODUCTOS</h1>
     <div class="row mt-5">
-        <div class="col-md-4">
-            <div class="cont-prod">
-                <div class="prdto-img sombra" style="background-image: url('img/lote.jpg') !important;">
-                    <div class="overlay-prod w-100 h-100 p-2">
-                        <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <i class="fas fa-map-marker-alt tit-prod text-white sombre-txt icon-pro"></i><h3 id="titlotespro" class="tit-prod text-white sombre-txt"> Lotes</h3>
-                        </div>
+    <div class="col-md-4">
+    <div class="cont-prod">
+        <!-- Imagen 1 -->
+        <div class="prdto-img sombra" style="background-image: url('img/lote.jpg') !important;">
+            <!-- Agrega la clase 'lightbox' a la imagen -->
+            <a href="img/lote.jpg" data-lightbox="gallery" data-title="Lotes">
+                <div class="overlay-prod w-100 h-100 p-2">
+                    <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                        <i class="fas fa-home tit-prod text-white sombre-txt icon-pro"></i> 
+                        <h3 id="titrespro" class="tit-prod text-white sombre-txt">Lotes</h3>
                     </div>
-                    
                 </div>
-                <div class="pro-info m-4 text-center">
-                    <!--p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi, earum?</p-->
-                    <a class="boton" href="https://wa.link/qt64z3"  target="_blank"><i class="fab fa-whatsapp"></i><span id="btnlpro"> Contacto</span></a>
-                </div>
-            </div>
-            
+            </a>
         </div>
+        <!-- Agrega más imágenes según sea necesario 
+        <a href="img/renders/Estudios1.jpg" data-lightbox="gallery" data-title="Departamentos"></a>
+        Última imagen -->
+        <a href="img/PrecioLote.png" data-lightbox="gallery" data-title="Precios de los lotes"></a>
+        <div class="pro-info m-4 text-center">
+                    <!--p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi, earum?</p-->
+                    <a class="boton" href="https://wa.link/sttovt"  target="_blank"><i class="fab fa-whatsapp"></i><span id="btndppro"> Contacto</span></a>
+                </div>
+    </div>
+</div>
         <div class="col-md-4">
     <div class="cont-prod">
         <!-- Imagen 1 -->
