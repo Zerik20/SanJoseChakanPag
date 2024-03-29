@@ -219,7 +219,7 @@
 <div class="">
     <div class="row d-flex align-items-start bg-black m-0">
         <div class="col-md-5 p-4 cont-btn-list2">
-            <h2 id="titacc" class="text-white tit ame-club"  data-aos="fade-up" data-section="Amenidades" data-value="TituloAmeni">Amenidades de la casa club</h2>
+            <h2 id="titacc" class="text-white tit ame-club"  data-aos="fade-up" data-section="Amenidades" data-value="TituloAmeni">Amenidades</h2>
             <p id="txtacc" class="text-white txt-amenidades"  data-aos="fade-up" data-section="Amenidades" data-value="DescAmeni">Bienvenido, aquí encontrarás las mas lujosas instalaciones para disfrutar de tu tiempo libre y relajarte en un entorno excepcional. </p>
             <div class="nav row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="horizontal">
                 <div class="col-md-9 cont-lista2"  data-aos="fade-up">
