@@ -73,16 +73,16 @@
           <p id="txtinm0" class="text-center" data-section="Inmobiliarias" data-value="MasterSubC">Pongase en contacto para adquirir alguno de nuestros lotes disponibles o para resolver sus dudas.</p>
           <div class="py-2"></div>
           <div class="d-flex justify-content-center cont-btn-inm">
-            <a id="btninm1" href="https://wa.link/ebt4dl" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true"></i data-section="Inmobiliarias" data-value="BotoConC"> Contáctanos</a>
+            <a id="btninm1" href="https://wa.link/ebt4dl" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true" data-section="Inmobiliarias" data-value="BotoConC"></i ></a>
           </div>
           
           <div class="row mt-5">
-              <div class="col-md-9 bg-center sombra mp-cont-inm" style="">
+              <div class="col-md-9 bg-center sombra mp-cont-inm">
                 
                 <div class="movil">
                   <div class="text-center">
                     <a href="documentos/MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Master Plan</span> </a>
-                    <a href="documentos/MASTER PLAN_.pdf"  download="MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descaragar Master Plan</span> </a>
+                    <a href="documentos/MASTER PLAN_.pdf"  download="MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Master Plan</span> </a>
                   </div> 
                 </div>
                 <embed src="documentos/MASTER PLAN_.pdf" type="application/pdf" width="100%" height="700px" />
