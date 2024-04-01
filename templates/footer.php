@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="col-md-8 m-0 p-0" style="background-image: url('img/.jpeg') !important;">
-            <div class="overlay-footer p-4">
+            <div class="overlay-footer p-4" style="background: #9d5248;">
                 <div class="row w-100 p-0 m-0">
                     <div class="col-md-3 p-5 sec-footer">
                         <h5 id="titfooter1" class="text-white mb-3 tit-prod" data-section="Footer" data-value="MenuFoot">MENÚ</h5>
