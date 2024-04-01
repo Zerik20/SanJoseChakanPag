@@ -18,7 +18,7 @@
                 </ul>
             </div>
             <div id="col-menu-2" class="col-md-2 pt-2 text-center text-white">
-                <a href="index.php"><img id="logo" src="img/logoblanco.png" alt="logo-RCC"></a>
+                <a href="index.php"><img id="logo" src="img/logoblanco.svg" alt="logo-RCC"></a>
             </div>
             <div id="col-menu-1" class="col-md-5 text-center text-white">
                 <ul class="nav justify-content-end">
@@ -42,19 +42,65 @@
         </div>
     </div>
 </div>
+<style>
+    /* Estilo para el fondo blanco del menú desplegable */
+    .offcanvas-body {
+        background-color: #ffffff; /* Color blanco */
+    }
+    .offcanvas-header {
+        background-color: #ffffff; /* Color blanco */
+    }
+    #iniciom {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #acercam {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #productosm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #legalm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #descyrelm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #emocionesm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #artculm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #numm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #mailm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #Espam {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+    #Inglm {
+    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    }
+
+
+    
+</style>
+
 <div id="header-movil">
     <div class="">
         <div class="row w-100 p-0 m-0">
             <nav class="navbar navbar-dark w-100 navscroll fixed-top ">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index.php"><img id="logom2" src="img/logoblanco.png" alt="logo-RCC"></a>
+                    <a class="navbar-brand" href="index.php"><img id="logom2" src="img/logoblanco.svg" alt="logo-RCC"></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
                         <div class="offcanvas-header">
-                            <a href="index.php"><img id="logo" src="img/logoblanco.png" alt="logo-RCC"></a>
-                            <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                            <a href="index.php"><img id="logom1" src="img/logoblanco.svg" alt="logo-RCC"></a>
+                            <button type="button" class="btn-close btn-close-red" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                         </div>
                         <div class="offcanvas-body">
                             <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
@@ -68,16 +114,16 @@
                                 <li class="nav-item mm2 menu"><a id="artculm" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias">Artes Culinarias</a></li>
                             </ul>
                             <ul class="nav justify-content-center mt-5">
-                                <li class="nav-item mm2"><a href="tel:9997001585" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</a></li>
-                                <li class="nav-item mm2"><a type="button" href="mailto:info@sanjosechakan.com" class="nav-link link-body-emphasis px-2 text-white" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-trigger="hover focus" data-bs-content="info@sanjosechakan.com"><i class="fas fa-envelope"></i></a></li>
+                                <li class="nav-item mm2"><a id="numm" href="tel:9997001585" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</a></li>
+                                <li class="nav-item mm2"><a id="mailm" type="button" href="mailto:info@sanjosechakan.com" class="nav-link link-body-emphasis px-2 text-white" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-trigger="hover focus" data-bs-content="info@sanjosechakan.com"><i class="fas fa-envelope"></i></a></li>
                             </ul>
                             <form class="mt-3" style="text-align: center;" id="LangOptM"> 
-                                <label class="mx-2">
-                                    <input type="radio" name="idioma" data-language="es">
+                                <label id="Espam" class="mx-2">
+                                    <input  type="radio" name="idioma" data-language="es">
                                     Español
                                 </label>
-                                <label class="mx-2">
-                                    <input type="radio" name="idioma" data-language="en">
+                                <label id="Inglm" class="mx-2">
+                                    <input  type="radio" name="idioma" data-language="en">
                                     English
                                 </label>
                             </form>

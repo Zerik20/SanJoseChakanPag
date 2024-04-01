@@ -116,7 +116,7 @@ select#language:hover {
   box-shadow: 1px 1px 15px 1px #0000009e;
 }
 .navscroll.fixed-top.inscroll li.nav-item a{
- color: #000000 !important;
+ color: #96443a !important; /* Cambiar color de texto a #96443a */
 }
 .navscroll.fixed-top.inscroll li.nav-item a:hover{
   color: #789b37 !important;
@@ -130,7 +130,7 @@ select#language:hover {
   
 }
 .navscroll.fixed-top.inscroll ul.nav {
-  border-bottom: 1px solid rgb(0, 0, 0);
+  border-bottom: 1px solid #96443a;
   padding-bottom: 2px;
 }
 .navscroll.fixed-top.inscroll div#col-menu-1 {
@@ -140,17 +140,36 @@ select#language:hover {
 .navscroll.fixed-top {
   transition: 0.5s;
 }
+.navscroll.fixed-top img#logo {
+  transition: 0.5s;
+  filter: invert(0.45) brightness(10);
+}
 .navscroll.fixed-top.inscroll img#logo {
   width: 58%;
   transition: 0.5s;
   margin-bottom: 10px;
   filter: invert(1);
 }
+
 .navscroll.fixed-top.inscroll img#logom2 {
   filter: invert(1);
 }
+.navscroll.fixed-top img#logom2 {
+  transition: 0.5s;
+  filter: invert(0.45) brightness(10);
+}
+.navscroll.fixed-top img#logom1 {
+  transition: 0.5s;
+  filter: invert(1);
+  width: 58%;
+}
+
+
 .navscroll.fixed-top.inscroll i.fas.fa-globe {
-  color: black;
+  color: #96443a !important; /* Cambiar color del ícono de idioma a #96443a */
+}
+.navscroll.fixed-top.inscroll select#LangOp {
+  color: #96443a !important; /* Cambiar color del selector de idioma a #96443a */
 }
 .navscroll.fixed-top img#logo {
   transition: 0.5s;
@@ -158,6 +177,7 @@ select#language:hover {
 a.nav-link.link-body-emphasis.px-2.text-white {
   text-transform: uppercase;
 }
+
 
 /**FOOTER**/
 h5.txt-footer{
@@ -811,8 +831,8 @@ h3.text-black.text-decoration-none:hover {
    }
   
   .navscroll.fixed-top.inscroll button.navbar-toggler {
-    background: #0000006b !important;
-    border: 2px solid #789b37;
+    background: #96443a6b !important;
+    border: 2px solid #96443a;
   }
   .col-md-9.m-0.p-0 {
     order: 2;
