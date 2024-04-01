@@ -13,7 +13,7 @@
 <body>
 <?php include('templates/header.php'); ?>
 <div class="slider">
-  <div class="image" style="background-image: url(https://sanjosechakan.com/img/img2.jpg);"></div>
+  <div class="image" style="background-image: url(https://sanjosechakan.com/img/imgnew.jpg);"></div>
   <div class="image" style="background-image: url(https://sanjosechakan.com/img/4.jpeg);"></div>
   <div class="image" style="background-image: url(https://sanjosechakan.com/img/img3.jpg);"></div>
   <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
