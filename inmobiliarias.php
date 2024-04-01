@@ -1351,11 +1351,11 @@
         <h1 id="stitinm3" class="tit text-center">técnica</h1>
 
         <div class="w-100">
-          <embed src="documentos/Fichatecnica.pdf" type="application/pdf" width="100%" height="600px" />
+          <embed src="documentos/FichaTecnica.pdf" type="application/pdf" width="100%" height="600px" />
           <div class="movil">
             <div class="text-center">
-              <a href="documentos/Fichatecnica.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Ficha técnica</span> </a>
-              <a href="documentos/Fichatecnica.pdf"  download="Fichatecnica.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Ficha técnica</span> </a>
+              <a href="documentos/FichaTecnica.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Ficha técnica</span> </a>
+              <a href="documentos/FichaTecnica.pdf"  download="FichaTecnica.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Ficha técnica</span> </a>
             </div>
           </div>
         </div>
