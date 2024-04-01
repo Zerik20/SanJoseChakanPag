@@ -13,7 +13,7 @@
 <body>
 <?php include('templates/header.php'); ?>
 <div class="slider">
-  <div class="image" style="background-image: url(https://sanjosechakan.com/img/img2.jpg);"></div>
+  <div class="image" style="background-image: url(https://sanjosechakan.com/img/imgnew.jpg);"></div>
   <div class="image" style="background-image: url(https://sanjosechakan.com/img/4.jpeg);"></div>
   <div class="image" style="background-image: url(https://sanjosechakan.com/img/img3.jpg);"></div>
   <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
@@ -51,8 +51,8 @@
         <div class="col-md-3 p-0 m-0 cont-list1" style="background: white;">
     <div class="d-flex align-items-center h-100 p-3">
         <div>
-            <h4 class="subtitle" style="color: #757575;" data-aos="fade-up">Royal County San José Chakan</h4>
-            <h1 id="titofre" class="tit" style="color: #757575;" data-aos="fade-up" data-section="MasterPlan" data-value="Ofrecemos">Ofrecemos</h1>
+            <h4 class="subtitle" style="color: #400207;" data-aos="fade-up">Royal County San José Chakan</h4>
+            <h1 id="titofre" class="tit" style="color: #730D1F;" data-aos="fade-up" data-section="MasterPlan" data-value="Ofrecemos">Ofrecemos</h1>
             <ul class="mb-5" data-aos="fade-up" style="list-style: none; padding-left: 0;">
                 <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">1</span><p id="btnlist1Acceso" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AccesoResi"> Caseta de Vigilancia con Acceso Controlado.</p></li>
                 <hr style="border-top: 1px solid #757575; margin: 5px 0;">
