@@ -40,7 +40,7 @@
             <div data-aos="fade-up">
                 <img class="mb-5" src="img/eternal-logo2.png" alt="">
                 <h4 id="subtitac" class="subtitle " data-section="BieyRela" data-value="NombreBieRel">Eternal Clinical Beauty & Spa</h4>
-                <h1 id="titac" class="tit " data-section="BieyRela" data-value="EsloganBieRel">Wellness & Relaxation</h1>
+                <h1 id="titac" class="tit " data-section="BieyRela" data-value="EsloganBieRel" style="color: brown;">Wellness & Relaxation</h1>
                 <p id="txtac" class="" data-section="BieyRela" data-value="DescBieRel">Un espacio creado especialmente para ti, detente, respira y relájate en la clinica spa Eternal Beauty. Dejanos consentirte, ríndete a la alegría, la dicha pura y el deleite sensorial. Disfruta de un reino de belleza con total confianza y serenidad.</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>

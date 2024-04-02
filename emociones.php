@@ -28,7 +28,7 @@
 
 <div class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
-    <h1 id="actit" class="tit text-center" data-aos="fade-up">KIDS CLUB</h1>
+    <h1 id="actit" class="tit text-center" data-aos="fade-up" style="color: brown;">KIDS CLUB</h1>
     <!--<h1 id="actit" class="tit text-center" data-aos="fade-up">PROXIMAMENTE</h1>-->
     <div class="p-3"></div>
     <div class="row justify-content-center">

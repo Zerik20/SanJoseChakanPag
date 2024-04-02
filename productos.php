@@ -25,7 +25,7 @@
 
 <div class="container my-5 py-5" data-aos="fade-up">
     <h4 id="subtitpr" class="subtitle text-center">Nuestros</h4>
-    <h1 id="titpro" class="tit text-center">PRODUCTOS</h1>
+    <h1 id="titpro" class="tit text-center" style="color: brown;">PRODUCTOS</h1>
     <div class="row mt-5">
     <div class="col-md-4">
     <div class="cont-prod">
