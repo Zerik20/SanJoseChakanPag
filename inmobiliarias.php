@@ -69,7 +69,7 @@
     
       <div class="container text-center" data-aos="fade-up">
           <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-          <h1 id="" class="tit text-center">Master Plan</h1>
+          <h1 id="" class="tit text-center" style="color: brown;">Master Plan</h1>
           <p id="txtinm0" class="text-center" data-section="Inmobiliarias" data-value="MasterSubC">Pongase en contacto para adquirir alguno de nuestros lotes disponibles o para resolver sus dudas.</p>
           <div class="py-2"></div>
           <div class="d-flex justify-content-center cont-btn-inm">
@@ -125,7 +125,7 @@
       </!--div-->
       <div>
         <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="" class="tit text-center">Brochure</h1>
+        <h1 id="" class="tit text-center" style="color: brown;">Brochure</h1>
 
         <div id="contbro" >
           <div class="d-flex">
@@ -172,7 +172,7 @@
     
       <div class="w-100">
         <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="" class="tit text-center">Chepinas</h1>
+        <h1 id="" class="tit text-center" style="color: brown;">Chepinas</h1>
 
 
         <div class="accordion W-100" id="accordionExample">
@@ -1293,7 +1293,7 @@
     
       <div class="w-100">
         <h4 id="titinm1" class="subtitle text-center" data-section="Inmobiliarias" data-value="TitComisi">Pago de comisiones.</h4>
-        <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi">Comisión: 4%</h1>
+        <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi" style="color: brown;">Comisión: 4%</h1>
 
         <div class="text-center w-100">
           <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4" data-section="Inmobiliarias" data-value="BotoComisi"> Descaragar Formato de cobro de comisión</span></a>
@@ -1301,7 +1301,7 @@
 
         <div class="px-5 mt-5">
           <p id="txtinm1" data-section="Inmobiliarias" data-value="DescComisi">La comisión se paga en la promesa de compraventa una vez que el cliente haya dado el 30% de enganche. El pago de la comisión es via transferencia o cheque a cuenta, en moneda nacional.</p>
-          <h2 id="titinm2" data-section="Inmobiliarias" data-value="TitProComisi">Proceso para el cobro de comisión:</h2>
+          <h2 id="titinm2" data-section="Inmobiliarias" data-value="TitProComisi"style="color: brown;">Proceso para el cobro de comisión:</h2>
           <ul>
             <li id="txtinm2" data-section="Inmobiliarias" data-value="Pas1Comisi">Se requiere la confirmación y comprobante del pago del enganche.</li>
             <li id="txtinm3" data-section="Inmobiliarias" data-value="Pas2Comisi">Contar con todas las firmas requeridas del cliente.</li>
@@ -1326,7 +1326,7 @@
     
       <div class="w-100">
         <h4 id="titinm3" class="subtitle text-center">Curriculum </h4>
-        <h1 id="stitinm2" class="tit text-center">de la desarrolladora</h1>
+        <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
 
         <div class="w-100">
           <embed src="documentos/cv.pdf" type="application/pdf" width="100%" height="600px" />
@@ -1348,7 +1348,7 @@
     
       <div class="w-100">
         <h4 id="titinm4" class="subtitle text-center">Ficha  </h4>
-        <h1 id="stitinm3" class="tit text-center">técnica</h1>
+        <h1 id="stitinm3" class="tit text-center" style="color: brown;">técnica</h1>
 
         <div class="w-100">
           <embed src="documentos/FichaTecnica_RC.pdf" type="application/pdf" width="100%" height="600px" />
@@ -1370,7 +1370,7 @@
     
       <div class="w-100">
         <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="titinm5" class="tit text-center">Formatos</h1>
+        <h1 id="titinm5" class="tit text-center" style="color: brown;">Formatos</h1>
 
         <div class="row mt-5">
           <div class="col-md-2 mx-2 mb-3">
@@ -1407,7 +1407,7 @@
 
       <div class="w-100">
         <h4 id="stitinm4" class="subtitle text-center">Fotos y videos</h4>
-        <h1 id="titinm6" class="tit text-center"> de avance</h1>
+        <h1 id="titinm6" class="tit text-center" style="color: brown;"> de avance</h1>
         
       </div>
       
@@ -1426,7 +1426,7 @@
     
       <div class="w-100">
         <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
-        <h1 id="titinm7" class="tit text-center">disponibilidad</h1>
+        <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
 
         <div class="w-100">
           <embed src="documentos/Listadepreciosyfinanciamientos2.pdf" type="application/pdf" width="100%" height="600px"/>
@@ -2412,7 +2412,7 @@
     
       <div class="w-100">
         <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="" class="tit text-center">Renders</h1>
+        <h1 id="" class="tit text-center"style="color: brown;">Renders</h1>
 
      
 
@@ -2510,7 +2510,7 @@
     
       <div class="w-100">
         <h4 id="stitinm6" class="subtitle text-center">Ubicación </h4>
-        <h1 id="titinm8" class="tit text-center mb-5">satelital</h1>
+        <h1 id="titinm8" class="tit text-center mb-5" style="color: brown;">satelital</h1>
 
         <div class="text-center w-100">
           <a href="documentos/HaciendaSanJoseChakan.kml" download="HaciendaSanJoseChakan.kml" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
