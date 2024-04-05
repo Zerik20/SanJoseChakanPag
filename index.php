@@ -128,8 +128,8 @@
             </a>
         </div>
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/boda.jpeg" data-lightbox="example-2" data-title="">
-                <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpeg') !important;">
+            <a class="example-image-link" href="img/boda.jpg" data-lightbox="example-2" data-title="">
+                <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
                             <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-glass-cheers me-2"></i><h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard"> Area de eventos</h3></div>
