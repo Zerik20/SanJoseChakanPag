@@ -39,50 +39,47 @@
 
 <div class="cont1-acerca-de sombra">
     <div class="row w-100 m-0 p-0 d-flex">
-        <div class="col-md-9 m-0 p-0" style="background-image: url(img/.png); height: 100%; background-size: contain; background-position: center; background-repeat: no-repeat; background-color: #bfc0c5;">
-            
-            
-
-            <img class="h-100" src="img/mpsjc.png" alt="">
-
-
-
+        <div class="col-md-9 m-0 p-0" style="height: 100%; background-color: #ffffff;">
+            <img class="h-100" src="img/MasterPlan.jpg" alt="" style="max-width: 100%; height: auto;">
         </div>
         <div class="col-md-3 p-0 m-0 cont-list1" style="background: white;">
-    <div class="d-flex align-items-center h-100 p-3">
-        <div>
-            <h4 class="subtitle" style="color: #400207;" data-aos="fade-up">Royal County San José Chakan</h4>
-            <h1 id="titofre" class="tit" style="color: #730D1F;" data-aos="fade-up" data-section="MasterPlan" data-value="Ofrecemos">Ofrecemos</h1>
-            <ul class="mb-5" data-aos="fade-up" style="list-style: none; padding-left: 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">1</span><p id="btnlist1Acceso" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AccesoResi"> Caseta de Vigilancia con Acceso Controlado.</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">2</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CampGolf"> Campo de Golf de 9 Hoyos.</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">3</span><p id="btnlist1colegio" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CasaHc"> Casa-Club Hacienda</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">4</span><p id="btnlist1glamping" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AmeDep"> Amenidades Deportivas</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">5</span><p id="btnlist1comer" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AreaSoci"> Área Social</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">6</span><p id="btnlist1hotel" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Helipuerto"> Helipuerto</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">7</span><p id="btnlist1hotel7" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Market"> Market Place</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">8</span><p id="btnlist1hotel8" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Estudios"> Estudio</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">9</span><p id="btnlist1hotel9" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Glamping"> Glamping</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">10</span><p id="btnlist1hotel10" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "ColSui"> Colegio Suizo</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">11</span><p id="btnlist1hotel11" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "MayaKi"> Maya Kingdom</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">12</span><p id="btnlist1hotel12" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "PetPa"> Pet Park</p></li>
-                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-            </ul>
-            <a id="btnlist1" href="acerca-de.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></a>
+            <div class="d-flex align-items-center h-100 p-3">
+                <div>
+                    <h4 class="subtitle" style="color: #400207;" data-aos="fade-up">Royal County San José Chakan</h4>
+                    <h1 id="titofre" class="tit" style="color: #730D1F;" data-aos="fade-up" data-section="MasterPlan" data-value="Ofrecemos">Ofrecemos</h1>
+                    <ul class="mb-5" data-aos="fade-up" style="list-style: none; padding-left: 0;">
+                        <!-- Tus elementos de lista -->
+                                <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">2</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CampGolf"> Campo de Golf de 9 Hoyos.</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">3</span><p id="btnlist1colegio" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CasaHc"> Casa-Club Hacienda</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">4</span><p id="btnlist1glamping" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AmeDep"> Amenidades Deportivas</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">5</span><p id="btnlist1comer" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AreaSoci"> Área Social</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">6</span><p id="btnlist1hotel" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Helipuerto"> Helipuerto</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">7</span><p id="btnlist1hotel7" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Market"> Market Place</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">8</span><p id="btnlist1hotel8" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Estudios"> Estudio</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">9</span><p id="btnlist1hotel9" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="Glamping"> Glamping</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">10</span><p id="btnlist1hotel10" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "ColSui"> Colegio Suizo</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">11</span><p id="btnlist1hotel11" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "MayaKi"> Maya Kingdom</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">12</span><p id="btnlist1hotel12" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section= "MasterPlan" data-value= "PetPa"> Pet Park</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                    </ul>
+                    <a id="btnlist1" href="acerca-de.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
 
 <!--Aqui termina la lista-->        
     </div>
