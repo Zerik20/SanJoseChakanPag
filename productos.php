@@ -54,7 +54,7 @@
         <div class="col-md-4">
     <div class="cont-prod">
         <!-- Imagen 1 -->
-        <div class="prdto-img sombra" style="background-image: url('img/renders/Estudios3.jpg') !important;">
+        <div class="prdto-img sombra" style="background-image: url('img/renders/Estudios1.jpg') !important;">
             <!-- Agrega la clase 'lightbox' a la imagen -->
             <a href="img/renders/Estudios3.jpg" data-lightbox="gallery" data-title="Departamentos">
                 <div class="overlay-prod w-100 h-100 p-2">
