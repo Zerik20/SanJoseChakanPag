@@ -50,6 +50,8 @@
                     <ul class="mb-5" data-aos="fade-up" style="list-style: none; padding-left: 0;">
                         <!-- Tus elementos de lista -->
                                 <hr style="border-top: 1px solid #757575; margin: 5px 0;">
+                                <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">1</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="AccesoResi"> Caseta de vigilancia con acceso controlado.</p></li>
+                        <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">2</span><p id="imhtitlistcampogolf" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CampGolf"> Campo de Golf de 9 Hoyos.</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #757575;">></span><span style="color: #757575;">3</span><p id="btnlist1colegio" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #757575; margin-left: 5px;" data-section="MasterPlan" data-value="CasaHc"> Casa-Club Hacienda</p></li>
