@@ -222,7 +222,10 @@
     <div class="row d-flex align-items-start m-0">
         <div class="col-md-5 p-4 cont-btn-list2">
             <h2 id="titacc" class="tit ame-club" style="color: #96443a; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);"  data-aos="fade-up" data-section="Amenidades" data-value="TituloAmeni">Amenidades</h2>
-            <p id="txtacc" class="amenidades" style="color: #000000; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);" data-aos="fade-up" data-section="Amenidades" data-value="DescAmeni">Bienvenido, aquí encontrarás las más lujosas instalaciones para disfrutar de tu tiempo libre y relajarte en un entorno excepcional.</p>
+            <div style="background-color: rgba(255, 255, 255, 0.5); padding: 10px; border-radius: 20px;margin-bottom: 10px;">
+    <p id="txtacc" class="amenidades" style="color: #000000; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);" data-aos="fade-up" data-section="Amenidades" data-value="DescAmeni">Bienvenido, aquí encontrarás las más lujosas instalaciones para disfrutar de tu tiempo libre y relajarte en un entorno excepcional.</p>
+</div>
+
             <div class="nav row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="horizontal">
                 <div class="col-md-9 cont-lista2"  data-aos="fade-up">
                     <button class="nav-link active text-black list-club-op w-100 d-flex" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list1acc" class="m-0 text-black" data-section="Amenidades" data-value="CampGolfAmeni"> Campo de Golf</p></button>
