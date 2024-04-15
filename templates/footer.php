@@ -27,7 +27,7 @@
 
 <div id="footer" class="bg-black">
     <div class="row w-100 m-0 p-0">
-        <div class="col-md-4 m-0 p-0" style="background-image: url('img/casa2.jpg') !important; background-size: cover; background-position: center;">
+        <div class="col-md-4 m-0 p-0" style="background-image: url('img/familia1.jpg') !important; background-size: cover; background-position: center;">
             <div class="text-center p-5 w-100 h-100 d-flex justify-content-center align-items-center" style="background: rgb(0 0 0 / 65%);">
                 <div>
                     <img class="w-50 mb-3" src="img/logoblanco.png" alt="">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 <div class="py-2" style="border-top: 1px solid white;">
-                    <p id="copyfooter" class="text-white" data-section="Footer" data-value="CopyFoot">©2023 Royal County San José Chakan; todos los derechos reservados.</p>
+                    <p id="copyfooter" class="text-white" data-section="Footer" data-value="CopyFoot">©2024 Royal County San José Chakan; todos los derechos reservados.</p>
                 </div>
             </div>
         </div>
