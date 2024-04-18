@@ -70,7 +70,7 @@
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">10</span><p id="btnlist1hotel10" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section= "MasterPlan" data-value= "ColSui"> Colegio Suizo</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">11</span><p id="btnlist1hotel11" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section= "MasterPlan" data-value= "MayaKi"> Maya Kingdom</p></li>
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">11</span><p id="btnlist1hotel11" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section= "MasterPlan" data-value= "MayaKi"> Mayan Kingdom</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">12</span><p id="btnlist1hotel12" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section= "MasterPlan" data-value= "PetPa"> Pet Park</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
