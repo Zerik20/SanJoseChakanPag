@@ -3,7 +3,7 @@
         "Inicio": "INICIO",
         "AcercaDe": "ACERCA DE",
         "Productos": "PRODUCTOS",
-        "AvisoLegal": "AVISO LEGAL",
+        "AvisoLegal": "COTIZADOR",
         "BienestaryRelajacion": "BIENESTAR Y RELAJACIÓN",
         "Emociones": "EMOCIONES",
         "ArtesCulinarias": "ARTES CULINARIAS"
@@ -110,6 +110,7 @@
     },
     "AcercaDe":{
         "AcerTitAcer": "ACERCA DE",
+        "AcerTitCoti": "COTIZADOR",
         "DescAcer":"Forma parte de una de las comunidades más exclusivas; fusionando el lujo y la arquitectura colonial, así como un profundo sentido ecológico, sustentable. A tan solo 20 minutos de Mérida y 10 minutos de la playa de Chicxulub Puerto. Dentro del cuadrante residencial de mayor plusvalía. Residencias con lotes desde 1,000 hasta 2,000 metros de terreno y 355 metros de construcción.",
         "BotoVerAcer": "Ver Más"
     },

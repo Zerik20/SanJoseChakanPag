@@ -8,7 +8,7 @@
                     <!--li class="nav-item menu"><a id="boletin" href="boletin.php" class="nav-link link-body-emphasis px-2 text-white">BOLETIN</a></!--li-->
                     <li class="nav-item menu"><a id="acerca" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe">ACERCA DE</a></li>
                     <li class="nav-item menu"><a id="productos" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos">PRODUCTOS</a></li>
-                    <li class="nav-item menu"><a id="legal" class="nav-link link-body-emphasis px-2 text-white disabled" aria-disabled="true" data-section="Header" data-value="AvisoLegal">LEGAL</a></li>
+                    <li class="nav-item menu"><a id="legal" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white"  data-section="Header" data-value="AvisoLegal">COTIZADOR</a></li>
                 </ul>
                 <ul class="nav me-auto" style="border: none;">
                     <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-facebook-f"></i></a></li>
@@ -108,7 +108,7 @@
                                 <!--li class="nav-item mm2 menu"><a id="boletinm" href="boletin.php" class="nav-link link-body-emphasis px-2 text-white">BOLETIN</a></!--li-->
                                 <li class="nav-item mm2 menu"><a id="acercam" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe">ACERCA DE</a></li>
                                 <li class="nav-item mm2 menu"><a id="productosm" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos">PRODUCTOS</a></li>
-                                <li class="nav-item menu"><a id="legalm" class="nav-link link-body-emphasis px-2 text-white disabled" aria-disabled="true" data-section="Header" data-value="AvisoLegal">LEGAL</a></li>
+                                <li class="nav-item menu"><a id="legalm" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AvisoLegal">LEGAL</a></li>
                                 <li class="nav-item mm2 menu"><a id="descyrelm" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white" aria-current="page" data-section="Header" data-value="BienestaryRelajacion">Bienestar y Relajacion</a></li>
                                 <li class="nav-item mm2 menu"><a id="emocionesm" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Emociones">Emociones</a></li>
                                 <li class="nav-item mm2 menu"><a id="artculm" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias">Artes Culinarias</a></li>

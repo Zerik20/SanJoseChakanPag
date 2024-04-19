@@ -3,7 +3,7 @@
         "Inicio": "HOME",
         "AcercaDe": "ABOUT US",
         "Productos": "PRODUCTS",
-        "AvisoLegal": "LEGAL ADVICE",
+        "AvisoLegal": "QUOTER",
         "BienestaryRelajacion": "WELLNESS AND RELAXATION",
         "Emociones": "EMOTIONS",
         "ArtesCulinarias": "CULINARY ARTS"
@@ -111,6 +111,7 @@
         },
     "AcercaDe":{
         "AcerTitAcer": "ABOUT US",
+        "AcerTitCoti": "QUOTER",
         "DescAcer":"It is part of one of the most exclusive communities; fusing luxury and colonial architecture, as well as a deep ecological, sustainable sense. Just 20 minutes from Mérida and 10 minutes from Chixchulub Puerto beach. Within the residential quadrant with the highest capital gains. Residences with lots from 1,000 to 2,000 meters of land and 355 meters of construction.",
         "BotoVerAcer": "See more"
         },
