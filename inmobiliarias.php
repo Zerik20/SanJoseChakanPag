@@ -1374,7 +1374,7 @@
 
         <div class="row mt-5">
           <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES.pdf" download="DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES.pdf">
+            <a class="text-decoration-none" href="documentos/DocumentacionInmuebles.pdf" download="DocumentacionInmuebles.pdf">
               <img class="w-100" src="img/pdfd.png" alt="">
               <h5 id="fdoc1" class="text-center mt-2 text-black">Documentos para la compraventa</h5>
             </a>
@@ -1388,7 +1388,7 @@
 
           </div>
           <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/ConstanciadeSituacionFiscal.pdf" download="ConstanciadeSituacionFiscal.pdf">
+            <a class="text-decoration-none" href="documentos/ConstanciaSituacionFiscal.pdf" download="ConstanciaSituacionFiscal.pdf">
               <img class="w-100" src="img/pdfd.png" alt="">
               <h5 id="fdoc3" class="text-center mt-2 text-black">Para solicitar tu Constancia de Situación Fiscal</h5>
             </a>
