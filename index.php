@@ -299,7 +299,7 @@
                     </div>
                 </div>
                 <div class="tab-pane h-100 fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/Parkpet.jpg') !important; background-size: cover; background-position: center;">
+                    <div class="w-100 h-100" style="background-image: url('img/pets.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
