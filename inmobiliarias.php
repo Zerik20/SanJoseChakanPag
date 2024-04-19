@@ -1374,7 +1374,7 @@
 
         <div class="row mt-5">
           <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES..pdf" download="DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES..pdf">
+            <a class="text-decoration-none" href="documentos/DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES.pdf" download="DOCUMENTACIONPARALACOMPRAVENTADEINMUEBLES.pdf">
               <img class="w-100" src="img/pdfd.png" alt="">
               <h5 id="fdoc1" class="text-center mt-2 text-black">Documentos para la compraventa</h5>
             </a>
