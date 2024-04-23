@@ -1344,29 +1344,25 @@
     
     </div>
     <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0">
-    
-    
-      <div class="w-100">
-        <h4 id="titinm4" class="subtitle text-center">Ficha  </h4>
-        <h1 id="stitinm3" class="tit text-center" style="color: brown;">técnica</h1>
-
-        <div class="w-100">
-          <embed src="documentos/FichaTecnicaSolabell.pdf" type="application/pdf" width="100%" height="600px" />
-          <div class="movil">
-            <div class="text-center">
-              <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Ficha técnica</span> </a>
-              <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Ficha técnica</span> </a>
-            </div>
-          </div>
+  <div class="w-100">
+    <h4 id="titinm4" class="subtitle text-center">Ficha</h4>
+    <h1 id="stitinm3" class="tit text-center" style="color: brown;">técnica</h1>
+    <div class="w-100">
+      <object data="documentos/FichaTecnicaSolabell.pdf" type="application/pdf" width="100%" height="600px">
+        <!-- Aquí puedes agregar un mensaje alternativo o un enlace de descarga en caso de que el navegador no pueda mostrar el PDF -->
+        <p>El navegador no puede mostrar este PDF. <a href="documentos/FichaTecnicaSolabell.pdf">Haz clic aquí para descargarlo</a>.</p>
+      </object>
+      <div class="movil">
+        <div class="text-center">
+          <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Ficha técnica</span></a>
+          <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descargar Ficha técnica</span></a>
         </div>
-
-
-      </div>  
-    
-    
+      </div>
     </div>
-    <div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0">
-    
+  </div>
+</div>
+<div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0">
+
     
       <div class="w-100">
         <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
