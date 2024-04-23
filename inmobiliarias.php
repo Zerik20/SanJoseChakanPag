@@ -825,7 +825,7 @@
     <h4 id="titinm4" class="subtitle">Ficha</h4>
     <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
     <div class="w-100">
-        <iframe src="https://drive.google.com/file/d/1ivmEZIsK3nBQb2I6rHXCr3hbwPXjwLXP/view?usp=drive_link" width="100%" height="600px"></iframe>
+        <iframe src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
     </div>
 </div>
         </div>
