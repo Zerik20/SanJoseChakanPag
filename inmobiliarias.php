@@ -1365,8 +1365,6 @@
         </!--a>
       </div>
     </!--div-->
-  </div>
-</div>
 <div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0">
 
     
