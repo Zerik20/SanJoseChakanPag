@@ -798,22 +798,30 @@
         </div>
       </div>
 
-    <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
-    
-    
-      <div class="w-100">
-        <h4 id="titinm3" class="subtitle text-center">Curriculum </h4>
-        <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
+<div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
+  <div class="w-100">
+    <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
+    <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
 
-        <div class="w-100">
-        <iframe src="documentos/cv.pdf" width="100%" height="600px"></iframe>
-        </div>
-
-
-      </div>
-    
-    
+    <div class="responsive-iframe-container">
+      <iframe src="documentos/cv.pdf" width="100%" height="600px"></iframe>
     </div>
+
+  </div>
+</div>
+<style>
+  .responsive-iframe-container {
+    overflow: auto;
+    max-width: 800px; /* adjust this value as needed */
+    margin: 0 auto;
+  }
+  @media only screen and (max-width: 768px) {
+    .responsive-iframe-container {
+      width: calc(100% - 20px);
+      padding: 10px;
+    }
+  }
+</style>
  <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
   <div class="w-100 text-center">
     <h4 id="titinm4" class="subtitle">Ficha</h4>
