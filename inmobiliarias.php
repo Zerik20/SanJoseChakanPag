@@ -1346,14 +1346,24 @@
   <div class="w-100 text-center"> <!-- added text-center class -->
     <h4 id="titinm4" class="subtitle">Ficha</h4>
     <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
-    <div class="row mt-5">
-      <div class="col-md-10 mx-auto mb-3"> <!-- added mx-auto to center the column -->
-        <a class="text-decoration-none" href="https://drive.google.com/file/d/1ivmEZIsK3nBQb2I6rHXCr3hbwPXjwLXP/view?usp=drive_link" target="_blank">
+    <div class="w-100">
+          <embed src="documentos/FichaTecnicaSolabell.pdf" type="application/pdf" width="100%" height="600px" />
+          <div class="movil">
+            <div class="text-center">
+              <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Curriculum de la desarrolladora</span> </a>
+              <a href="documentos/FichaTecnicaSolabell.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Curriculum de la desarrolladora</span> </a>
+            </div>
+          </div>
+        </div>
+
+    <!--div class="row mt-5">
+      <div class="col-md-10 mx-auto mb-3"> <added mx-auto to center the column -->
+        <!--a class="text-decoration-none" href="https://drive.google.com/file/d/1ivmEZIsK3nBQb2I6rHXCr3hbwPXjwLXP/view?usp=drive_link" target="_blank">
           <img src="img/pdfd.png" alt="" style="width: 200px; height: 160px;">
           <h5 id="fdoc1" class="text-center mt-2 text-black">Click para ver</h5>
-        </a>
+        </!--a>
       </div>
-    </div>
+    </!--div-->
   </div>
 </div>
 <div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0">
