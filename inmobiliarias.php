@@ -798,40 +798,70 @@
         </div>
       </div>
 
-    <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
-    
-    
-      <div class="w-100">
-        <h4 id="titinm3" class="subtitle text-center">Curriculum </h4>
-        <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
-        <div class="w-100">
-        <div class="movil">
-                  <div class="text-center">
-                    <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
-                    <a href="documentos/cv.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Curriculum</span> </a>
-                  </div> 
-                </div>
-        <iframe src="documentos/cv.pdf" width="100%" height="600px"></iframe>
-        </div>
-      </div>
-    
-    
-    </div>
- <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
-  <div class="w-100 text-center">
-    <h4 id="titinm4" class="subtitle">Ficha</h4>
-    <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
-    <div class="w-100">
+      <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
+
+<div class="w-100">
+  <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
+  <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
+
+  <div class="w-100">
     <div class="movil">
-                  <div class="text-center">
-                    <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
-                    <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
-                  </div> 
-                </div>
-        <iframe src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+      <div class="text-center">
+        <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
+        <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Curriculum</span> </a>
+      </div>
     </div>
+    <iframe id="pdfViewer1" src="documentos/cv.pdf" width="100%" height="600px"></iframe>
+  </div>
 </div>
-        </div>
+
+</div>
+
+<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
+<div class="w-100 text-center">
+  <h4 id="titinm4" class="subtitle">Ficha</h4>
+  <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
+  <div class="w-100">
+    <div class="movil">
+      <div class="text-center">
+        <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
+        <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
+      </div>
+    </div>
+    <iframe id="pdfViewer2" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+  </div>
+</div>
+</div>
+
+<script>
+// Función para verificar si la pantalla es de tamaño móvil
+function isMobileDevice() {
+  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+}
+
+// Función para ocultar el iframe en dispositivos móviles
+function hideIframeOnMobile() {
+  var pdfViewer1 = document.getElementById("pdfViewer1");
+  var pdfViewer2 = document.getElementById("pdfViewer2");
+  if (isMobileDevice()) {
+    pdfViewer1.style.display = "none"; // Ocultar el iframe en dispositivos móviles
+    pdfViewer2.style.display = "none"; // Ocultar el iframe en dispositivos móviles
+  }
+}
+
+// Ejecutar la función al cargar la página
+hideIframeOnMobile();
+</script>
+
+<style>
+@media only screen and (max-width: 768px) {
+  #pdfViewer1,
+  #pdfViewer2 {
+    display: none; /* Ocultar el iframe en dispositivos móviles */
+  }
+}
+</style>
+
 <div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0"><!--Formatos-->
 
     
