@@ -22,7 +22,6 @@
 
 <div id="cont-acerca-de" class="" style="background: url('img/arqbg.jpg') !important;">
 
-  <div class="overlay h-50 w-50 d-flex justify-content-center align-items-end">
   
       
   </div>
@@ -1343,20 +1342,16 @@
     
     
     </div>
-    <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0">
-  <div class="w-100">
-    <h4 id="titinm4" class="subtitle text-center">Ficha</h4>
-    <h1 id="stitinm3" class="tit text-center" style="color: brown;">técnica</h1>
-    <div class="w-100">
-      <object data="documentos/FichaTecnicaSolabell.pdf" type="application/pdf" width="100%" height="600px">
-        <!-- Aquí puedes agregar un mensaje alternativo o un enlace de descarga en caso de que el navegador no pueda mostrar el PDF -->
-        <p>El navegador no puede mostrar este PDF. <a href="documentos/FichaTecnicaSolabell.pdf">Haz clic aquí para descargarlo</a>.</p>
-      </object>
-      <div class="movil">
-        <div class="text-center">
-          <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Ficha técnica</span></a>
-          <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descargar Ficha técnica</span></a>
-        </div>
+<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0">
+  <div class="w-100 text-center"> <!-- added text-center class -->
+    <h4 id="titinm4" class="subtitle">Ficha</h4>
+    <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
+    <div class="row mt-5">
+      <div class="col-md-10 mx-auto mb-3"> <!-- added mx-auto to center the column -->
+        <a class="text-decoration-none" href="https://drive.google.com/file/d/1ivmEZIsK3nBQb2I6rHXCr3hbwPXjwLXP/view?usp=drive_link" target="_blank">
+          <img src="img/pdfd.png" alt="" style="width: 200px; height: 160px;">
+          <h5 id="fdoc1" class="text-center mt-2 text-black">Click para ver</h5>
+        </a>
       </div>
     </div>
   </div>
