@@ -804,8 +804,13 @@
       <div class="w-100">
         <h4 id="titinm3" class="subtitle text-center">Curriculum </h4>
         <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
-
         <div class="w-100">
+        <div class="movil">
+                  <div class="text-center">
+                    <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
+                    <a href="documentos/cv.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Curriculum</span> </a>
+                  </div> 
+                </div>
         <iframe src="documentos/cv.pdf" width="100%" height="600px"></iframe>
         </div>
       </div>
@@ -817,6 +822,12 @@
     <h4 id="titinm4" class="subtitle">Ficha</h4>
     <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
     <div class="w-100">
+    <div class="movil">
+                  <div class="text-center">
+                    <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
+                    <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
+                  </div> 
+                </div>
         <iframe src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
     </div>
 </div>
