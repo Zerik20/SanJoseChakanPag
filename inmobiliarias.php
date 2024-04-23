@@ -806,7 +806,7 @@
         <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
 
         <div class="w-100">
-        <iframe src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+        <iframe src="documentos/cv.pdf" width="100%" height="600px"></iframe>
         </div>
 
 
