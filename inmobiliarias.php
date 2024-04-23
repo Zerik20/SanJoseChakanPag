@@ -806,13 +806,7 @@
         <h1 id="stitinm2" class="tit text-center"style="color: brown;">de la desarrolladora</h1>
 
         <div class="w-100">
-          <embed src="documentos/cv.pdf" type="application/pdf" width="100%" height="600px" />
-          <div class="movil">
-            <div class="text-center">
-              <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm5">Ver Curriculum de la desarrolladora</span> </a>
-              <a href="documentos/cv.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Curriculum de la desarrolladora</span> </a>
-            </div>
-          </div>
+        <iframe src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
         </div>
 
 
