@@ -1342,6 +1342,7 @@
     
     
     </div>
+ <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0">
   <div class="w-100 text-center"> <!-- added text-center class -->
     <h4 id="titinm4" class="subtitle">Ficha</h4>
     <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
@@ -1353,6 +1354,7 @@
               <a href="documentos/FichaTecnicaSolabell.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm6">Descaragar Curriculum de la desarrolladora</span> </a>
             </div>
           </div>
+        </div>
         </div>
         </div>
     <!--div class="row mt-5">
