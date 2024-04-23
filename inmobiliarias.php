@@ -926,13 +926,13 @@ hideIframeOnMobile();
         <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
 
         <div class="w-100">
-          <embed src="documentos/Listadepreciosyfinanciamientos2.pdf" type="application/pdf" width="100%" height="600px"/>
           <div class="movil">
             <div class="text-center">
-              <a href="documentos/Listadepreciosyfinanciamientos2.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm7">Ver Lista de precios</span> </a>
-              <a href="documentos/Listadepreciosyfinanciamientos2.pdf"  download="Listadepreciosyfinanciamientos2.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm8">Descaragar Lista de precios</span> </a>
+              <a href="documentos/Listadepreciosyfinanciamientos2.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Lista de Precios</span> </a>
+              <a href="documentos/Listadepreciosyfinanciamientos2.pdf"  download="Listadepreciosyfinanciamientos2.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
             </div>
           </div>
+          <iframe id="pdfViewer2" src="documentos/Listadepreciosyfinanciamientos2.pdf" width="100%" height="600px"></iframe>
         </div>
 
 
