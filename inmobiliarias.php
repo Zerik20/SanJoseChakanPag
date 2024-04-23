@@ -1342,7 +1342,6 @@
     
     
     </div>
-<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0">
   <div class="w-100 text-center"> <!-- added text-center class -->
     <h4 id="titinm4" class="subtitle">Ficha</h4>
     <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
@@ -1355,7 +1354,7 @@
             </div>
           </div>
         </div>
-
+        </div>
     <!--div class="row mt-5">
       <div class="col-md-10 mx-auto mb-3"> <added mx-auto to center the column -->
         <!--a class="text-decoration-none" href="https://drive.google.com/file/d/1ivmEZIsK3nBQb2I6rHXCr3hbwPXjwLXP/view?usp=drive_link" target="_blank">
