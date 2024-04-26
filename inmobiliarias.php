@@ -10,7 +10,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
     <?php
     include('templates/link.php');
     ?>
@@ -897,27 +896,40 @@ hideIframeOnMobile();
     
     
     </div>
-    <div class="tab-pane fade" id="v-pills-newsec4" role="tabpanel" aria-labelledby="v-pills-newsec4-tab" tabindex="0"><!--Fotos y videos de avance-->
-    
-    
-      
-
-      <div class="w-100">
+    <div class="tab-pane fade" id="v-pills-newsec4" role="tabpanel" aria-labelledby="v-pills-newsec4-tab" tabindex="0">
+    <!-- Fotos y videos de avance -->
+    <div class="w-100">
         <h4 id="stitinm4" class="subtitle text-center">Fotos y videos</h4>
-        <h1 id="titinm6" class="tit text-center" style="color: brown;"> de avance</h1>
-        
-      </div>
-      
+        <h1 id="titinm6" class="tit text-center" style="color: brown;">de avance</h1>
 
-
-
-
-
-
-
-    
-    
+        <div class="row mt-5">
+            <div class="col-md-4 mb-3">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/UQW9cV9z3WY?si=buoZOgF3giXdJAKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+            <!-- Puedes agregar más iframes aquí para más videos -->
+            <div class="col-md-4 mb-3">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/UQW9cV9z3WY?si=buoZOgF3giXdJAKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/UQW9cV9z3WY?si=buoZOgF3giXdJAKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/UQW9cV9z3WY?si=buoZOgF3giXdJAKr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
+
+
+
     <div class="tab-pane fade" id="v-pills-newsec5" role="tabpanel" aria-labelledby="v-pills-newsec5-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
     
     
