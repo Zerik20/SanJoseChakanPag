@@ -62,7 +62,15 @@
         "PetParkAmeni": "Parque de Mascotas",
         "SalaJAmeni": "Spa",
         "PisciAmeni": "Piscina",
-        "CicloAmeni": "Ciclovía"
+        "CicloAmeni": "Ciclovía",
+        "PadelAmeni": "Canchas de Padel",
+        "TennisAmeni": "Canchas de Tennis",
+        "ServiciosAmeni": "Servicios Subterráneos",
+        "EntradaAmeni": "Entrada con acceso controlado",
+        "GymUrbanoAmeni": "Gym Urbano",
+        "HaciendaAmeni": "Casa Club tipo Hacienda",
+        "CapillaAmeni": "Capilla",
+        "GymAmeni": "Gimnasio"
     },
     "Lema":{
         "LemaText": "Royal County San José Chakan, una comunidad única y exclusiva, nutrida por un profundo compromiso ecológico y el deseo de vivir de manera sostenible y en plenitud.",
