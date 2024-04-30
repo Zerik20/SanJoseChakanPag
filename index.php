@@ -229,11 +229,16 @@
             <div class="nav row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="horizontal">
                 <div class="col-md-9 cont-lista2"  data-aos="fade-up">
                 <style>
-    .nav-link {
+    .nav-link2 {
         display: flex;
         align-items: center; /* Alinea verticalmente el contenido */
         width: 100%;
+        height: 10%;
         margin-bottom: 10px; /* Añade un poco de espacio entre los botones */
+        background-color: #ffffff;
+    }
+    .nav-link2:hover {
+        background-color: #96443a;
     }
 
     .icon-circle {
@@ -244,55 +249,120 @@
         height: 40px; /* Ajusta la altura del círculo según tus necesidades */
         border: 2px solid black; /* Grosor y color del borde */
         border-radius: 50%; /* Hace que el círculo tenga bordes redondeados */
-        margin-right: 10px; /* Ajusta el espacio entre el icono y el texto según tus necesidades */
+        margin-right: 5px; /* Ajusta el espacio entre el icono y el texto según tus necesidades */
     }
 
-    .icon-circle svg {
-        width: 20px; /* Tamaño del icono SVG */
-        height: 20px; /* Tamaño del icono SVG */
+    .icon-circle {
+        width: 25px; /* Tamaño del icono SVG */
+        height: 25px; /* Tamaño del icono SVG */
+        margin-left: 30px;
     }
 
-    .nav-link p {
+    .nav-link2 p {
         margin: 0; /* Elimina el margen predeterminado del párrafo */
+    }
+    .buttonlist {
+        margin: 0px;
+        margin-left: 10px;
+        padding: 0%;
+        align-items: center;
+    }
+    .h-101{
+        height: 112%;
+        margin-top: auto;
     }
 </style>
 
-<button class="nav-link active text-black list-club-op" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">
+<button class="nav-link2 active text-black list-club-op buttonlist " id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">
     <div class="icon-circle">
         <img src="iconossvg/Golf.svg" alt="Campo de Golf Icon" style="width: 70%; height: 70%;">
     </div>
     <p id="list1acc" class="text-black" data-section="Amenidades" data-value="CampGolfAmeni">Campo de Golf</p>
 </button>
 
-<button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
     <div class="icon-circle">
         <img src="iconossvg/Alcohol.svg" alt="Bar Icon" style="width: 60%; height: 60%;">
     </div>
     <p id="list2acc" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni"> Bar</p>
 </button>
 
-<button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
     <div class="icon-circle">
         <img src="iconossvg/Restaurant.svg" alt="Restaurante Icon" style="width: 70%; height: 70%;">
     </div>
     <p id="list3acc" class="m-0 text-black" data-section="Amenidades" data-value="RestAmeni"> Restaurante</p>
 </button>
 
-<button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
     <div class="icon-circle">
         <img src="iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
     </div>
     <p id="list6acc" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni"> Parque de mascotas</p>
 </button>
 
-<button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
     <div class="icon-circle">
         <img src="iconossvg/Spa.svg" alt="Spa Icon" style="width: 70%; height: 70%;">
     </div>
     <p id="list7acc" class="m-0 text-black" data-section="Amenidades" data-value="SpaAmeni"> Spa</p>
 </button>
 
-<button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Ciclovia.svg" alt="Ciclovia Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list9acc" class="m-0 text-black" data-section="Amenidades" data-value="CicloAmeni"> Ciclovía</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
     <div class="icon-circle">
         <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
     </div>
@@ -332,7 +402,7 @@
 
         <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-6" aria-selected="false">
             <div class="icon-circle">
-                <img src="iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
+                <img src="iconossvg/ParqueMascotas.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
             </div>
             <p id="list6accm" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni">Parque de mascotas</p>
         </button>
@@ -356,48 +426,48 @@
         </div>
         <div class="col-md-7 p-0">
             <div class="tab-content" id="v-pills-tabContent" style="height: 750px;">
-                <div class="tab-pane h-100 fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/cdg.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/cdg.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/bh10.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/bh10.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/res.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/res.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/lago.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/lago.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/cn.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/cn.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/pets.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/pets.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/spa.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/spa.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/alb.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/alb.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/lokers.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/lokers.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
