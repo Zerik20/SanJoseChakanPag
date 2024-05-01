@@ -61,7 +61,16 @@
         "RestAmeni": "Restaurant",
         "PetParkAmeni": "Pet Park",
         "SpaAmeni": "Spa",
-        "PisciAmeni": "Pool"
+        "PisciAmeni": "Pool",
+        "CicloAmeni": "Bikeway",
+        "PadelAmeni": "Paddle Tennis Courts",
+        "TennisAmeni": "Tennis Courts",
+        "ServiciosAmeni": "Underground Services",
+        "EntradaAmeni": "Controlled access entrance",
+        "GymUrbanoAmeni": "Urban Gym",
+        "HaciendaAmeni": "Hacienda-type Club House",
+        "CapillaAmeni": "Chapel",
+        "GymAmeni": "Gym"
     },
     "Lema":{
         "LemaText": "Royal County San José Chakan, a unique and exclusive community, nourished by a deep ecological commitment and the desire to live sustainably and to the fullest.",

@@ -228,111 +228,295 @@
 
             <div class="nav row nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="horizontal">
                 <div class="col-md-9 cont-lista2"  data-aos="fade-up">
-                    <button class="nav-link active text-black list-club-op w-100 d-flex" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list1acc" class="m-0 text-black" data-section="Amenidades" data-value="CampGolfAmeni"> Campo de Golf</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list2acc" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni"> Bar</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list3acc" class="m-0 text-black" data-section="Amenidades" data-value="RestAmeni"> Restaurante</p></button>
-                    <!--
-                    <button class="nav-link text-start list-club-op w-100 d-flex" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list4acc" class="m-0 text-start"> lago</p></button>
-                    <button class="nav-link text-start list-club-op w-100 d-flex" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list5acc" class="m-0 text-start"> Canal de nado</p></button>
--->
-                    <button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-6" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list6acc" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni"> Parque de mascotas</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list7acc" class="m-0 text-black" data-section="Amenidades" data-value="SpaAmeni"> Spa</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p></button>
-                    <!--
-                    <button class="nav-link text-start list-club-op w-100 d-flex" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false"><i class="fas fa-chevron-circle-right mt-1 me-1" aria-hidden="true"></i><p id="list9acc" class="m-0 text-start"> Lockers</p></button>
--->
-                </div>
-                <div class="col-md-4 cont-lista2"  data-aos="fade-up">
+                <style>
+    .nav-link2 {
+        display: flex;
+        align-items: center; /* Alinea verticalmente el contenido */
+        width: 100%;
+        height: 10%;
+        margin-bottom: 10px; /* Añade un poco de espacio entre los botones */
+        background-color: #ffffff;
+    }
+    .nav-link2:hover {
+        background-color: #96443a;
+    }
+
+    .icon-circle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px; /* Ajusta el ancho del círculo según tus necesidades */
+        height: 40px; /* Ajusta la altura del círculo según tus necesidades */
+        border: 2px solid black; /* Grosor y color del borde */
+        border-radius: 50%; /* Hace que el círculo tenga bordes redondeados */
+        margin-right: 5px; /* Ajusta el espacio entre el icono y el texto según tus necesidades */
+    }
+
+    .icon-circle {
+        width: 25px; /* Tamaño del icono SVG */
+        height: 25px; /* Tamaño del icono SVG */
+        margin-left: 10px;
+    }
+
+    .nav-link2 p {
+        margin: 0; /* Elimina el margen predeterminado del párrafo */
+    }
+    .buttonlist {
+        margin: 0px;
+        margin-left: 10px;
+        padding: 0%;
+        align-items: center;
+    }
+    .h-101{
+        height: 112%;
+        margin-top: auto;
+    }
+</style>
+
+<button class="nav-link2 active text-black list-club-op buttonlist " id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true">
+    <div class="icon-circle">
+        <img src="iconossvg/Golf.svg" alt="Campo de Golf Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list1acc" class="text-black" data-section="Amenidades" data-value="CampGolfAmeni">Campo de Golf</p>
+</button>
+
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Alcohol.svg" alt="Bar Icon" style="width: 60%; height: 60%;">
+    </div>
+    <p id="list2acc" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni"> Bar</p>
+</button>
+
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Restaurant.svg" alt="Restaurante Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list3acc" class="m-0 text-black" data-section="Amenidades" data-value="RestAmeni"> Restaurante</p>
+</button>
+
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
+    <div class="icon-circle">
+        <img src="/iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list6acc" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni"> Parque de mascotas</p>
+</button>
+
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Spa.svg" alt="Spa Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list7acc" class="m-0 text-black" data-section="Amenidades" data-value="SpaAmeni"> Spa</p>
+</button>
+
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Ciclovia.svg" alt="Ciclovia Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list9acc" class="m-0 text-black" data-section="Amenidades" data-value="CicloAmeni"> Ciclovía</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-10-tab" data-bs-toggle="pill" data-bs-target="#v-pills-10" type="button" role="tab" aria-controls="v-pills-10" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Padel.svg" alt="Canchas de padel Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="PadelAmeni"> Canchas de Padel</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-11-tab" data-bs-toggle="pill" data-bs-target="#v-pills-11" type="button" role="tab" aria-controls="v-pills-11" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Tennis.svg" alt="Cancha de Tennis Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list8acc" class="m-0 text-black" data-section="Amenidades" data-value="TennisAmeni"> Canchas de Tennis</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Servicios.svg" alt="Servicios Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list12acc" class="m-0 text-black" data-section="Amenidades" data-value="ServiciosAmeni"> Servicios Subterraneos</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-13-tab" data-bs-toggle="pill" data-bs-target="#v-pills-13" type="button" role="tab" aria-controls="v-pills-13" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Entrada.svg" alt="Entrada Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list13acc" class="m-0 text-black" data-section="Amenidades" data-value="EntradaAmeni"> Entrada con acceso controlado</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-14-tab" data-bs-toggle="pill" data-bs-target="#v-pills-14" type="button" role="tab" aria-controls="v-pills-14" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/GymUrbano.svg" alt="Gym Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list14acc" class="m-0 text-black" data-section="Amenidades" data-value="GymUrbanoAmeni"> Gym Urbano</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-15-tab" data-bs-toggle="pill" data-bs-target="#v-pills-15" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Hacienda.svg" alt="Hacienda Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list15acc" class="m-0 text-black" data-section="Amenidades" data-value="HaciendaAmeni"> Casa Club tipo Hacienda </p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-16-tab" data-bs-toggle="pill" data-bs-target="#v-pills-16" type="button" role="tab" aria-controls="v-pills-16" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Capilla.svg" alt="Capilla Icon" style="width: 120%; height: 120%;">
+    </div>
+    <p id="list16acc" class="m-0 text-black" data-section="Amenidades" data-value="CapillaAmeni"> Capilla</p>
+</button>
+<button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-17-tab" data-bs-toggle="pill" data-bs-target="#v-pills-17" type="button" role="tab" aria-controls="v-pills-17" aria-selected="false">
+    <div class="icon-circle">
+        <img src="iconossvg/Gym.svg" alt="gym Icon" style="width: 70%; height: 70%;">
+    </div>
+    <p id="list17acc" class="m-0 text-black" data-section="Amenidades" data-value="GymAmeni"> Gym</p>
+</button>
+</div>
+<div class="col-md-4 cont-lista2"  data-aos="fade-up">
                     
                   
-                </div>
+</div>
                 
+    </div>
+    <div class="col-md-4 cont-lista2" data-aos="fade-up"></div>
+
+<div class="nav row nav-pills me-3 btn-list2-movil" id="v-pills-tab" data-aos="fade-up" role="tablist" aria-orientation="horizontal" style="display:none">
+    <div class="row cont-lista2">
+        <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/Golf.svg" alt="Restaurante Icon" style="width: 70%; height: 70%;">
             </div>
-            <div class="nav row nav-pills me-3 btn-list2-movil" id="v-pills-tab"  data-aos="fade-up" role="tablist" aria-orientation="horizontal" style="display:none">
-                <div class="row cont-lista2">
-                    <button class="nav-link active text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="true"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list1accm" class="m-0 text-black" data-section="Amenidades" data-value="CampGolfAmeni"> Campo de Golf</p></button>
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list2accm" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni"> Bar</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list3accm" class="m-0 text-black" data-section="Amenidades" data-value="RestAmeni"> Restaurante</p></button>
-                    <!--
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-4-tab" data-bs-toggle="pill" data-bs-target="#v-pills-4" type="button" role="tab" aria-controls="v-pills-4" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list4accm" class="m-0 text-start"> lago</p></button>
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-5-tab" data-bs-toggle="pill" data-bs-target="#v-pills-5" type="button" role="tab" aria-controls="v-pills-5" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list5accm" class="m-0 text-start"> Canal de nado</p></button>
--->
-                    <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-6" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list6accm" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni"> Parque de mascotas</p></button>
-                    <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list7accm" class="m-0 text-black" data-section="Amenidades" data-value="SpaAmeni"> Spa</p></button>
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list8accm" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni"> Piscina</p></button>
-                    <!--
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list9accm" class="m-0 text-start"> Lockers</p></button>
--->
-                    <!--button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-10-tab" data-bs-toggle="pill" data-bs-target="#v-pills-10" type="button" role="tab" aria-controls="v-pills-10" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list10accm" class="m-0 text-start"> Campo de practica</p></!--button>
-                    <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-11-tab" data-bs-toggle="pill" data-bs-target="#v-pills-11" type="button" role="tab" aria-controls="v-pills-11" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list11accm" class="m-0 text-start"> Área de baños</p></button>
-                    <button-- class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-12-tab" data-bs-toggle="pill" data-bs-target="#v-pills-12" type="button" role="tab" aria-controls="v-pills-12" aria-selected="false"><i class="fas fa-chevron-circle-right" aria-hidden="true"></i> <p id="list12accm" class="m-0 text-start"> Pro Shop Golf</p></button-->
-                </div>
-                
-                
+            <p id="list1accm" class="m-0 text-black" data-section="Amenidades" data-value="GolfAmeni">Campo de Golf</p>
+        </button>
+        <button class="nav-link active text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-9" type="button" role="tab" aria-controls="v-pills-9" aria-selected="true">
+            <div class="icon-circle">
+                <img src="iconossvg/Ciclovia.svg" alt="Ciclovia Icon" style="width: 70%; height: 70%;">
             </div>
+            <p id="list9accm" class="m-0 text-black" data-section="Amenidades" data-value="CicloviaAmeni">Ciclovia</p>
+        </button>
+
+        <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/alcohol.svg" alt="Bar Icon" style="width: 70%; height: 70%;">
+            </div>
+            <p id="list2accm" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni">Bar</p>
+        </button>
+
+        <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-3" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/Restaurant.svg" alt="Restaurante Icon" style="width: 70%; height: 70%;">
+            </div>
+            <p id="list3accm" class="m-0 text-black" data-section="Amenidades" data-value="RestAmeni">Restaurante</p>
+        </button>
+
+        <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-6-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-6" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
+            </div>
+            <p id="list6accm" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni">Parque de mascotas</p>
+        </button>
+
+        <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-7-tab" data-bs-toggle="pill" data-bs-target="#v-pills-7" type="button" role="tab" aria-controls="v-pills-7" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/Spa.svg" alt="Spa Icon" style="width: 70%; height: 70%;">
+            </div>
+            <p id="list7accm" class="m-0 text-black" data-section="Amenidades" data-value="SpaAmeni">Spa</p>
+        </button>
+
+        <button class="nav-link text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-8" type="button" role="tab" aria-controls="v-pills-8" aria-selected="false">
+            <div class="icon-circle">
+                <img src="iconossvg/Piscina.svg" alt="Piscina Icon" style="width: 70%; height: 70%;">
+            </div>
+            <p id="list8accm" class="m-0 text-black" data-section="Amenidades" data-value="PisciAmeni">Piscina</p>
+        </button>
+    </div>
+</div>
+
         </div>
         <div class="col-md-7 p-0">
             <div class="tab-content" id="v-pills-tabContent" style="height: 750px;">
-                <div class="tab-pane h-100 fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/cdg.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/cdg.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/bh10.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/bh10.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/res.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/res.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/lago.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/lago.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/cn.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/cn.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/pets.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-6-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/pets.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/spa.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-7-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/spa.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/alb.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-8" role="tabpanel" aria-labelledby="v-pills-8-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/alb.jpeg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div class="tab-pane h-100 fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/lokers.jpg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-9" role="tabpanel" aria-labelledby="v-pills-9-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Ciclovia.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <!--div class="tab-pane h-100 fade" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/practicagolf.webp') !important; background-size: cover; background-position: center;">
-
-                    </div>
-                </!--div>
-                <div class="tab-pane h-100 fade" id="v-pills-11" role="tabpanel" aria-labelledby="v-pills-11-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/zdm.JPG') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-10" role="tabpanel" aria-labelledby="v-pills-10-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/PadelAmeni.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
-                <div-- class="tab-pane h-100 fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
-                    <div class="w-100 h-100" style="background-image: url('img/proshop.jpeg') !important; background-size: cover; background-position: center;">
+                <div class="tab-pane h-101 fade" id="v-pills-11" role="tabpanel" aria-labelledby="v-pills-11-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Tennis.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
-                </div-->
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-12" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Servicios.jpg') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-13" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Entrada.jpg') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-14" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/GymUrbano.jpg') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-15" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Hacienda4.png') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-16" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Capilla.jpg') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
+                <div class="tab-pane h-101 fade" id="v-pills-17" role="tabpanel" aria-labelledby="v-pills-12-tab" tabindex="0">
+                    <div class="w-100 h-101" style="background-image: url('img/Gym.jpg') !important; background-size: cover; background-position: center;">
+
+                    </div>
+                </div>
                 
             </div>
         </div>
