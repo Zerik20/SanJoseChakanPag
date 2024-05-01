@@ -296,7 +296,7 @@
 
 <button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-6" type="button" role="tab" aria-controls="v-pills-3" aria-selected="false">
     <div class="icon-circle">
-        <img src="iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
+        <img src="/iconossvg/Dog.svg" alt="Parque de mascotas Icon" style="width: 70%; height: 70%;">
     </div>
     <p id="list6acc" class="m-0 text-black" data-section="Amenidades" data-value="PetParkAmeni"> Parque de mascotas</p>
 </button>
