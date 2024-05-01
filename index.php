@@ -282,7 +282,7 @@
 
 <button class="nav-link2 text-black list-club-op w-100 d-flex buttonlist" id="v-pills-2-tab" data-bs-toggle="pill" data-bs-target="#v-pills-2" type="button" role="tab" aria-controls="v-pills-2" aria-selected="false">
     <div class="icon-circle">
-        <img src="iconossvg/Alcohol.svg" alt="Bar Icon" style="width: 60%; height: 60%;">
+        <img src="Iconossvg/Alcohol.svg" alt="Bar Icon" style="width: 60%; height: 60%;">
     </div>
     <p id="list2acc" class="m-0 text-black" data-section="Amenidades" data-value="BarAmeni"> Bar</p>
 </button>
