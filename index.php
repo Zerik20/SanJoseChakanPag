@@ -268,7 +268,7 @@
         align-items: center;
     }
     .h-101{
-        height: 112%;
+        height: 122%;
         margin-top: auto;
     }
 </style>
@@ -572,7 +572,10 @@
         
     </div>
 </div>
-
+<br>
+<br>
+<br>
+<br>
 
 <div class="sect-texto-index" style="  background-image: url(img/bgl.webp); background-size: cover;"> 
     <div class="overlay-sect-txt-index p-5 w-100 h-100">
