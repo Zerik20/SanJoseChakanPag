@@ -458,7 +458,7 @@
         </button>
         <button class="nav-link text-black list-club-op w-100 d-flex p-2 align-items-left" id="v-pills-15-tab" data-bs-toggle="pill" data-bs-target="#v-pills-15" type="button" role="tab" aria-controls="v-pills-15" aria-selected="false">
             <div class="icon-circle">
-                <img src="Iconossvg/hacienda.svg" alt="Hacienda Icon" style="width: 70%; height: 70%;">
+                <img src="Iconossvg/Hacienda.svg" alt="Hacienda Icon" style="width: 70%; height: 70%;">
             </div>
             <p id="list15accm" class="m-0 text-black text-align: left;" data-section="Amenidades" data-value="HaciendaAmeni" style="text-align: left;">Casa Club tipo Hacienda</p>
         </button>
