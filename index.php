@@ -379,7 +379,7 @@
 
 <div class="nav row nav-pills me-3 btn-list2-movil" id="v-pills-tab" data-aos="fade-up" role="tablist" aria-orientation="horizontal" style="display:none">
     <div class="row cont-lista2">
-        <button class="nav-link active text-start list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="false">
+        <button class="nav-link active text-black list-club-op w-100 d-flex p-2 align-items-center" id="v-pills-3-tab" data-bs-toggle="pill" data-bs-target="#v-pills-1" type="button" role="tab" aria-controls="v-pills-1" aria-selected="false">
             <div class="icon-circle">
                 <img src="/Iconossvg/Golf.svg" alt="Golf Icon" style="width: 70%; height: 70%;">
             </div>
