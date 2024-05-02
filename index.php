@@ -7,7 +7,9 @@
     <?php
     include('templates/link.php');
     ?>
- 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Lobster&family=Satisfy&display=swap" rel="stylesheet">
 
 </head>
 <body>
@@ -577,10 +579,11 @@
 <br>
 <br>
 
+
 <div class="sect-texto-index" style="  background-image: url(img/bgl.webp); background-size: cover;"> 
     <div class="overlay-sect-txt-index p-5 w-100 h-100">
         <div class="container py-5 text-center">
-            <h4 id="txtvm1" class="text-center mb-4 mt-0" data-aos="fade-up" data-section="Lema" data-value="LemaText">Royal County San José Chakan, una comunidad única y exclusiva, nutrida por un
+            <h4 id="txtvm1" class="text-center mb-4 mt-0" data-aos="fade-up" data-section="Lema" data-value="LemaText" style="font-family: Dancing Script, cursive;">Royal County San José Chakan, una comunidad única y exclusiva, nutrida por un
             profundo compromiso ecológico y el deseo de vivir de manera sostenible y 
             en plenitud.</h4>
             <a id="btnlist2" data-aos="fade-up" href="productos.php" class="boton" data-section="Lema" data-value="BotoLema">Ver Más <i class="fas fa-arrow-right"></i></a>
