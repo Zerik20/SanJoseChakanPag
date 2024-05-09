@@ -817,28 +817,21 @@
 
 </div>
 
-<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
-    
-    
-    <div class="w-100">
-      <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
-      <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad9</h1>
-
-      <div class="w-100">
-        <div class="movil">
-          <div class="text-center">
-            <a href="documentos/ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Lista de Precios</span> </a>
-            <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
-          </div>
-        </div>
-        <iframe id="pdfViewer" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
+<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
+<div class="w-100 text-center">
+  <h4 id="titinm4" class="subtitle">Ficha</h4>
+  <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
+  <div class="w-100">
+    <div class="movil">
+      <div class="text-center">
+        <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
+        <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
       </div>
-
-
     </div>
-  
-  
+    <iframe id="pdfViewer2" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
   </div>
+</div>
+</div>
 
 <script>
 // Función para verificar si la pantalla es de tamaño móvil
