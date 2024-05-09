@@ -822,7 +822,7 @@
     
     <div class="w-100">
       <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
-      <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
+      <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad9</h1>
 
       <div class="w-100">
         <div class="movil">
@@ -831,7 +831,7 @@
             <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
           </div>
         </div>
-        <iframe id="pdfViewer2" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
+        <iframe id="pdfViewer" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
       </div>
 
 
