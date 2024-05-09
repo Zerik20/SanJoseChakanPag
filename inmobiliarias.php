@@ -66,6 +66,7 @@
           <div class="py-2"></div>
           <div class="d-flex justify-content-center cont-btn-inm">
             <a id="btninm1" href="https://wa.link/ebt4dl" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fab fa-whatsapp" aria-hidden="true" data-section="Inmobiliarias" data-value="BotoConC"></i ></a>
+            <a href="documentos/MASTER PLAN_.pdf"  download="MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Master Plan</span> </a>
           </div>
           
           <div class="row mt-5">
