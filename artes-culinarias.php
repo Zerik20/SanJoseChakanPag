@@ -29,19 +29,38 @@
 <div class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
     <h1 id="actit" class="tit text-center" data-aos="fade-up" style="color: brown;">Arte Culinario</h1>
-    <!--<h1 id="actit" class="tit text-center" data-aos="fade-up">PROXIMAMENTE</h1>-->
-    <div class="p-3"></div>
-    <div class="row justify-content-center">
-        <div class="col-md-8 text-center">
-            <div class="image-relax" style="background-image: url('img/res.jpeg'); background-size: cover; background-position: center; height: 400px;"></div>
+    <div class="p-4 m-4"></div>
+    <div class="row">
+        <div class="col-md-8">
+            <h1 id="actit" class="tit" data-aos="fade-up" style="margin-bottom: 20px;">Restaurante 1900</h1>
+            <p>Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la Chef Helene Claude que además es la fundadora de San José Chakán, vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.</p>
+            <p>Horario: Domingo de 1-6 pm<br>
+            Solo con reservación:</p>
+            <p>Reserva aquí:</p>
+            <p>Correo:<br>
+            Numero:</p>
         </div>
-    </div>
-    <div class="row justify-content-center mt-4"> <!-- Agregamos un margen top de 4 unidades -->
-        <div class="col-md-8 text-center">
-            <div class="image-relax" style="background-image: url('img/res2.jpeg'); background-size: cover; background-position: center; height: 400px;"></div>
+        <div class="col-md-4">
+            <div class="row">
+                <div class="col-6">
+                    <img src="img/res.jpeg" alt="Imagen 1" class="img-fluid">
+                </div>
+                <div class="col-6">
+                    <img src="img/res2.jpeg" alt="Imagen 2" class="img-fluid">
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-6">
+                    <img src="img/res.jpeg" alt="Imagen 3" class="img-fluid">
+                </div>
+                <div class="col-6">
+                    <img src="img/res2.jpeg" alt="Imagen 4" class="img-fluid">
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
 
 
 
