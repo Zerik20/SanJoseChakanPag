@@ -39,14 +39,14 @@
             <div class="overlay-footer p-4" style="background: #9d5248;">
                 <div class="row w-100 p-0 m-0">
                     <div class="col-md-3 p-5 sec-footer">
-                        <h5 id="titfooter1" class="text-white mb-3 tit-prod" data-section="Footer" data-value="MenuFoot">MENÚ</h5>
-                        <ul class="text-white list-unstyled">
-                            <a class="text-white text-decoration-none" href="index.php"><li class="mb-2 link-footer"><p id="optfooter1" data-section="Footer" data-value="InicioFoot">Inicio</p></li></a>
-                            <a class="text-white text-decoration-none" href="acerca-de.php"><li class="mb-2 link-footer"><p id="optfooter3" data-section="Footer" data-value="AcercaDeFoot">Acerca de</p></li></a>
-                            <a class="text-white text-decoration-none" href="productos.php"><li class="mb-2 link-footer"><p id="optfooter4" data-section="Footer" data-value="ProductosFoot">Productos</p></li></a>
-                            <a class="text-white text-decoration-none" href="bienestar-y-relajacion.php"><li class="mb-2 link-footer"><p id="optfooter8" data-section="Footer" data-value="BiYReFoot">Bienestar y Relajación</p></li></a>
-                            <a class="text-white text-decoration-none" href="emociones.php"><li class="mb-2 link-footer"><p id="optfooter9" data-section="Footer" data-value="EmoFoot">Emotions</p></li></a>
-                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot">Artes Culinarias</p></li></a>
+                        <h5 id="titfooter1" class="text-white mb-3 tit-prod" data-section="Footer" data-value="MenuFoot"style="text-align: center;">MENÚ</h5>
+                        <ul class="text-white list-unstyled" style="text-align: center;">
+                            <a class="text-white text-decoration-none" href="index.php"><li class="mb-2 link-footer"><p id="optfooter1" data-section="Footer" data-value="InicioFoot" style="text-align: center;">Inicio</p></li></a>
+                            <a class="text-white text-decoration-none" href="acerca-de.php"><li class="mb-2 link-footer"><p id="optfooter3" data-section="Footer" data-value="AcercaDeFoot" style="text-align: center;">Acerca de</p></li></a>
+                            <a class="text-white text-decoration-none" href="productos.php"><li class="mb-2 link-footer"><p id="optfooter4" data-section="Footer" data-value="ProductosFoot" style="text-align: center;">Productos</p></li></a>
+                            <a class="text-white text-decoration-none" href="bienestar-y-relajacion.php"><li class="mb-2 link-footer"><p id="optfooter8" data-section="Footer" data-value="BiYReFoot" style="text-align: center;">Bienestar y Relajación</p></li></a>
+                            <a class="text-white text-decoration-none" href="emociones.php"><li class="mb-2 link-footer"><p id="optfooter9" data-section="Footer" data-value="EmoFoot" style="text-align: center;">Emotions</p></li></a>
+                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot" style="text-align: center;">Artes Culinarias</p></li></a>
                             
                         </ul>
                     </div>
