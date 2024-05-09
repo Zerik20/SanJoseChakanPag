@@ -802,7 +802,7 @@
 <div class="w-100">
   <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
   <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
-  <div class="text-center w-100">
+  <div class="text-center w-100" style="margin-bottom: 20px;">
           <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
         </div>
   <div class="w-100">
@@ -821,7 +821,7 @@
 <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Ficha</h4>
   <h1 id="stitinm3" class="tit" style="color: brown;">técnica2</h1>
-  <div class="text-center w-100">
+  <div class="text-center w-100"style="margin-bottom: 20px;">
           <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
         </div>
   <div class="w-100">
@@ -939,7 +939,7 @@ hideIframeOnMobile();
       <div class="w-100">
         <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
         <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
-        <div class="text-center w-100">
+        <div class="text-center w-100" style="margin-bottom: 20px;">
           <a href="documentos/ListaDePrecios.pdf" download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
         </div>
         <div class="w-100">
