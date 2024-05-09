@@ -37,8 +37,9 @@
             <p>Horario: Domingo de 1-6 pm<br>
             Solo con reservación:</p>
             <p>Reserva aquí:</p>
-            <a href="">999 738 93 21</a><br>
-            <a href="">999 738 93 19</a></p>
+            <a href="tel:9997389321">999 738 93 21</a><br>
+            <a href="tel:9997389319">999 738 93 19</a><br>
+
         </div>
         <div class="col-md-4">
             <div class="row">
