@@ -824,11 +824,11 @@
   <div class="w-100">
     <div class="movil">
       <div class="text-center">
-        <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
-        <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
+        <a href="documentos/ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
+        <a href="documentos/ListaDePrecios.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
       </div>
     </div>
-    <iframe id="pdfViewer2" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+    <iframe id="pdfViewer2" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
   </div>
 </div>
 </div>
