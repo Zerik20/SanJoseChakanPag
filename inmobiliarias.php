@@ -802,7 +802,9 @@
 <div class="w-100">
   <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
   <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
-  <a href="documentos/cv.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
+  <div class="text-center w-100">
+          <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+        </div>
   <div class="w-100">
     <div class="movil">
       <div class="text-center">
@@ -819,7 +821,9 @@
 <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Ficha</h4>
   <h1 id="stitinm3" class="tit" style="color: brown;">técnica2</h1>
-  <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
+  <div class="text-center w-100">
+          <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+        </div>
   <div class="w-100">
     <div class="movil">
       <div class="text-center">
@@ -935,7 +939,9 @@ hideIframeOnMobile();
       <div class="w-100">
         <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
         <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
-        <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
+        <div class="text-center w-100">
+          <a href="documentos/ListaDePrecios.pdf" download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+        </div>
         <div class="w-100">
           <div class="movil">
             <div class="text-center">
