@@ -33,7 +33,7 @@
     <div class="row">
         <div class="col-md-8">
             <h1 id="actit" class="tit" data-aos="fade-up" style="margin-bottom: 20px; text-align: center; color: brown;">Restaurante 1900</h1>
-            <p>Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la <a style="font-weight: bolder;">Chef Helene Clauw</a> quien además es la fundadora de <a style="font-weight: bolder;">San José Chakán,</a> vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.</p>
+            <p>Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la <a style="font-weight: bolder; color: brown;">Chef Helene Clauw</a> quien además es la fundadora de <a style="font-weight: bolder; color: brown;">San José Chakán,</a> vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.</p>
             <p>Horario: Domingo de 1-6 pm<br>
             Solo con reservación:</p>
             <p>Reserva aquí:</p>
