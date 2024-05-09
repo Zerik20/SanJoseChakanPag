@@ -817,7 +817,7 @@
 
 </div>
 
-<div class="tab-pane fade" id="v-pills-newsec5" role="tabpanel" aria-labelledby="v-pills-newsec5-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
+<div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec2-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
     
     
     <div class="w-100">
