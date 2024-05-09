@@ -820,7 +820,7 @@
 <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
 <div class="w-100">
         <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
-        <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
+        <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad2</h1>
 
         <div class="w-100">
           <div class="movil">
