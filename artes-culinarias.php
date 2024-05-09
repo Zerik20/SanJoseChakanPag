@@ -39,6 +39,20 @@
             <p>Reserva aquí:</p>
             <a href="tel:9997389321">999 738 93 21</a><br>
             <a href="tel:9997389319">999 738 93 19</a><br>
+            <div class="text-left">
+    <button onclick="window.open('img/FlyerRestaurant.png', '_blank')" style="background-color: brown; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 30px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        border-radius: 10px;">Visita el menú del día</button>
+</div>
 
         </div>
         <div class="col-md-4">
@@ -60,6 +74,7 @@
             </div>
         </div>
     </div>
+
 </div>
 
 
