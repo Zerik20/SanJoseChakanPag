@@ -75,7 +75,6 @@
                 <div class="movil">
                   <div class="text-center">
                     <a href="documentos/MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Master Plan</span> </a>
-                    <a href="documentos/MASTER PLAN_.pdf"  download="MASTER PLAN_.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Master Plan</span> </a>
                   </div> 
                 </div>
                 <embed src="documentos/MASTER PLAN_.pdf" type="application/pdf" width="100%" height="700px" />
@@ -803,12 +802,11 @@
 <div class="w-100">
   <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
   <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
-
+  <a href="documentos/cv.pdf"  download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
   <div class="w-100">
     <div class="movil">
       <div class="text-center">
         <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
-        <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Curriculum</span> </a>
       </div>
     </div>
     <iframe id="pdfViewer" src="documentos/cv.pdf" width="100%" height="600px"></iframe>
@@ -821,11 +819,11 @@
 <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Ficha</h4>
   <h1 id="stitinm3" class="tit" style="color: brown;">técnica2</h1>
+  <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
   <div class="w-100">
     <div class="movil">
       <div class="text-center">
         <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
-        <a href="documentos/FichaTecnicaSolabell.pdf"  download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Ficha Tecnica</span> </a>
       </div>
     </div>
     <iframe id="pdfViewer" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
@@ -937,7 +935,7 @@ hideIframeOnMobile();
       <div class="w-100">
         <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
         <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
-
+        <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar</span> </a>
         <div class="w-100">
           <div class="movil">
             <div class="text-center">
