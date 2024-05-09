@@ -945,7 +945,7 @@ hideIframeOnMobile();
               <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
             </div>
           </div>
-          <iframe id="pdfViewer2" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
+          <iframe id="pdfViewer3" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
         </div>
 
 
