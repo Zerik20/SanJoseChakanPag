@@ -4,11 +4,11 @@
         <div class="row w-100 p-0 m-0">
             <div id="col-menu-1" class="col-md-5 text-center text-white">
                 <ul class="nav me-auto">
-                    <li class="nav-item menu"><a id="inicio" href="index.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="Inicio">INICIO</a></li>
+                    <li class="nav-item menu"><a id="inicio" href="index.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="Inicio"style="font-size: 12px;">INICIO</a></li>
                     <!--li class="nav-item menu"><a id="boletin" href="boletin.php" class="nav-link link-body-emphasis px-2 text-white">BOLETIN</a></!--li-->
-                    <li class="nav-item menu"><a id="acerca" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe">ACERCA DE</a></li>
-                    <li class="nav-item menu"><a id="productos" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos">PRODUCTOS</a></li>
-                    <li class="nav-item menu"><a id="legal" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white"  data-section="Header" data-value="AvisoLegal">COTIZADOR</a></li>
+                    <li class="nav-item menu"><a id="acerca" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe"style="font-size: 12px;">ACERCA DE</a></li>
+                    <li class="nav-item menu"><a id="productos" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos"style="font-size: 12px;">PRODUCTOS</a></li>
+                    <li class="nav-item menu"><a id="legal" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white"  data-section="Header" data-value="AvisoLegal"style="font-size: 12px;">COTIZADOR</a></li>
                 </ul>
                 <ul class="nav me-auto" style="border: none;">
                     <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-facebook-f"></i></a></li>
@@ -20,11 +20,11 @@
             <div id="col-menu-2" class="col-md-2 pt-2 text-center text-white">
                 <a href="index.php"><img id="logo" src="img/logoblanco.svg" alt="logo-RCC"></a>
             </div>
-            <div id="col-menu-1" class="col-md-5 text-center text-white">
+            <div id="col-menu-1" class="col-md-5 text-center text-white" >
                 <ul class="nav justify-content-end">
-                    <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion">Bienestar y Relajacion</a></li>
-                    <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Emociones">Emociones</a></li>
-                    <li class="nav-item menu"><a id="artcul" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias">Artes Culinarias</a></li>
+                    <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion" style="font-size: 12px;">Bienestar y Relajacion</a></li>
+                    <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Emociones"style="font-size: 12px;">Emociones</a></li>
+                    <li class="nav-item menu"><a id="artcul" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias"  style="font-size: 12px;">Artes Culinarias</a></li>
                 </ul>
                 <ul class="nav justify-content-end" style="border: none;">
                     <li class="nav-item"><a href="tel:9997001585" class="nav-link link-body-emphasis px-2 text-white" aria-current="page"><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</a></li>
