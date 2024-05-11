@@ -4,11 +4,11 @@
         <div class="row w-100 p-0 m-0">
             <div id="col-menu-1" class="col-md-5 text-center text-white">
                 <ul class="nav me-auto">
-                    <li class="nav-item menu"><a id="inicio" href="index.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="Inicio"style="font-size: 10px;">INICIO</a></li>
+                    <li class="nav-item menu"><a id="inicio" href="index.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="Inicio"style="font-size: 12px;">INICIO</a></li>
                     <!--li class="nav-item menu"><a id="boletin" href="boletin.php" class="nav-link link-body-emphasis px-2 text-white">BOLETIN</a></!--li-->
-                    <li class="nav-item menu"><a id="acerca" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe"style="font-size: 11px;">ACERCA DE</a></li>
-                    <li class="nav-item menu"><a id="productos" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos"style="font-size: 10px;">PRODUCTOS</a></li>
-                    <li class="nav-item menu"><a id="legal" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white"  data-section="Header" data-value="AvisoLegal"style="font-size: 10px;">COTIZADOR</a></li>
+                    <li class="nav-item menu"><a id="acerca" href="acerca-de.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="AcercaDe"style="font-size: 12px;">ACERCA DE</a></li>
+                    <li class="nav-item menu"><a id="productos" href="productos.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Productos"style="font-size: 12px;">PRODUCTOS</a></li>
+                    <li class="nav-item menu"><a id="legal" href="cotizador.php" class="nav-link link-body-emphasis px-2 text-white"  data-section="Header" data-value="AvisoLegal"style="font-size: 12px;">COTIZADOR</a></li>
                 </ul>
                 <ul class="nav me-auto" style="border: none;">
                     <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-facebook-f"></i></a></li>
@@ -22,8 +22,8 @@
             </div>
             <div id="col-menu-1" class="col-md-5 text-center text-white" >
                 <ul class="nav justify-content-end">
-                    <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-2 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion" style="font-size: 10px;">Bienestar y Relajacion</a></li>
-                    <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Emociones"style="font-size: 10px;">Emociones</a></li>
+                    <li class="nav-item menu"><a id="descyrel" href="bienestar-y-relajacion.php" class="nav-link link-body-emphasis px-0 text-white active" aria-current="page" data-section="Header" data-value="BienestaryRelajacion" style="font-size: 12px;">Bienestar y Relajacion</a></li>
+                    <li class="nav-item menu"><a id="emociones" href="emociones.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="Emociones"style="font-size: 12px;">Emociones</a></li>
                     <li class="nav-item menu"><a id="artcul" href="artes-culinarias.php" class="nav-link link-body-emphasis px-2 text-white" data-section="Header" data-value="ArtesCulinarias"  style="font-size: 10px;">Artes Culinarias</a></li>
                 </ul>
                 <ul class="nav justify-content-end" style="border: none;">
