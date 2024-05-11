@@ -66,7 +66,7 @@
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">7</span><p id="btnlist1hotel7" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section="MasterPlan" data-value="Market"> Market Place</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
-                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">8</span><p id="btnlist1hotel8" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section="MasterPlan" data-value="Estudios"> Estudio</p></li>
+                        <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">8</span><p id="btnlist1hotel8" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section="MasterPlan" data-value="Estudios"> Estudios</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
                         <li class="newlis1 d-flex mb-3" style="list-style-type: none;"><span style="color: #96443a;">></span><span style="color: #96443a;">9</span><p id="btnlist1hotel9" class="m-0 mt-1 txt-list1 fw-bold text-start" style="color: #96443a; margin-left: 5px;" data-section="MasterPlan" data-value="Glamping"> Glamping</p></li>
                         <hr style="border-top: 1px solid #757575; margin: 5px 0;">
