@@ -46,7 +46,7 @@
                             <a class="text-white text-decoration-none" href="productos.php"><li class="mb-2 link-footer"><p id="optfooter4" data-section="Footer" data-value="ProductosFoot" style="text-align: center; border-bottom: 1px solid white;">Productos</p></li></a>
                             <a class="text-white text-decoration-none" href="bienestar-y-relajacion.php"><li class="mb-2 link-footer"><p id="optfooter8" data-section="Footer" data-value="BiYReFoot" style="text-align: center; border-bottom: 1px solid white;">BIENESTAR Y RELAJACIÓN</p></li></a>
                             <a class="text-white text-decoration-none" href="emociones.php"><li class="mb-2 link-footer"><p id="optfooter9" data-section="Footer" data-value="EmoFoot" style="text-align: center; border-bottom: 1px solid white;">EMOCIONES</p></li></a>
-                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot" style="text-align: center; border-bottom: 1px solid white;">Artes Culinarias</p></li></a>
+                            <a class="text-white text-decoration-none" href="artes-culinarias.php"><li class="mb-2 link-footer"><p id="optfooter10" data-section="Footer" data-value="ArtCuFoot" style="text-align: center; border-bottom: 1px solid white;">ARTES CULINARIAS</p></li></a>
                             
                         </ul>
                     </div>
