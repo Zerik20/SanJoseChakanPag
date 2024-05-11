@@ -31,7 +31,7 @@
     <div class="row w-100 m-0 p-0 d-flex">
         <div class="col-md-6 row acerca-img">
             <div class="col-md-6 p-2">
-                <div class="image-acerca" style="background-image: url('img/img4.jpg') !important; margin-top: -20px;"></div>
+                <div class="image-acerca" style="background-image: url('img/PelotaGolf.jpg') !important; margin-top: -20px;"></div>
             </div>
             <div class="col-md-6 p-2">
                 <div class="image-acerca" style="background-image: url('img/Pavo.jpeg') !important; margin-top: 20px;"></div>
