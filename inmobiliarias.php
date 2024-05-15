@@ -820,7 +820,7 @@
 <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
 <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Ficha</h4>
-  <h1 id="stitinm3" class="tit" style="color: brown;">técnica2</h1>
+  <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
   <div class="text-center w-100"style="margin-bottom: 20px;">
           <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
         </div>
