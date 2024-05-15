@@ -22,15 +22,14 @@
   </div>
 </div>
 <script>
-  // Define la contraseña correcta
-  //const contraseñaCorrecta = "P@3zY#RCC";
-  const contraseñaCorrecta = "123";
+  // Define las contraseñas correctas
+  const contraseñasCorrectas = ["123", "SanJose2024", "RoyalCounty2024"];
 
   // Función para verificar la contraseña
   function verificarContraseña() {
     const contraseñaIngresada = document.getElementById("passwordInput").value;
 
-    if (contraseñaIngresada === contraseñaCorrecta) {
+    if (contraseñasCorrectas.includes(contraseñaIngresada)) {
       // Cerrar el modal si la contraseña es correcta
       $("#myModal").modal("hide");
     } else {
@@ -42,6 +41,7 @@
   // Agrega un evento click al botón "Iniciar sesión"
   document.getElementById("verificarContrasenaBtn").addEventListener("click", verificarContraseña);
 </script>
+
 
 
 
