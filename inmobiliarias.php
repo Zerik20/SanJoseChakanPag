@@ -31,6 +31,7 @@
       <option id="optcomm" value="#v-pills-messages" data-section="Inmobiliarias" data-value="ComiListM">Comisiones</option>
       <option id="optcvm" value="#v-pills-newsec1" data-section="Inmobiliarias" data-value="CVListM">Curriculum de la desarrolladora</option>
       <option id="optftm" value="#v-pills-newsec2" data-section="Inmobiliarias" data-value="FichListM">Ficha técnica</option>
+      <option id="optftm" value="#v-pills-newsec10" data-section="Inmobiliarias" data-value="MemoListM">Memoria descriptiva</option>
       <option id="optform" value="#v-pills-newsec3" data-section="Inmobiliarias" data-value="FormListM">Formatos</option>
       <option id="optfyvm" value="#v-pills-newsec4" data-section="Inmobiliarias" data-value="FotVidListM">Fotos y videos de avance</option>
       <option id="optlisprem" value="#v-pills-newsec5" data-section="Inmobiliarias" data-value="PreciListM">Lista de precios y disponibilidad</option>
@@ -835,6 +836,23 @@
 </div>
 </div>
 
+<div class="tab-pane fade" id="v-pills-newsec10" role="tabpanel" aria-labelledby="v-pills-newsec10-tab" tabindex="0"><!--Memoria descriptiva-->
+<div class="w-100 text-center">
+  <h4 id="titinm4" class="subtitle">Memoria</h4>
+  <h1 id="stitinm3" class="tit" style="color: brown;">Descriptiva</h1>
+  <div class="text-center w-100"style="margin-bottom: 20px;">
+          <a href="documentos/MemoriaDescriptiva.pdf" download="MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+        </div>
+  <div class="w-100">
+    <div class="movil">
+      <div class="text-center">
+        <a href="documentos/MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Memoria Descriptiva</span> </a>
+      </div>
+    </div>
+    <iframe id="pdfViewer" src="documentos/MemoriaDescriptiva.pdf" width="100%" height="600px"></iframe>
+  </div>
+</div>
+</div>
 <script>
 // Función para verificar si la pantalla es de tamaño móvil
 function isMobileDevice() {
