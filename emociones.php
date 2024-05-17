@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Royal County Chocholá | Boletín</title>
+    <title>Royal County Chocholá | Mayan Kingdom</title>
     <?php
     include('templates/link.php');
     ?>
@@ -29,7 +29,7 @@
 <div id="emo-cont-1" class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
     
-    <h4 id="subtitac" class="subtitle text-center">KiDS Club</h4>
+    <h4 id="subtitac" class="subtitle text-center">KIDS CLUB</h4>
     <h1 id="titac" class="tit text-center mb-5">“Mayan Kingdom”</h1>
     
     <div class="p-3"></div>
@@ -46,8 +46,8 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Once upon a time</h2>
-                <p id="txtac" class="">Once upon a time in the Mayan kingdom In Chochola, An amazing pirate girl and a brave sailor boy found a world of adventure in an abandoned Mayan palace....</p>
+                <h2 id="titac" class="tit ">Érase una vez</h2>
+                <p id="txtac" class="">Érase una vez en el reino maya En Chocholá, una increíble niña pirata y un valiente marinero encontraron un mundo de aventuras en un palacio maya abandonado...</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
         </div>
@@ -64,9 +64,9 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">The Cave Of The "Maya Bee"</h2>
-                <p id="txtac" class="">The city of the Queen Bee. <br>
-                    It is a calm and stimulating environment for children from 6 months to 7 years, for wonderful daydreams and magical creativity while being cared for by our attentive Ambassadors. This educational hive takes a fun approach to imparting the importance of pollinators. Here, children learn all about the secret life of bees by becoming one. Floor-to-ceiling immersion within a honeycomb environment where children can play as little bees under an interactive weather-themed roof. A dream world, with a harmonious mix of fun gameplay and instructive discovery.</p>
+                <h2 id="titac" class="tit ">La Cueva De La "Abeja Maya"</h2>
+                <p id="txtac" class="">La ciudad de la abeja reina.<br>
+                Es un ambiente tranquilo y estimulante para niños de 6 meses a 7 años, para ensueños maravillosos y creatividad mágica mientras son atendidos por nuestros atentos Embajadores. Esta colmena educativa adopta un enfoque divertido para impartir la importancia de los polinizadores. Aquí, los niños aprenden todo sobre la vida secreta de las abejas al convertirse en una. Inmersión del suelo al techo dentro de un entorno de panal donde los niños pueden jugar como pequeñas abejas bajo un techo interactivo con temática meteorológica. Un mundo de ensueño, con una mezcla armoniosa de juego divertido y descubrimiento instructivo.</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
         </div>
@@ -100,8 +100,8 @@
         <div class="col-md-5 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Special Celebrations</h2>
-                <p id="txtac" class="">The magic of Christmas and the New Year, the frantic anticipation of birthdays, the arrival of spring full of flowers, Hanal Pixán and Easter. “Mayan Kingdom” celebrates every occasion. Just as one set of decorations is removed, another one rises up, creating one fantastical world after another. Smiles, laughter and unforgettable memories shining on sweet little faces.</p>
+                <h2 id="titac" class="tit ">Celebraciones especiales</h2>
+                <p id="txtac" class="">La magia de la Navidad y el Año Nuevo, la frenética anticipación de los cumpleaños, la llegada de la primavera llena de flores, el Hanal Pixán y la Semana Santa. El “Reino Maya” celebra cada ocasión. Así como se quita un conjunto de decoraciones, surge otra, creando un mundo fantástico tras otro. Sonrisas, risas y recuerdos inolvidables brillando en caritas dulces.</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
         </div>
@@ -118,10 +118,10 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Picture Postcard Smiles</h2>
-                <p id="txtac" class="">The alchemists of "Mayan Kingdom" imagine endless activities and experiences so that all ages can come together in an unforgettable moment.
+                <h2 id="titac" class="tit ">Postal con Imagen Sonrisas</h2>
+                <p id="txtac" class="">Los alquimistas del "Reino Maya" imaginan un sinfín de actividades y experiencias para que todas las edades puedan reunirse en un momento inolvidable.
                     <br><br>
-                    Guided tours of the treasure, introductory workshops, where a multitude of extraordinary experiences designed for families are revealed while living a dream life in “Royal County Chocholá”.
+                    Visitas guiadas al tesoro, talleres introductorios, donde se revelan multitud de experiencias extraordinarias diseñadas para familias mientras se vive una vida de ensueño en el “Real Condado de Chocholá”.
                 </p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
