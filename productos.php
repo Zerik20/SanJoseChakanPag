@@ -60,7 +60,7 @@
         <!-- Imagen 1 -->
         <div class="prdto-img sombra" style="background-image: url('img/Casa/Fachada.png') !important;">
             <!-- Agrega la clase 'lightbox' a la imagen -->
-            <a href="img/img/Casa/Fachada.png" data-lightbox="gallery" data-title="Residencias">
+            <a href="img/Casa/Fachada.png" data-lightbox="gallery" data-title="Residencias">
                 <div class="overlay-prod w-100 h-100 p-2">
                     <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
                         <i class="fas fa-home tit-prod text-white sombre-txt icon-pro"></i> 
