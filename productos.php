@@ -58,9 +58,9 @@
         <div class="col-md-4">
     <div class="cont-prod">
         <!-- Imagen 1 -->
-        <div class="prdto-img sombra" style="background-image: url('img/Residencias/Resi6.jpg') !important;">
+        <div class="prdto-img sombra" style="background-image: url('img/Casa/Fachada.png') !important;">
             <!-- Agrega la clase 'lightbox' a la imagen -->
-            <a href="img/Residencias/Resi6.jpg" data-lightbox="gallery" data-title="Residencias">
+            <a href="img/img/Casa/Fachada.png" data-lightbox="gallery" data-title="Residencias">
                 <div class="overlay-prod w-100 h-100 p-2">
                     <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
                         <i class="fas fa-home tit-prod text-white sombre-txt icon-pro"></i> 
@@ -70,13 +70,24 @@
             </a>
         </div>
         <!-- Agrega más imágenes según sea necesario -->
-        <a href="img/Residencias/Resi2.jpg" data-lightbox="gallery" data-title="Residencias"></a>
-        <a href="img/Residencias/Resi3.jpg" data-lightbox="gallery" data-title="Residencias"></a>
-        <a href="img/Residencias/Resi4.jpg" data-lightbox="gallery" data-title="Residencias"></a>
-        <a href="img/Residencias/Resi5.jpg" data-lightbox="gallery" data-title="Residencias"></a>
-        <a href="img/Residencias/Resi7.jpg" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Cocina.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Comedor.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Sala.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Bano.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Bano2.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Closet.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/CuartoPrincipal.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/CuartoPrincipal2.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/CuartoPrincipal3.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Estudio.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Lavavo.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Vestidor.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Estudio.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Cuartoservicio.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Areadeservicio.png" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Cochera.png" data-lightbox="gallery" data-title="Residencias"></a>
         <!-- Última imagen -->
-        <a href="img/Residencias/Resi1.jpg" data-lightbox="gallery" data-title="Residencias"></a>
+        <a href="img/Casa/Piscina.png" data-lightbox="gallery" data-title="Residencias"></a>
         <div class="pro-info m-4 text-center">
                     <!--p class="text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi, earum?</p-->
                     <a class="boton" href="https://wa.link/sttovt"  target="_blank"><i class="fab fa-whatsapp"></i><span id="btndppro"> Contacto</span></a>
