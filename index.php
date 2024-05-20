@@ -223,7 +223,7 @@
 <div class="">
     <div class="row d-flex align-items-start m-0">
         <div class="col-md-5 p-4 cont-btn-list2">
-            <h2 id="titacc" class="tit ame-club" style="color: #96443a; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);"  data-aos="fade-up" data-section="Amenidades" data-value="TituloAmeni">Amenidades</h2>
+            <h2 id="titacc" class="tit ame-club" style="color: #96443a; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); text-align:center;"  data-aos="fade-up" data-section="Amenidades" data-value="TituloAmeni">Amenidades</h2>
             <div style="background-color: rgba(255, 255, 255, 0.5); padding: 10px; border-radius: 20px;margin-bottom: 10px;">
     <p id="txtacc" class="amenidades" style="color: #000000; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);" data-aos="fade-up" data-section="Amenidades" data-value="DescAmeni">Bienvenido, aquí encontrarás las más lujosas instalaciones para disfrutar de tu tiempo libre y relajarte en un entorno excepcional.</p>
 </div>
