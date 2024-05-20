@@ -483,7 +483,7 @@
         <div class="col-md-7 p-0">
             <div class="tab-content" id="v-pills-tabContent" style="height: 750px;">
                 <div class="tab-pane h-101 fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab" tabindex="0">
-                    <div class="w-100 h-101" style="background-image: url('img/cdg.jpg') !important; background-size: cover; background-position: center;">
+                    <div class="w-100 h-101" style="background-image: url('img/CampGolf.jpg') !important; background-size: cover; background-position: center;">
 
                     </div>
                 </div>
