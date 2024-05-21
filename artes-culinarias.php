@@ -40,7 +40,7 @@
             <a href="tel:9997389321">999 738 93 21</a><br>
             <a href="tel:9997389319">999 738 93 19</a><br>
             <div class="text-left">
-    <button onclick="window.open('img/MENUMARRUECOS.png', '_blank')" style="background-color: brown; /* Green */
+    <button onclick="window.open('img/PasaDiaGriego.png', '_blank')" style="background-color: brown; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;
