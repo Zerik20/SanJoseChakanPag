@@ -1013,17 +1013,6 @@ hideIframeOnMobile();
 
         <div class="mt-5"></div>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14749.169054701486!2d-89.4902364627086!3d21.133623218247063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567166cf2b9e13%3A0xc83b63dda1101f2d!2sHacienda%20San%20Jos%C3%A9%20Chak%C3%A1n!5e0!3m2!1ses-419!2smx!4v1711030524807!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        
-        <div class="row mt-4">
-          <div class="col-md-6">
-            <h5 id="txtger1">Gerente a cargo:</h5> <h5><strong>Yolanda Taboada Saavedra</strong></h5> 
-            <h6><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</h6>
-            <h6><i class="fas fa-envelope"></i> yolanda.taboada@royalcountychochola.com</h6>
-          </div>
-        </div>
-        
-        
-
       </div>
     
     
