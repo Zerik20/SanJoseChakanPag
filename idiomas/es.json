@@ -128,5 +128,19 @@
         "NombreBieRel": "ETERNAL ClÍNICA DE BELLEZA Y SPA",
         "EsloganBieRel": "BIENESTAR Y RELAJACIÓN",
         "DescBieRel": "Un espacio creado especialmente para ti, detente, respira y relájate en la clinica spa Eternal Beauty. Dejanos consentirte, ríndete a la alegría, la dicha pura y el deleite sensorial. Disfruta de un reino de belleza con total confianza y serenidad."
+    },
+    "Emociones":{
+        "TitEmo": "Club de niños",
+        "SubTitEmo": "Reyno Maya",
+        "EraseEmo": "Érase una vez",
+        "EraseDescEmo": "Érase una vez en el reino maya En San José Chakan, una increíble niña pirata y un valiente marinero encontraron un mundo de aventuras en un palacio maya abandonado...",
+        "AbejaTitEmo": "La Cueva De La Abeja Maya",
+        "AbejaSubTitEmo": "La ciudad de la abeja reina.",
+        "AbejaDescEmo": "Es un ambiente tranquilo y estimulante para niños de 6 meses a 7 años, para ensueños maravillosos y creatividad mágica mientras son atendidos por nuestros atentos Embajadores. Esta colmena educativa adopta un enfoque divertido para impartir la importancia de los polinizadores. Aquí, los niños aprenden todo sobre la vida secreta de las abejas al convertirse en una. Inmersión del suelo al techo dentro de un entorno de panal donde los niños pueden jugar como pequeñas abejas bajo un techo interactivo con temática meteorológica. Un mundo de ensueño, con una mezcla armoniosa de juego divertido y descubrimiento instructivo.",
+        "CeleTitEmo": "Celebraciones especiales",
+        "CeleDescEmo": "La magia de la Navidad y el Año Nuevo, la frenética anticipación de los cumpleaños, la llegada de la primavera llena de flores, el Hanal Pixán y la Semana Santa. El “Reino Maya” celebra cada ocasión. Así como se quita un conjunto de decoraciones, surge otra, creando un mundo fantástico tras otro. Sonrisas, risas y recuerdos inolvidables brillando en caritas dulces.",
+        "PostTitEmo": "Postal con Imagen Sonrisas",
+        "PostDescEmo": "Los alquimistas del Reino Maya imaginan un sinfín de actividades y experiencias para que todas las edades puedan reunirse en un momento inolvidable.",
+        "PostDesc2Emo": "Visitas guiadas al tesoro, talleres introductorios, donde se revelan multitud de experiencias extraordinarias diseñadas para familias mientras se vive una vida de ensueño en Royal County San José Chakán."
     }
 }

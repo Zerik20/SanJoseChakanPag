@@ -29,8 +29,8 @@
 <div id="emo-cont-1" class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
     
-    <h4 id="subtitac" class="subtitle text-center">KIDS CLUB</h4>
-    <h1 id="titac" class="tit text-center mb-5">“Mayan Kingdom”</h1>
+    <h4 id="subtitac" class="subtitle text-center" data-section="Emociones" data-value="TitEmo">KIDS CLUB</h4>
+    <h1 id="titac" class="tit text-center mb-5" data-section="Emociones" data-value="SubTitEmo">“Mayan Kingdom”</h1>
     
     <div class="p-3"></div>
 
@@ -46,8 +46,8 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Érase una vez</h2>
-                <p id="txtac" class="">Érase una vez en el reino maya En Chocholá, una increíble niña pirata y un valiente marinero encontraron un mundo de aventuras en un palacio maya abandonado...</p>
+                <h2 id="titac" class="tit" data-section="Emociones" data-value="EraseEmo">Érase una vez</h2>
+                <p id="txtac" class="" data-section="Emociones" data-value="EraseDescEmo">Érase una vez en el reino maya En San José Chakan, una increíble niña pirata y un valiente marinero encontraron un mundo de aventuras en un palacio maya abandonado...</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
         </div>
@@ -64,10 +64,11 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">La Cueva De La "Abeja Maya"</h2>
-                <p id="txtac" class="">La ciudad de la abeja reina.<br>
-                Es un ambiente tranquilo y estimulante para niños de 6 meses a 7 años, para ensueños maravillosos y creatividad mágica mientras son atendidos por nuestros atentos Embajadores. Esta colmena educativa adopta un enfoque divertido para impartir la importancia de los polinizadores. Aquí, los niños aprenden todo sobre la vida secreta de las abejas al convertirse en una. Inmersión del suelo al techo dentro de un entorno de panal donde los niños pueden jugar como pequeñas abejas bajo un techo interactivo con temática meteorológica. Un mundo de ensueño, con una mezcla armoniosa de juego divertido y descubrimiento instructivo.</p>
-                <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
+                <h2 id="titac" class="tit" data-section="Emociones" data-value="AbejaTitEmo">La Cueva De La Abeja Maya</h2>
+                <p id="txtac" class="" data-section="Emociones" data-value="AbejaSubTitEmo">La ciudad de la abeja reina.<br>
+                </p>
+                <p data-section="Emociones" data-value="AbejaDescEmo">Es un ambiente tranquilo y estimulante para niños de 6 meses a 7 años, para ensueños maravillosos y creatividad mágica mientras son atendidos por nuestros atentos Embajadores. Esta colmena educativa adopta un enfoque divertido para impartir la importancia de los polinizadores. Aquí, los niños aprenden todo sobre la vida secreta de las abejas al convertirse en una. Inmersión del suelo al techo dentro de un entorno de panal donde los niños pueden jugar como pequeñas abejas bajo un techo interactivo con temática meteorológica. Un mundo de ensueño, con una mezcla armoniosa de juego divertido y descubrimiento instructivo.</p>
+                <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></P!--a-->
             </div>
         </div>
         <div class="col-md-6 row acerca-img">
@@ -100,8 +101,8 @@
         <div class="col-md-5 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Celebraciones especiales</h2>
-                <p id="txtac" class="">La magia de la Navidad y el Año Nuevo, la frenética anticipación de los cumpleaños, la llegada de la primavera llena de flores, el Hanal Pixán y la Semana Santa. El “Reino Maya” celebra cada ocasión. Así como se quita un conjunto de decoraciones, surge otra, creando un mundo fantástico tras otro. Sonrisas, risas y recuerdos inolvidables brillando en caritas dulces.</p>
+                <h2 id="titac" class="tit" data-section="Emociones" data-value="CeleTitEmo">Celebraciones especiales</h2>
+                <p id="txtac" class="" data-section="Emociones" data-value="CeleDescEmo">La magia de la Navidad y el Año Nuevo, la frenética anticipación de los cumpleaños, la llegada de la primavera llena de flores, el Hanal Pixán y la Semana Santa. El “Reino Maya” celebra cada ocasión. Así como se quita un conjunto de decoraciones, surge otra, creando un mundo fantástico tras otro. Sonrisas, risas y recuerdos inolvidables brillando en caritas dulces.</p>
                 <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
             </div>
         </div>
@@ -118,12 +119,12 @@
         <div class="col-md-6 d-flex align-items-center p-5 acerca-info">
             <div data-aos="fade-up">
                 <!--h4 id="subtitac" class="subtitle ">Eternal & Spa</!--h4-->
-                <h2 id="titac" class="tit ">Postal con Imagen Sonrisas</h2>
-                <p id="txtac" class="">Los alquimistas del "Reino Maya" imaginan un sinfín de actividades y experiencias para que todas las edades puedan reunirse en un momento inolvidable.
+                <h2 id="titac" class="tit" data-section="Emociones" data-value="PostTitEmo">Postal con Imagen Sonrisas</h2>
+                <p id="txtac" class="" data-section="Emociones" data-value="PostDescEmo">Los alquimistas del Reino Maya imaginan un sinfín de actividades y experiencias para que todas las edades puedan reunirse en un momento inolvidable.
                     <br><br>
-                    Visitas guiadas al tesoro, talleres introductorios, donde se revelan multitud de experiencias extraordinarias diseñadas para familias mientras se vive una vida de ensueño en el “Real Condado de Chocholá”.
                 </p>
-                <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></!--a-->
+                <p data-section="Emociones" data-value="PostDesc2Emo">Visitas guiadas al tesoro, talleres introductorios, donde se revelan multitud de experiencias extraordinarias diseñadas para familias mientras se vive una vida de ensueño en Royal County San José Chakán.</p>
+                <!--a id="btnac" href="productos.php" class="boton">Ver Más <i class="fas fa-arrow-right"></i></p!--a-->
             </div>
         </div>
         <div class="col-md-6 row acerca-img d-flex justify-content-end">

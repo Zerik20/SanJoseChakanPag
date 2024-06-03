@@ -118,16 +118,30 @@
         "Pas9Comisi": "The average time for commission release is 15 to 30 days maximum.",
         "Pas10Comisi": "According to NOM 247, commission may be requested after the 5-day period given to the client to request their down payment refund.",
         "Pas11Comisi": "If there is any delay in commission release, the owner will be notified via message or email."
-        },
+    },
     "AcercaDe":{
         "AcerTitAcer": "ABOUT US",
         "AcerTitCoti": "QUOTER",
         "DescAcer":"It is part of one of the most exclusive communities; fusing luxury and colonial architecture, as well as a deep ecological, sustainable sense. Just 20 minutes from Mérida and 10 minutes from Chixchulub Puerto beach. Within the residential quadrant with the highest capital gains. Residences with lots from 1,000 to 2,000 meters of land and 355 meters of construction.",
         "BotoVerAcer": "See more"
-        },
+    },
     "BieyRela":{
         "NombreBieRel": "Eternal Clinical Beauty & Spa",
         "EsloganBieRel": "WELLNESS & RELAXATION",
         "DescBieRel": "A space created especially for you, stop, breathe and relax at the Eternal Beauty spa clinic. Let us pamper you, surrender to joy, pure bliss and sensory delight. Enjoy a kingdom of beauty with complete confidence and serenity."
-        }
+    },
+    "Emociones":{
+        "TitEmo": "Kids Club",
+        "SubTitEmo": "Mayan Kingdom",
+        "EraseEmo": "Once upon a time",
+        "EraseDescEmo": "Once upon a time in the Mayan kingdom In San José Chakan, an incredible pirate girl and a brave sailor found a world of adventure in an abandoned Mayan palace...",
+        "AbejaTitEmo": "The Mayan Bee Cave",
+        "AbejaSubTitEmo": "The city of the queen bee.",
+        "AbejaDescEmo": "It is a calm and stimulating environment for children from 6 months to 7 years, for wonderful daydreams and magical creativity while being cared for by our attentive Ambassadors. This educational beehive takes a fun approach to imparting the importance of pollinators. Here, children learn all about the secret life of bees by becoming one. Floor-to-ceiling immersion inside a honeycomb environment where kids can play as little bees under an interactive, weather-themed roof. A dream world, with a harmonious mix of fun play and instructive discovery.",
+        "CeleTitEmo": "Special celebrations",
+        "CeleDescEmo": "The magic of Christmas and New Year, the frenetic anticipation of birthdays, the arrival of spring full of flowers, Hanal Pixán and Easter. The “Mayan Kingdom” celebrates every occasion. Just as one set of decorations is removed, another emerges, creating one fantastical world after another. Smiles, laughter and unforgettable memories shining on sweet faces.",
+        "PostTitEmo": "Postcard with Smiles Image",
+        "PostDescEmo": "The alchemists of the Mayan Kingdom imagine endless activities and experiences so that all ages can come together in an unforgettable moment.",
+        "PostDesc2Emo": "Guided tours of the treasure, introductory workshops, where a multitude of extraordinary experiences designed for families are revealed while living a dream life in Royal County San José Chakán."
+    }
 }
