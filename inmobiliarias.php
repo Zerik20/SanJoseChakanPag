@@ -1020,11 +1020,6 @@ hideIframeOnMobile();
             <h6><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</h6>
             <h6><i class="fas fa-envelope"></i> yolanda.taboada@royalcountychochola.com</h6>
           </div>
-          <div class="col-md-6">
-            <h5 id="txtger2">Gerente comercial:</h5> <h5><strong>Jesús David Flores Pool</strong></h5> 
-            <h6><i class="fas fa-phone-alt"></i> +52 1 999 193 4724</h6>
-            <h6><i class="fas fa-envelope"></i> info@sanjosechakan.com</h6>
-          </div>
         </div>
         
         
