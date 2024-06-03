@@ -28,19 +28,19 @@
 
 <div class="container cont1-boletin my-5 py-5">
     <div class="p-3"></div>
-    <h1 id="actit" class="tit text-center" data-aos="fade-up" style="color: brown;">Arte Culinario</h1>
+    <h1 id="actit" class="tit text-center" data-aos="fade-up" style="color: brown;" data-section="CuliArt" data-value="TitCuliArt">Arte Culinario</h1>
     <div class="p-4 m-4"></div>
     <div class="row">
         <div class="col-md-8">
-            <h1 id="actit" class="tit" data-aos="fade-up" style="margin-bottom: 20px; text-align: center; color: brown;">Restaurante 1900</h1>
-            <p>Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la <a style="font-weight: bolder; color: brown;">Chef Helene Clauw</a> quien además es la fundadora de <a style="font-weight: bolder; color: brown;">San José Chakán,</a> vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.</p>
-            <p>Horario: Domingo de 1-6 pm<br>
-            Solo con reservación:</p>
-            <p>Reserva aquí:</p>
+            <h1 id="actit" class="tit" data-aos="fade-up" style="margin-bottom: 20px; text-align: center; color: brown;" data-section="CuliArt" data-value="NomRestCuliArt">Restaurante 1900</h1>
+            <a data-section="CuliArt" data-value="RestDescCuliArt">Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la</a> <a style="font-weight: bolder; color: brown;" data-section="CuliArt" data-value="ChefCuliArt">Chef Helene Clauw</a> <a data-section="CuliArt" data-value="RestDesc2CuliArt"> quien además es la fundadora de </a> <a style="font-weight: bolder; color: brown;">San José Chakán,</a> <a data-section="CuliArt" data-value="RestDesc3CuliArt">vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.</a> <br><br>
+            <p data-section="CuliArt" data-value="HorarioCuliArt">Horario: Domingo de 1-6 pm</p>
+            <P data-section="CuliArt" data-value="AdverCuliArt">Solo con reservación:</p>
+            <p data-section="CuliArt" data-value="ReserCuliArt">Reserva aquí:</p>
             <a href="tel:9997389321">999 738 93 21</a><br>
             <a href="tel:9997389319">999 738 93 19</a><br>
             <div class="text-left">
-    <button onclick="window.open('img/PasaDiaGriego.png', '_blank')" style="background-color: brown; /* Green */
+    <button data-section="CuliArt" data-value="BotonCuliArt" onclick="window.open('img/PasaDiaGriego.png', '_blank')" style="background-color: brown; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;

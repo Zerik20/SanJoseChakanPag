@@ -142,5 +142,16 @@
         "PostTitEmo": "Postal con Imagen Sonrisas",
         "PostDescEmo": "Los alquimistas del Reino Maya imaginan un sinfín de actividades y experiencias para que todas las edades puedan reunirse en un momento inolvidable.",
         "PostDesc2Emo": "Visitas guiadas al tesoro, talleres introductorios, donde se revelan multitud de experiencias extraordinarias diseñadas para familias mientras se vive una vida de ensueño en Royal County San José Chakán."
+    },
+    "CuliArt":{
+        "TitCuliArt": "Arte Culinario",
+        "RestDescCuliArt": "Toma su nombre por la fecha en que fue fundada la hacienda, es atendido por la",
+        "ChefCuliArt": "Chef Helene Clauw",
+        "RestDesc2CuliArt": " quien además es la fundadora de ",
+        "ResyDesc3CuliArt": "vivirás una experiencia gastronómica sin igual, con un sinfín de platillos tradicionales de la comida francesa y europea.",
+        "HorarioCuliArt": "Horario: Domingo de 1-6 pm",
+        "AdverCuliArt": "Solo con reservación",
+        "ReserCuliArt": "Reserva aquí:",
+        "BotonCuliArt": "Visita el menú del día"
     }
 }

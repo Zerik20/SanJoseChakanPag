@@ -143,5 +143,16 @@
         "PostTitEmo": "Postcard with Smiles Image",
         "PostDescEmo": "The alchemists of the Mayan Kingdom imagine endless activities and experiences so that all ages can come together in an unforgettable moment.",
         "PostDesc2Emo": "Guided tours of the treasure, introductory workshops, where a multitude of extraordinary experiences designed for families are revealed while living a dream life in Royal County San José Chakán."
+    },
+    "CuliArt":{
+        "TitCuliArt": "Culinary Art",
+        "RestDescCuliArt": "It takes its name from the date on which the hacienda was founded, it is attended by the",
+        "ChefCuliArt": "Chef Helene Clauw",
+        "RestDesc2CuliArt": " who is also the founder of ",
+        "RestDesc3CuliArt": "you will live an unparalleled gastronomic experience, with an endless number of traditional French and European dishes.",
+        "HorarioCuliArt": "Hours: Sunday from 1-6 pm",
+        "AdverCuliArt": "By reservation only",
+        "ReserCuliArt": "Reserve here:",
+        "BotonCuliArt": "Visit the menu of the day"
     }
 }
