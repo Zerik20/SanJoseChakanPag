@@ -989,6 +989,76 @@ hideIframeOnMobile();
             
             <div class="row img-zonas">
               
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios1.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios1.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-school me-2"></i><h3 id="imhtitlist1colegio" class="tit-prod text-white sombre-txt"> Colegio</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios2.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios2.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+               
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios3.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios3.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios4.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios4.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios5.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios5.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+                    <a class="example-image-link" href="img/renders/Estudios6.jpg" data-lightbox="example-2" data-title="">
+                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios6.jpg') !important;">
+                            <div class="overlay-img-index w-100 h-100 p-2">
+                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                                </!--div-->
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+
                
             </div>
         </div>
