@@ -925,11 +925,11 @@ hideIframeOnMobile();
         <h1 id="titinm6" class="tit text-center" style="color: brown;">de avance</h1>
 
         <div class="row mt-5">
-            <!--div class="col-md-4 mb-3">
+            <div class="col-md-4 mb-3">
                 <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/Ybi5_T0ZD-A?si=dB8DjmlD4M4Tg2pH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/8GOYPQoB-Pw?si=aUfX8KrG1uz-C4XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
-            </div-->
+            </div>
             <!-- Puedes agregar más iframes aquí para más videos -->
             <div class="col-md-4 mb-3">
                 <div class="embed-responsive embed-responsive-16by9">
