@@ -152,6 +152,7 @@
         "HorarioCuliArt": "Horario: Domingo de 1-6 pm",
         "AdverCuliArt": "Solo con reservación",
         "ReserCuliArt": "Reserva aquí:",
-        "BotonCuliArt": "Visita el menú del día"
+        "BotonCuliArt": "Visita el menú del día",
+        "BotonCuliArtPro": "Promoción"
     }
 }

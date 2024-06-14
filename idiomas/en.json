@@ -153,6 +153,7 @@
         "HorarioCuliArt": "Hours: Sunday from 1-6 pm",
         "AdverCuliArt": "By reservation only",
         "ReserCuliArt": "Reserve here:",
-        "BotonCuliArt": "Visit the menu of the day"
+        "BotonCuliArt": "Visit the menu of the day",
+        "BotonCuliArtPro": "Promotion"
     }
 }
