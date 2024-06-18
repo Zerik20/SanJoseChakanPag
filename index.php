@@ -615,7 +615,57 @@
     </div>
 
 </div-->
+<!-- Botón flotante -->
+<a href="formulariocontacto.php" class="boton-flotante" data-section="Index1" data-value="BotoFlo">COMPRAR</a>
+<style>
+    /* styles.css */
 
+/* styles.css */
+
+.boton-flotante {
+  display: block;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  position: fixed;
+  bottom: 20px; /* Ajusta la distancia desde la parte inferior */
+  right: 20px; /* Ajusta la distancia desde la derecha */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  z-index: 1000; /* Asegura que esté por encima de otros elementos */
+  transition: background-color 0.3s ease; /* Transición suave para el cambio de color de fondo */
+}
+
+.boton-flotante:hover {
+  background-color: #0056b3;
+}
+
+/* Animación cuando no se está tocando el botón */
+.boton-flotante:not(:hover) {
+  animation: attention 2s infinite ease-in-out;
+}
+
+@keyframes attention {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+    background-color: green;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+</style>
 
 <!--JAVASCRIPT ANIMACIONES-->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
