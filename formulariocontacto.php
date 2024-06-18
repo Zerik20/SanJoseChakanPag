@@ -21,11 +21,27 @@
     </div>
 
 </div>
-<div style="text-align: center;">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4hDKdL6SBvFJ8AmnACNd8JwP4hH8OAJZSfkk0iZ1any0vxA/viewform?embedded=true" width="640" height="1028" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
-</div>
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        width: 100%;
+        max-width: 800px; /* Ancho máximo del formulario */
+        height: 800px; /* Altura máxima del formulario */
+        margin: 0 auto; /* Centrar el contenedor */
+    }
+    
+    .responsive-iframe-container iframe {
+        width: 100%;
+        height: 100%;
+        border: none; /* Quitar el borde del iframe */
+    }
+</style>
 
-<div class="p-5 m-5"></div>
+<div style="text-align: center; margin-bottom: 20px;">
+    <div class="responsive-iframe-container">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4hDKdL6SBvFJ8AmnACNd8JwP4hH8OAJZSfkk0iZ1any0vxA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+    </div>
+</div>
 
 
 
