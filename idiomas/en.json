@@ -71,7 +71,8 @@
         "GymUrbanoAmeni": "Urban Gym",
         "HaciendaAmeni": "Hacienda-type Club House",
         "CapillaAmeni": "Chapel",
-        "GymAmeni": "Gym"
+        "GymAmeni": "Gym",
+        "TituloVidMuestra": "Sample House"
     },
     "Lema":{
         "LemaText": "Royal County San José Chakan, a unique and exclusive community, nourished by a deep ecological commitment and the desire to live sustainably and to the fullest.",

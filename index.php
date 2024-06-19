@@ -218,6 +218,31 @@
 
 </div>
 
+<style>
+    .video-container {
+        position: relative;
+        width: 70%; /* Reducir el ancho del contenedor al 70% */
+        margin: 0 auto; /* Centrar el contenedor */
+        padding-bottom: 39.375%; /* Proporción 16:9 para vídeos ajustada al 70% */
+        height: 0;
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+    
+    .video-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%; /* El vídeo ocupa todo el ancho del contenedor */
+        height: 100%; /* El vídeo ocupa todo el alto del contenedor */
+    }
+</style>
+<h2 id="titacc" class="tit ame-club" style="color: #96443a; text-shadow: 0 0 5px rgba(255, 255, 255, 0.5); text-align:center;"  data-aos="fade-up" data-section="Amenidades" data-value="TituloVidMuestra">Casa Muestra</h2>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/8GOYPQoB-Pw?si=MKeBvJlzL4IzyPfS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 
 
 <div class="">
