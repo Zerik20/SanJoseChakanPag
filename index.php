@@ -177,11 +177,11 @@
         </div>
 -->
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/Estudios1.jpg" data-lightbox="example-2" data-title="">
-                <div class="img-zona-gallery sombra example-image" style="background-image: url('img/renders/Estudios1.jpg') !important;">
+            <a class="example-image-link" href="img/Fachada.jpg" data-lightbox="example-2" data-title="">
+                <div class="img-zona-gallery sombra example-image" style="background-image: url('img/renders/Fachada.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-house-user me-2" aria-hidden="true"></i><h3 id="imhtitlist1villas:" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="EstudiosCard" >Estudios</h3></div>
+                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-house-user me-2" aria-hidden="true"></i><h3 id="imhtitlist1villas:" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="CasasCard" >Casas</h3></div>
                         </div>
                     </div>
                 </div>
