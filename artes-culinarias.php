@@ -40,7 +40,7 @@
             <a href="tel:9997389321">999 738 93 21</a><br>
             <a href="tel:9997389319">999 738 93 19</a><br>
             <div class="text-left">
-    <button data-section="CuliArt" data-value="BotonCuliArt" onclick="window.open('img/ParrilladaDiaDelPadre.png', '_blank')" style="background-color: brown; /* Green */
+    <button data-section="CuliArt" data-value="BotonCuliArt" onclick="window.open('img/MenuMediterraneo.jpg', '_blank')" style="background-color: brown; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;
@@ -52,7 +52,7 @@
         transition-duration: 0.4s;
         cursor: pointer;
         border-radius: 10px;">Visita el menú del día</button>
-        <button data-section="CuliArt" data-value="BotonCuliArtPro" onclick="window.open('img/DiaDelPadre.png', '_blank')" style="background-color: brown; /* Green */
+        <!--button data-section="CuliArt" data-value="BotonCuliArtPro" onclick="window.open('img/DiaDelPadre.png', '_blank')" style="background-color: brown; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;
@@ -63,7 +63,7 @@
         margin: 30px 2px;
         transition-duration: 0.4s;
         cursor: pointer;
-        border-radius: 10px;">Promoción</button>
+        border-radius: 10px;">Promoción</!--button-->
 </div>
 
         </div>
