@@ -81,7 +81,7 @@
     color: #96443a !important; /* Cambiar color de texto a #96443a */
     }
     #Inglm {
-    color: #96443a !important; /* Cambiar color de texto a #96443a */
+    color: #96443a !important; /* Cambiar color de texto a #96443a este es un comentario de prueba de git*/
     }
 
 
