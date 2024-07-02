@@ -805,16 +805,21 @@
   <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
   <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
   <div class="text-center w-100" style="margin-bottom: 20px;">
-          <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
-  <div class="w-100">
-    <div class="movil">
-      <div class="text-center">
-        <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
-      </div>
-    </div>
-    <iframe id="pdfViewer" src="documentos/cv.pdf" width="100%" height="600px"></iframe>
-  </div>
+  <div class="row mt-5">
+          <div class="col-md-2 mx-2 mb-3">
+            <a class="text-decoration-none" href="documentos/CV.pdf" download="CV.pdf">
+              <img class="w-100" src="img/pdfd.png" alt="">
+              <h5 id="fdoc1" class="text-center mt-2 text-black">CV-Español</h5>
+            </a>
+          </div>
+          <div class="col-md-2 mx-2 mb-3">
+            
+            <a class="text-decoration-none" href="documentos/CV-English.pdf" download="CV-English.pdf">
+              <img class="w-100" src="img/pdfd.png" alt="">
+              <h5 id="fdoc2" class="text-center mt-2 text-black">CV-English</h5>
+            </a>
+
+          </div>
 </div>
 
 </div>
