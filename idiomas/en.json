@@ -48,7 +48,7 @@
         "CampGolfCard": "Golf course",
         "CasaClubCard": "Club House",
         "AreaLecCard": "Reading area",
-        "AreaEventCard": "Events area",
+        "AreaEventCard": "Events",
         "ClinYSpaCard": "Clinic & Spa",
         "CasasCard": "Houses",
         "KidsKCard": "Kids Kloster",
@@ -157,5 +157,9 @@
         "ReserCuliArt": "Reserve here:",
         "BotonCuliArt": "Visit the menu of the day",
         "BotonCuliArtPro": "Promotion"
+    },
+    "EventGaleri":{
+        "TitEventGalery": "Events Gallery",
+        "TitEventGaleri1": "Concerts live"
     }
 }
