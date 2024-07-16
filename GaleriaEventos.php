@@ -76,12 +76,12 @@
     <div class="row">
         <!-- Repite este bloque div.col para cada imagen -->
         <div class="col-lg-4 col-md-6 mb-4" data-aos="zoom-in">
-            <a class="example-image-link" href="img/FotosEventos/Evento (11).jpg" data-lightbox="example-2" data-title="Celebración de La Toma de la Bastilla y el Inicio de la Revolución Francesa">
+            <a class="example-image-link" href="img/FotosEventos/Evento (11).jpg" data-lightbox="example-2" data-title="Canto del himno de la Marsellesa por el consul Mario Ancona Teigell">
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/FotosEventos/Evento (11).jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
                             <div class="d-flex tit-prod text-white sombre-txt">
-                                <!--h3 class="tit-prod text-white sombre-txt">Evento 2</h3-->
+                                <h3 class="tit-prod text-white sombre-txt">Canto del himno de la Marsellesa por el consul Mario Ancona Teigell</h3>
                             </div>
                         </div>
                     </div>
