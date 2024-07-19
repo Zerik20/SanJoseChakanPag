@@ -57,7 +57,7 @@
     <button id="optrend" class="nav-link" id="v-pills-newsec8-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec8" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="RendListM">Renders</p></button>
     <button id="optus" class="nav-link" id="v-pills-newsec9-tab" data-bs-toggle="pill" data-bs-target="#v-pills-newsec9" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false"><p class="m-0 text-center" data-section="Inmobiliarias" data-value="UbiSaListM">Ubicación satelital</p></button>
   </div>
-  <div class="tab-content w-75 p-3" id="v-pills-tabContent">
+<div class="tab-content w-75 p-3" id="v-pills-tabContent">
     <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab" tabindex="0"><!--MasterPlan-->
     
     
@@ -768,158 +768,143 @@
     
     
     </div>
-    <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0"><!--Comisiones-->
-    
-    
-      <div class="w-100">
-        <h4 id="titinm1" class="subtitle text-center" data-section="Inmobiliarias" data-value="TitComisi">Pago de comisiones.</h4>
-        <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi" style="color: brown;">Comisión: 4%</h1>
-
-        <div class="text-center w-100">
-          <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4" data-section="Inmobiliarias" data-value="BotoComisi"> Descaragar Formato de cobro de comisión</span></a>
-        </div>
-
-        <div class="px-5 mt-5">
-          <p id="txtinm1" data-section="Inmobiliarias" data-value="DescComisi">La comisión se paga en la promesa de compraventa una vez que el cliente haya dado el 30% de enganche. El pago de la comisión es via transferencia o cheque a cuenta, en moneda nacional.</p>
-          <h2 id="titinm2" data-section="Inmobiliarias" data-value="TitProComisi"style="color: brown;">Proceso para el cobro de comisión:</h2>
-          <ul>
-            <li id="txtinm2" data-section="Inmobiliarias" data-value="Pas1Comisi">Se requiere la confirmación y comprobante del pago del enganche.</li>
-            <li id="txtinm3" data-section="Inmobiliarias" data-value="Pas2Comisi">Contar con todas las firmas requeridas del cliente.</li>
-            <li id="txtinm4" data-section="Inmobiliarias" data-value="Pas3Comisi">La comisión es sobre el precio base, no participando los adicionales.</li>
-            <li id="txtinm5" data-section="Inmobiliarias" data-value="Pas4Comisi">La comisión se le paga a la agencia que deposite el apartado y el enganche.</li>
-            <li id="txtinm6" data-section="Inmobiliarias" data-value="Pas5Comisi">La persona que solicita el cobro de la comisión deberá ser el titular de la agencia inmobiliaria.</li>
-            <li id="txtinm7" data-section="Inmobiliarias" data-value="Pas6Comisi">La solicitud del cobro se hace mediante correo, el correo debe venir del correo del titular.</li>
-            <li id="txtinm8" data-section="Inmobiliarias" data-value="Pas7Comisi">Si el titular no puede pasar al cobro, en el correo deberá mencionar quién es la persona que se apersonará y esta persona deberá presentar su INE para identificarse.</li>
-            <li id="txtinm9" data-section="Inmobiliarias" data-value="Pas8Comisi">La persona que cobrará la comisión deberá de llevar impreso el formato de cobro de comisión.</li>
-            <li id="txtinm10" data-section="Inmobiliarias" data-value="Pas9Comisi">El tiempo promedio que se libera la comisión será de 15 a 30 días máximo.</li>
-            <li id="txtinm11" data-section="Inmobiliarias" data-value="Pas10Comisi">De acuerdo con la NOM 247 la comisión podrá solicitarse pasando los 5 días con los que cuenta el cliente para solicitar su devolución de enganche.</li>
-            <li id="txtinm12" data-section="Inmobiliarias" data-value="Pas11Comisi"> Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo.</li>
-          </ul>
-        </div>
-        </div>
-      </div>
-
-      <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
-
-<div class="w-100">
-  <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
-  <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
-  <div class="text-center w-100" style="margin-bottom: 20px;">
-          <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
+<div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0"><!--Comisiones-->  
   <div class="w-100">
-    <div class="movil">
-      <div class="text-center">
-        <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
-      </div>
+    <h4 id="titinm1" class="subtitle text-center" data-section="Inmobiliarias" data-value="TitComisi">Pago de comisiones.</h4>
+    <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi" style="color: brown;">Comisión: 4%</h1>
+    <div class="text-center w-100">
+      <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4" data-section="Inmobiliarias" data-value="BotoComisi"> Descaragar Formato de cobro de comisión</span></a>
     </div>
-    <iframe id="pdfViewer" src="documentos/cv.pdf" width="100%" height="600px"></iframe>
+    <div class="px-5 mt-5">
+      <p id="txtinm1" data-section="Inmobiliarias" data-value="DescComisi">La comisión se paga en la promesa de compraventa una vez que el cliente haya dado el 30% de enganche. El pago de la comisión es via transferencia o cheque a cuenta, en moneda nacional.</p>
+      <h2 id="titinm2" data-section="Inmobiliarias" data-value="TitProComisi"style="color: brown;">Proceso para el cobro de comisión:</h2>
+      <ul>
+        <li id="txtinm2" data-section="Inmobiliarias" data-value="Pas1Comisi">Se requiere la confirmación y comprobante del pago del enganche.</li>
+        <li id="txtinm3" data-section="Inmobiliarias" data-value="Pas2Comisi">Contar con todas las firmas requeridas del cliente.</li>
+        <li id="txtinm4" data-section="Inmobiliarias" data-value="Pas3Comisi">La comisión es sobre el precio base, no participando los adicionales.</li>
+        <li id="txtinm5" data-section="Inmobiliarias" data-value="Pas4Comisi">La comisión se le paga a la agencia que deposite el apartado y el enganche.</li>
+        <li id="txtinm6" data-section="Inmobiliarias" data-value="Pas5Comisi">La persona que solicita el cobro de la comisión deberá ser el titular de la agencia inmobiliaria.</li>
+        <li id="txtinm7" data-section="Inmobiliarias" data-value="Pas6Comisi">La solicitud del cobro se hace mediante correo, el correo debe venir del correo del titular.</li>
+        <li id="txtinm8" data-section="Inmobiliarias" data-value="Pas7Comisi">Si el titular no puede pasar al cobro, en el correo deberá mencionar quién es la persona que se apersonará y esta persona deberá presentar su INE para identificarse.</li>
+        <li id="txtinm9" data-section="Inmobiliarias" data-value="Pas8Comisi">La persona que cobrará la comisión deberá de llevar impreso el formato de cobro de comisión.</li>
+        <li id="txtinm10" data-section="Inmobiliarias" data-value="Pas9Comisi">El tiempo promedio que se libera la comisión será de 15 a 30 días máximo.</li>
+        <li id="txtinm11" data-section="Inmobiliarias" data-value="Pas10Comisi">De acuerdo con la NOM 247 la comisión podrá solicitarse pasando los 5 días con los que cuenta el cliente para solicitar su devolución de enganche.</li>
+        <li id="txtinm12" data-section="Inmobiliarias" data-value="Pas11Comisi"> Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo.</li>
+      </ul>
+    </div>
   </div>
 </div>
 
+<div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
+  <div class="w-100">
+  <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
+  <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
+    <div class="text-center w-100" style="margin-bottom: 20px;">
+      <a href="documentos/cv.pdf" download="cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+    </div>
+    <div class="w-100">
+      <div class="movil">
+        <div class="text-center">
+          <a href="documentos/cv.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Curriculum</span> </a>
+        </div>
+      </div>
+      <iframe id="pdfViewer" src="documentos/cv.pdf" width="100%" height="600px"></iframe>
+    </div>
+  </div>
 </div>
 
 <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
-<div class="w-100 text-center">
+  <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Ficha</h4>
   <h1 id="stitinm3" class="tit" style="color: brown;">técnica</h1>
-  <div class="text-center w-100"style="margin-bottom: 20px;">
-          <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
-  <div class="w-100">
-    <div class="movil">
-      <div class="text-center">
-        <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
-      </div>
+    <div class="text-center w-100"style="margin-bottom: 20px;">
+      <a href="documentos/FichaTecnicaSolabell.pdf" download="FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
     </div>
-    <iframe id="pdfViewer" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+    <div class="w-100">
+      <div class="movil">
+        <div class="text-center">
+          <a href="documentos/FichaTecnicaSolabell.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Ficha Tecnica</span> </a>
+        </div>
+      </div>
+      <iframe id="pdfViewer" src="documentos/FichaTecnicaSolabell.pdf" width="100%" height="600px"></iframe>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="tab-pane fade" id="v-pills-newsec10" role="tabpanel" aria-labelledby="v-pills-newsec10-tab" tabindex="0"><!--Memoria descriptiva-->
-<div class="w-100 text-center">
+  <div class="w-100 text-center">
   <h4 id="titinm4" class="subtitle">Memoria</h4>
   <h1 id="stitinm3" class="tit" style="color: brown;">Descriptiva</h1>
-  <div class="text-center w-100"style="margin-bottom: 20px;">
-          <a href="documentos/MemoriaDescriptiva.pdf" download="MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
-  <div class="w-100">
-    <div class="movil">
-      <div class="text-center">
-        <a href="documentos/MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Memoria Descriptiva</span> </a>
-      </div>
+    <div class="text-center w-100"style="margin-bottom: 20px;">
+      <a href="documentos/MemoriaDescriptiva.pdf" download="MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
     </div>
+    <div class="w-100">
+      <div class="movil">
+        <div class="text-center">
+          <a href="documentos/MemoriaDescriptiva.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Memoria Descriptiva</span> </a>
+        </div>
+      </div>
     <iframe id="pdfViewer" src="documentos/MemoriaDescriptiva.pdf" width="100%" height="600px"></iframe>
+    </div>
   </div>
 </div>
-</div>
 <script>
-// Función para verificar si la pantalla es de tamaño móvil
-function isMobileDevice() {
-  return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
-}
+  // Función para verificar si la pantalla es de tamaño móvil
+  function isMobileDevice() {
+    return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
+  }
 
-// Función para ocultar el iframe en dispositivos móviles
-function hideIframeOnMobile() {
+  // Función para ocultar el iframe en dispositivos móviles
+  function hideIframeOnMobile() {
   var pdfViewer1 = document.getElementById("pdfViewer1");
   var pdfViewer2 = document.getElementById("pdfViewer2");
   if (isMobileDevice()) {
     pdfViewer1.style.display = "none"; // Ocultar el iframe en dispositivos móviles
     pdfViewer2.style.display = "none"; // Ocultar el iframe en dispositivos móviles
   }
-}
+  }
 
-// Ejecutar la función al cargar la página
-hideIframeOnMobile();
+  // Ejecutar la función al cargar la página
+  hideIframeOnMobile();
 </script>
 
 <style>
-@media only screen and (max-width: 768px) {
-  #pdfViewer1,
-  #pdfViewer2 {
-    display: none; /* Ocultar el iframe en dispositivos móviles */
+  @media only screen and (max-width: 768px) {
+    #pdfViewer1,
+    #pdfViewer2 {
+      display: none; /* Ocultar el iframe en dispositivos móviles */
+    }
   }
-}
 </style>
 
 <div class="tab-pane fade" id="v-pills-newsec3" role="tabpanel" aria-labelledby="v-pills-newsec3-tab" tabindex="0"><!--Formatos-->
-
-    
-      <div class="w-100">
-        <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="titinm5" class="tit text-center" style="color: brown;">Formatos</h1>
-
-        <div class="row mt-5">
-          <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/DocumentacionInmuebles.pdf" download="DocumentacionInmuebles.pdf">
-              <img class="w-100" src="img/pdfd.png" alt="">
-              <h5 id="fdoc1" class="text-center mt-2 text-black">Documentos para la compraventa</h5>
-            </a>
-          </div>
-          <div class="col-md-2 mx-2 mb-3">
-            
-            <a class="text-decoration-none" href="documentos/Formatodegenerales.xlsx" download="Formatodegenerales.xlsx">
-              <img class="w-100" src="img/pdfd.png" alt="">
-              <h5 id="fdoc2" class="text-center mt-2 text-black">Formato de generales</h5>
-            </a>
-
-          </div>
-          <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/ConstanciaSituacionFiscal.pdf" download="ConstanciaSituacionFiscal.pdf">
-              <img class="w-100" src="img/pdfd.png" alt="">
-              <h5 id="fdoc3" class="text-center mt-2 text-black">Para solicitar tu Constancia de Situación Fiscal</h5>
-            </a>
-          </div>
-                  
-
-        </div>  
+  <div class="w-100">
+    <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
+    <h1 id="titinm5" class="tit text-center" style="color: brown;">Formatos</h1>
+    <div class="row mt-5">
+      <div class="col-md-2 mx-2 mb-3">
+        <a class="text-decoration-none" href="documentos/DocumentacionInmuebles.pdf" download="DocumentacionInmuebles.pdf">
+          <img class="w-100" src="img/pdfd.png" alt="">
+          <h5 id="fdoc1" class="text-center mt-2 text-black">Documentos para la compraventa</h5>
+        </a>
       </div>
+      <div class="col-md-2 mx-2 mb-3">
+        <a class="text-decoration-none" href="documentos/Formatodegenerales.xlsx" download="Formatodegenerales.xlsx">
+          <img class="w-100" src="img/pdfd.png" alt="">
+          <h5 id="fdoc2" class="text-center mt-2 text-black">Formato de generales</h5>
+        </a>
+      </div>
+      <div class="col-md-2 mx-2 mb-3">
+        <a class="text-decoration-none" href="documentos/ConstanciaSituacionFiscal.pdf" download="ConstanciaSituacionFiscal.pdf">
+          <img class="w-100" src="img/pdfd.png" alt="">
+          <h5 id="fdoc3" class="text-center mt-2 text-black">Para solicitar tu Constancia de Situación Fiscal</h5>
+        </a>
+      </div>                 
+  </div>  
+</div>
     
+<div class="tab-pane fade" id="v-pills-newsec4" role="tabpanel" aria-labelledby="v-pills-newsec4-tab" tabindex="0"><!-- Fotos y videos de avance -->
     
-    </div>
-    <div class="tab-pane fade" id="v-pills-newsec4" role="tabpanel" aria-labelledby="v-pills-newsec4-tab" tabindex="0">
-    <!-- Fotos y videos de avance -->
     <div class="w-100">
         <h4 id="stitinm4" class="subtitle text-center">Fotos y videos</h4>
         <h1 id="titinm6" class="tit text-center" style="color: brown;">de avance</h1>
@@ -952,158 +937,125 @@ hideIframeOnMobile();
 
 
 
-    <div class="tab-pane fade" id="v-pills-newsec5" role="tabpanel" aria-labelledby="v-pills-newsec5-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
-    
-    
+<div class="tab-pane fade" id="v-pills-newsec5" role="tabpanel" aria-labelledby="v-pills-newsec5-tab" tabindex="0"><!--Lista de precios y disponibilidad-->
+  <div class="w-100">
+    <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
+    <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
+      <div class="text-center w-100" style="margin-bottom: 20px;">
+        <a href="documentos/ListaDePrecios.pdf" download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+      </div>
       <div class="w-100">
-        <h4 id="stitinm5" class="subtitle text-center">Lista de precios y  </h4>
-        <h1 id="titinm7" class="tit text-center" style="color: brown;">disponibilidad</h1>
-        <div class="text-center w-100" style="margin-bottom: 20px;">
-          <a href="documentos/ListaDePrecios.pdf" download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
-        <div class="w-100">
-          <div class="movil">
-            <div class="text-center">
-              <a href="documentos/ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Lista de Precios</span> </a>
-              <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
-            </div>
+        <div class="movil">
+          <div class="text-center">
+            <a href="documentos/ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-eye"></i><span id="btninm2">Ver Lista de Precios</span> </a>
+            <a href="documentos/ListaDePrecios.pdf"  download="ListaDePrecios.pdf" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download" aria-hidden="true"></i> <span id="btninm3">Descargar Lista de Precios</span> </a>
           </div>
+        </div>
           <iframe id="pdfViewer3" src="documentos/ListaDePrecios.pdf" width="100%" height="600px"></iframe>
-        </div>
-
-
       </div>
-    
-    
-    </div>
-    <div class="tab-pane fade" id="v-pills-newsec8" role="tabpanel" aria-labelledby="v-pills-newsec8-tab" tabindex="0"><!--Renders-->
-      <div class="w-100">
-        <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
-        <h1 id="" class="tit text-center"style="color: brown;">Renders</h1>
-
-     
-
-
-          
-        <div class="w-100">
-            
-            <div class="row img-zonas">
-              
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios1.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios1.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-school me-2"></i><h3 id="imhtitlist1colegio" class="tit-prod text-white sombre-txt"> Colegio</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios2.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios2.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-               
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios3.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios3.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios4.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios4.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios5.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios5.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
-                    <a class="example-image-link" href="img/renders/Estudios6.jpg" data-lightbox="example-2" data-title="">
-                        <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios6.jpg') !important;">
-                            <div class="overlay-img-index w-100 h-100 p-2">
-                                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                                    <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
-                                </!--div-->
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                
-
-               
-            </div>
-        </div>
-
-
-
-        
-
-
-      </div>
-     </div>
-    <div class="tab-pane fade" id="v-pills-newsec9" role="tabpanel" aria-labelledby="v-pills-newsec9-tab" tabindex="0"> <!--Ubicacion Satelital-->
-    
-    
-      <div class="w-100">
-        <h4 id="stitinm6" class="subtitle text-center">Ubicación </h4>
-        <h1 id="titinm8" class="tit text-center mb-5" style="color: brown;">satelital</h1>
-
-        <div class="text-center w-100">
-          <a href="documentos/HaciendaSanJoseChakan.kml" download="HaciendaSanJoseChakan.kml" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
-        </div>
-
-        <div class="mt-5"></div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14749.169054701486!2d-89.4902364627086!3d21.133623218247063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567166cf2b9e13%3A0xc83b63dda1101f2d!2sHacienda%20San%20Jos%C3%A9%20Chak%C3%A1n!5e0!3m2!1ses-419!2smx!4v1711030524807!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        
-        <div class="row mt-4">
-          <div class="col-md-6">
-            <h5 id="txtger1">Gerente a cargo:</h5> <h5><strong>Yolanda Taboada Saavedra</strong></h5> 
-            <h6><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</h6>
-            <h6><i class="fas fa-envelope"></i> yolanda.taboada@royalcountychochola.com</h6>
-          </div>
-          <div class="col-md-6">
-            <h5 id="txtger2">Gerente comercial:</h5> <h5><strong>Jesús David Flores Pool</strong></h5> 
-            <h6><i class="fas fa-phone-alt"></i> +52 1 999 193 4724</h6>
-            <h6><i class="fas fa-envelope"></i> info@sanjosechakan.com</h6>
-          </div>
-        </div>
-        
-        
-
-      </div>
-    
-    
-    </div>
+  </div>
 </div>
+
+<div class="tab-pane fade" id="v-pills-newsec8" role="tabpanel" aria-labelledby="v-pills-newsec8-tab" tabindex="0"><!--Renders-->
+  <div class="w-100">
+    <h4 id="" class="subtitle text-center">Royal County San José Chakan</h4>
+    <h1 id="" class="tit text-center"style="color: brown;">Renders</h1> 
+    <div class="w-100">
+      <div class="row img-zonas">
+        <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+          <a class="example-image-link" href="img/renders/Estudios1.jpg" data-lightbox="example-2" data-title="">
+            <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios1.jpg') !important;">
+              <div class="overlay-img-index w-100 h-100 p-2">
+                <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                  <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-school me-2"></i><h3 id="imhtitlist1colegio" class="tit-prod text-white sombre-txt"> Colegio</h3></div>
+                </!--div-->
+              </div>
+            </div>
+          </a>
+        </div>
+          <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+            <a class="example-image-link" href="img/renders/Estudios2.jpg" data-lightbox="example-2" data-title="">
+              <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios2.jpg') !important;">
+                <div class="overlay-img-index w-100 h-100 p-2">
+                  <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                      <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+                  </!--div-->
+                </div>
+              </div>
+            </a>
+          </div>
+               
+      <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+        <a class="example-image-link" href="img/renders/Estudios3.jpg" data-lightbox="example-2" data-title="">
+          <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios3.jpg') !important;">
+            <div class="overlay-img-index w-100 h-100 p-2">
+              <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                  <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+              </!--div-->
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+        <a class="example-image-link" href="img/renders/Estudios4.jpg" data-lightbox="example-2" data-title="">
+          <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios4.jpg') !important;">
+            <div class="overlay-img-index w-100 h-100 p-2">
+              <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+              </!--div-->
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+        <a class="example-image-link" href="img/renders/Estudios5.jpg" data-lightbox="example-2" data-title="">
+          <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios5.jpg') !important;">
+            <div class="overlay-img-index w-100 h-100 p-2">
+              <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+              </!--div-->
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="col-md-3 m-0 p-2" data-aos="zoom-in">
+        <a class="example-image-link" href="img/renders/Estudios6.jpg" data-lightbox="example-2" data-title="">
+          <div class="img-zona-gallery sombra" style="height: 200px !important; background-image: url('img/renders/Estudios6.jpg') !important;">
+            <div class="overlay-img-index w-100 h-100 p-2">
+              <!--div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-campground me-2"></i> <h3 id="imhtitlist1glamping" class="tit-prod text-white sombre-txt">Glamping</h3></div>
+              </!--div-->
+            </div>
+          </div>
+        </a>
+      </div>    
+    </div>
+  </div>
+</div>
+
+<div class="tab-pane fade" id="v-pills-newsec9" role="tabpanel" aria-labelledby="v-pills-newsec9-tab" tabindex="0"> <!--Ubicacion Satelital-->
+  <div class="w-100">
+    <h4 id="stitinm6" class="subtitle text-center">Ubicación </h4>
+    <h1 id="titinm8" class="tit text-center mb-5" style="color: brown;">satelital</h1>
+    <div class="text-center w-100">
+      <a href="documentos/HaciendaSanJoseChakan.kml" download="HaciendaSanJoseChakan.kml" class="boton aos-init aos-animate mx-2" target="_blank"><i class="fas fa-download"></i> <span id="btninm9" >Descargar</span></a>
+    </div>
+    <div class="mt-5"></div>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14749.169054701486!2d-89.4902364627086!3d21.133623218247063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f567166cf2b9e13%3A0xc83b63dda1101f2d!2sHacienda%20San%20Jos%C3%A9%20Chak%C3%A1n!5e0!3m2!1ses-419!2smx!4v1711030524807!5m2!1ses-419!2smx" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <div class="row mt-4">
+        <div class="col-md-6">
+          <h5 id="txtger1">Gerente a cargo:</h5> <h5><strong>Yolanda Taboada Saavedra</strong></h5> 
+          <h6><i class="fas fa-phone-alt"></i> +52 (999) 700 15 85</h6>
+          <h6><i class="fas fa-envelope"></i> yolanda.taboada@royalcountychochola.com</h6>
+        </div>
+        <div class="col-md-6">
+          <h5 id="txtger2">Gerente comercial:</h5> <h5><strong>Jesús David Flores Pool</strong></h5> 
+          <h6><i class="fas fa-phone-alt"></i> +52 1 999 193 4724</h6>
+          <h6><i class="fas fa-envelope"></i> info@sanjosechakan.com</h6>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script>
