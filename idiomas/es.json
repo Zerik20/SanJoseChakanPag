@@ -48,7 +48,7 @@
         "CampGolfCard": "Campo de golf",
         "CasaClubCard": "Casa Club",
         "AreaLecCard": "Area de lectura",
-        "AreaEventCard": "Area de eventos",
+        "AreaEventCard": "Eventos",
         "ClinYSpaCard": "Clinica y Spa",
         "CasasCard": "Casas",
         "KidsKCard": "Kids Kloster",
@@ -156,5 +156,10 @@
         "ReserCuliArt": "Reserva aquí:",
         "BotonCuliArt": "Visita el menú del día",
         "BotonCuliArtPro": "Promoción"
+    },
+    "EventGaleri":{
+        "TitEventGalery": "Galeria de Eventos",
+        "TitEventGaleri1": "Conciertos en vivo",
+        "TitEventGaleri2": "Celebration of the Storming of the Bastille and the Beginning of the French Revolution"
     }
 }

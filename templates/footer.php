@@ -51,7 +51,7 @@
                         </ul>
                     </div>
                     <div class="col-md-3 p-5 sec-footer">
-                        <h5 id="titfooter2" class="text-white mb-3 tit-prod" data-section="Footer" data-value="ProdTitFoot">PRODUCTOS</h5>
+                        <h5 id="titfooter2" class="text-white mb-3 tit-prod text-center"  data-section="Footer" data-value="ProdTitFoot">PRODUCTOS</h5>
                         <ul class="text-white list-unstyled">
                             <a class="text-white text-decoration-none" href="https://api.whatsapp.com/send?phone=5219997001585&text=Hola%2C%20me%20gustar%C3%ADa%20mas%20informaci%C3%B3n%20sobre%20sus%20lotes%20en%20venta" target="_blank"><li class="mb-2 link-footer"><p id="optfooter5" data-section="Footer" data-value="LotFoot"style="text-align: center; border-bottom: 1px solid white;">LOTES</p></li></a>
                             <a class="text-white text-decoration-none" href="https://api.whatsapp.com/send?phone=5219997001585&text=Hola%2C%20me%20gustar%C3%ADa%20mas%20informaci%C3%B3n%20sobre%20sus%20residencias%20en%20venta" target="_blank"><li class="mb-2 link-footer"><p id="optfooter6" data-section="Footer" data-value="ResiFoot"style="text-align: center; border-bottom: 1px solid white;">RESIDENCIAS</p></li></a>
@@ -60,13 +60,13 @@
                         </ul>
                     </div>
                     <div class="col-md-5 p-5 sec-footer">
-                        <h5 id="titfooter3" class="text-white mb-3 tit-prod" data-section="Footer" data-value="ContacFoot">CONTÁCTANOS</h5>
+                        <h5 id="titfooter3" class="text-white mb-3 tit-prod text-center" data-section="Footer" data-value="ContacFoot">CONTÁCTANOS</h5>
                         <ul class="text-white list-unstyled">
-                            <a class="text-white text-decoration-none" href="tel:9997001585"><li class="d-flex mb-2 link-footer"><i class="fas fa-phone-alt me-2"></i><p id="optfooter8" style="font-size: 15px;">+52 (999) 700 15 85</p></li></a>
-                            <a class="text-white text-decoration-none" href="mailto:info@sanjosechakan.com"><li class="d-flex mb-2 link-footer"><i class="fas fa-envelope me-2"></i><p id="optfooter9"> info@sanjosechakan.com</p></li></a>
+                            <a class="text-white text-decoration-none text-center" href="tel:9997001585"><li class="d-flex mb-2 link-footer"><i class="fas fa-phone-alt me-2"></i><p id="optfooter8" style="font-size: 15px;">+52 (999) 700 15 85</p></li></a>
+                            <a class="text-white text-decoration-none text-center" href="mailto:info@sanjosechakan.com"><li class="d-flex mb-2 link-footer"><i class="fas fa-envelope me-2"></i><p id="optfooter9"> info@sanjosechakan.com</p></li></a>
                             <!--a class="text-white text-decoration-none" href="#"><li class="d-flex mb-2 link-footer"><i class="fas fa-map-marker-alt me-2" aria-hidden="true"></i><p id="optfooter10"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas.</p></li></a-->
-                            <ul class="nav me-auto" style="border: none;">
-                                <li class="nav-item"><a href="https://wa.link/8k0flz" target="_blank" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-whatsapp" aria-hidden="true" style="font-size: 22px;"></i></a></li>
+                            <ul class="nav me-auto text-center" style="border: none;">
+                                <li class="nav-item "><a href="https://wa.link/8k0flz" target="_blank" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-whatsapp" aria-hidden="true" style="font-size: 22px;"></i></a></li>
                                 <li class="nav-item"><a href="https://www.facebook.com/people/Royal-County-San-Jos%C3%A9-Chak%C3%A1n/61555830144863/?mibextid=LQQJ4d" target="_blank" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-facebook-f" aria-hidden="true" style="font-size: 22px;"></i></a></li>
                                 <li class="nav-item"><a href="https://www.instagram.com/rcountysanjosechakan?igsh=MTI1a2NycDdma2QyYg%3D%3D&utm_source=qr" target="_blank" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-instagram" aria-hidden="true" style="font-size: 22px;"></i></a></li>
                                 <li class="nav-item"><a href="https://www.tiktok.com/@royalcountysanjosechakan?_t=8l3deamL92E&_r=1" target="_blank" class="nav-link link-body-emphasis px-2 text-white" data-bs-trigger="hover focus"><i class="fab fa-tiktok" aria-hidden="true" style="font-size: 22px;"></i></a></li>

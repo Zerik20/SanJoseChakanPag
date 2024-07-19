@@ -128,17 +128,113 @@
                 </div>
             </a>
         </div>
-        <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/boda.jpg" data-lightbox="example-2" data-title="">
-                <div class="img-zona-gallery sombra" style="background-image: url('img/boda.jpg') !important;">
-                    <div class="overlay-img-index w-100 h-100 p-2">
-                        <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
-                            <div class="d-flex tit-prod text-white sombre-txt"><i class="fas fa-glass-cheers me-2"></i><h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard"> Area de eventos</h3></div>
+
+<!-- Asegúrate de incluir Bootstrap CSS y JS en tu proyecto -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<div class="col-md-4 m-0 p-2" data-aos="zoom-in">
+    <a href="GaleriaEventos.php"  target="_blank">
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="img-zona-gallery sombra" style="background-image: url('img/FotosEventos/Evento (1).jpg') !important;">
+                        <div class="overlay-img-index w-100 h-100 p-2">
+                            <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                <div class="d-flex tit-prod text-white sombre-txt">
+                                    <i class="fas fa-glass-cheers me-2"></i>
+                                    <h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard">Eventos</h3>
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>Conciertos en vivo</p>
+                    </div>
                 </div>
+                <div class="carousel-item">
+                    <div class="img-zona-gallery sombra" style="background-image: url('img/FotosEventos/Evento (12).jpg') !important;">
+                        <div class="overlay-img-index w-100 h-100 p-2">
+                            <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                <div class="d-flex tit-prod text-white sombre-txt">
+                                    <i class="fas fa-glass-cheers me-2"></i>
+                                    <h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard">Eventos</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>Celebración de La Toma de la Bastilla y el Inicio de la Revolución Francesa </p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="img-zona-gallery sombra" style="background-image: url('img/FotosEventos/Evento (10).jpg') !important;">
+                        <div class="overlay-img-index w-100 h-100 p-2">
+                            <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                <div class="d-flex tit-prod text-white sombre-txt">
+                                    <i class="fas fa-glass-cheers me-2"></i>
+                                    <h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard">Eventos</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>Buffets</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="img-zona-gallery sombra" style="background-image: url('img/FotosEventos/Evento (6).jpg') !important;">
+                        <div class="overlay-img-index w-100 h-100 p-2">
+                            <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                <div class="d-flex tit-prod text-white sombre-txt">
+                                    <i class="fas fa-glass-cheers me-2"></i>
+                                    <h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard">Eventos</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>Cata y venta de vinos</p>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="img-zona-gallery sombra" style="background-image: url('img/FotosEventos/Evento (8).jpg') !important;">
+                        <div class="overlay-img-index w-100 h-100 p-2">
+                            <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
+                                <div class="d-flex tit-prod text-white sombre-txt">
+                                    <i class="fas fa-glass-cheers me-2"></i>
+                                    <h3 id="imhtitlist1comer" class="tit-prod text-white sombre-txt" data-section="Cards" data-value="AreaEventCard">Eventos</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-caption d-none d-md-block">
+                        <p>Eventos familiares</p>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
             </a>
         </div>
+    </a>
+</div>
+
+
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
             <a class="example-image-link" href="img/spa.jpg" data-lightbox="example-2" data-title="">
                 <div class="img-zona-gallery sombra" style="background-image: url('img/spa.jpg') !important;">
@@ -177,7 +273,7 @@
         </div>
 -->
         <div class="col-md-4 m-0 p-2" data-aos="zoom-in">
-            <a class="example-image-link" href="img/Fachada.jpg" data-lightbox="example-2" data-title="">
+            <a class="example-image-link" href="img/renders/Fachada.jpg" data-lightbox="example-2" data-title="">
                 <div class="img-zona-gallery sombra example-image" style="background-image: url('img/renders/Fachada.jpg') !important;">
                     <div class="overlay-img-index w-100 h-100 p-2">
                         <div class="line-int w-100 h-100 p-2 d-flex align-items-end">
