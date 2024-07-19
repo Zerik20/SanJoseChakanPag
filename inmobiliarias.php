@@ -768,13 +768,11 @@
     
     
     </div>
+
     <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab" tabindex="0"><!--Comisiones-->
-    
-    
       <div class="w-100">
         <h4 id="titinm1" class="subtitle text-center" data-section="Inmobiliarias" data-value="TitComisi">Pago de comisiones.</h4>
         <h1 id="stitinm1" class="tit text-center mb-5"data-section="Inmobiliarias" data-value="PorcComisi" style="color: brown;">Comisión: 4%</h1>
-
         <div class="text-center w-100">
           <a href="documentos/Formatodecobrodecomisión.xlsx" download="Formatodecobrodecomisión.xlsx" class="boton aos-init aos-animate mx-2 btninm" target="_blank"><i class="fas fa-download"></i> <span id="btninm4" data-section="Inmobiliarias" data-value="BotoComisi"> Descaragar Formato de cobro de comisión</span></a>
         </div>
@@ -796,33 +794,31 @@
             <li id="txtinm12" data-section="Inmobiliarias" data-value="Pas11Comisi"> Si hubiere algún atraso en la liberación de la comisión, se le notificará al titular a través de un mensaje o correo.</li>
           </ul>
         </div>
-        </div>
       </div>
+    </div>
 
       <div class="tab-pane fade" id="v-pills-newsec1" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Curriculum de la desarrolladora-->
-
-<div class="w-100">
-  <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
-  <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
-  <div class="text-center w-100" style="margin-bottom: 20px;">
-  <div class="row mt-5">
-          <div class="col-md-2 mx-2 mb-3">
-            <a class="text-decoration-none" href="documentos/CV.pdf" download="CV.pdf">
-              <img class="w-100" src="img/pdfd.png" alt="">
-              <h5 id="fdoc1" class="text-center mt-2 text-black">CV-Español</h5>
-            </a>
+        <div class="w-100">
+          <h4 id="titinm3" class="subtitle text-center">Curriculum</h4>
+          <h1 id="stitinm2" class="tit text-center" style="color: brown;">de la desarrolladora</h1>
+          <div class="text-center w-100" style="margin-bottom: 20px;">
+            <div class="row mt-5">
+              <div class="col-md-2 mx-2 mb-3">
+                <a class="text-decoration-none" href="documentos/CV.pdf" download="CV.pdf">
+                  <img class="w-100" src="img/pdfd.png" alt="">
+                  <h5 id="fdoc1" class="text-center mt-2 text-black">CV-Español</h5>
+                </a>
+              </div>
+              <div class="col-md-2 mx-2 mb-3">         
+                <a class="text-decoration-none" href="documentos/CV-English.pdf" download="CV-English.pdf">
+                  <img class="w-100" src="img/pdfd.png" alt="">
+                  <h5 id="fdoc2" class="text-center mt-2 text-black">CV-English</h5>
+                </a>
+              </div>
+            </div>
           </div>
-          <div class="col-md-2 mx-2 mb-3">
-            
-            <a class="text-decoration-none" href="documentos/CV-English.pdf" download="CV-English.pdf">
-              <img class="w-100" src="img/pdfd.png" alt="">
-              <h5 id="fdoc2" class="text-center mt-2 text-black">CV-English</h5>
-            </a>
-
-          </div>
-</div>
-
-</div>
+        </div>
+      </div>
 
 <div class="tab-pane fade" id="v-pills-newsec2" role="tabpanel" aria-labelledby="v-pills-newsec1-tab" tabindex="0"><!--Ficha Tecnica-->
 <div class="w-100 text-center">
