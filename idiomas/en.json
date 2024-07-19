@@ -160,6 +160,8 @@
     },
     "EventGaleri":{
         "TitEventGalery": "Events Gallery",
-        "TitEventGaleri1": "Concerts live"
+        "TitEventGaleri1": "Concerts live",
+        "TitEventGaleri2": "Concerts live"
+        
     }
 }

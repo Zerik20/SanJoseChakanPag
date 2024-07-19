@@ -70,7 +70,7 @@
 
 
 
-<h4 id="actit" class="subtitleroboto text-center" data-aos="fade-up" style="color: brown; " data-section="EventGaleri" data-value="TitEventGaleri1">Celebración de La Toma de la Bastilla y el Inicio de la Revolución Francesa</h4>
+<h4 id="actit" class="subtitleroboto text-center" data-aos="fade-up" style="color: brown; " data-section="EventGaleri" data-value="TitEventGaleri2">Celebración de La Toma de la Bastilla y el Inicio de la Revolución Francesa</h4>
 
 <div class="container my-5">
     <div class="row">
