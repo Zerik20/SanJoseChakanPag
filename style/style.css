@@ -219,6 +219,7 @@ div#cont-principal {
   height: 100vh; /* ajusta la altura del slider según lo que necesites */
   overflow: hidden;
 }
+
 .image {
   position: absolute;
   top: 0;
@@ -230,6 +231,7 @@ div#cont-principal {
   opacity: 0;
   transition: opacity 0.5s ease;
 }
+
 .overlay {
   position: absolute;
   top: 0;
@@ -237,21 +239,24 @@ div#cont-principal {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5); /* ajusta el color del overlay según lo que necesites */
-  opacity: 0;
+  opacity: 1; /* Asegurarse de que el overlay esté visible */
   transition: opacity 0.5s ease;
 }
+
 .cont-index-prox {
   position: relative;
   z-index: 1;
-  color: white; /* ajusta el color del texto según lo que necesites */
+  color: rgb(255, 0, 0); /* ajusta el color del texto según lo que necesites */
+  margin-bottom: 52px;
 }
+
+/* Desactivar el hover en overlay e image */
 .slider:hover .overlay,
 .slider:hover .image {
   opacity: 1;
 }
-.cont-index-prox {
-    margin-bottom: 52px;
-}
+
+
 
 h1.tit1 {
     font-family: 'Cormorant', serif;

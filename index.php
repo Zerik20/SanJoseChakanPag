@@ -37,6 +37,32 @@
 </div>
 
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+  const images = document.querySelectorAll('.slider .image');
+  let currentIndex = 0;
+
+  // Inicializar todas las imágenes excepto la primera con opacidad 0
+  images.forEach((image, index) => {
+    if (index !== 0) {
+      image.style.opacity = 0;
+    }
+  });
+
+  function showNextImage() {
+    images[currentIndex].style.opacity = 0; // Ocultar la imagen actual
+    currentIndex = (currentIndex + 1) % images.length; // Mover al siguiente índice
+    images[currentIndex].style.opacity = 1; // Mostrar la siguiente imagen
+  }
+
+  images[currentIndex].style.opacity = 1; // Mostrar la primera imagen inicialmente
+  setInterval(showNextImage, 3000); // Cambiar la imagen cada 3 segundos
+});
+
+
+</script>
+
+
 
 
 <div class="cont1-acerca-de sombra">

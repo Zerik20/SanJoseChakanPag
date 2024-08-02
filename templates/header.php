@@ -94,7 +94,7 @@
             <nav class="navbar navbar-dark w-100 navscroll fixed-top ">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="index.php"><img id="logom2" src="img/logoblanco.svg" alt="logo-RCC"></a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" style="border-color: black;" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
