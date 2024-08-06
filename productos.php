@@ -14,7 +14,7 @@
 <script src="idiomas/lengprod.js"></script>
 
 <div id="cont-acerca-de" class="" style="background-image: url('img/ImagenesParaLaPagina/VillasArcoiris/1.png') !important;">
-    <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
+    <div class="">
     </div>
 </div>
 

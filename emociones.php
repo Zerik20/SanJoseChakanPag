@@ -19,7 +19,7 @@
 
 <div id="cont-acerca-de" class="" style="background-image: url('img/niños.jpg') !important;">
 
-    <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
+    <div class="">
     
         
     </div>

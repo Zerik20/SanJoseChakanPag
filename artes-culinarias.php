@@ -19,7 +19,7 @@
 
 <div id="cont-acerca-de" class="" style="background-image: url('img/ac.jpg') !important;">
 
-    <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
+    <div class="">
     
         
     </div>
@@ -40,7 +40,7 @@
             <a href="tel:9997389321">999 738 93 21</a><br>
             <a href="tel:9997389319">999 738 93 19</a><br>
             <div class="text-left">
-    <button data-section="CuliArt" data-value="BotonCuliArt" onclick="window.open('img/MenuFrances.png', '_blank')" style="background-color: brown; /* Green */
+    <button data-section="CuliArt" data-value="BotonCuliArt" onclick="window.open('img/MenuFrances2.png', '_blank')" style="background-color: brown; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;

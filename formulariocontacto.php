@@ -15,7 +15,7 @@
 <script src="idiomas/lengart.js"></script>
 <div id="cont-acerca-de" class="" style="background-image: url('img/GolfBall.jpg') !important;">
 
-    <div class="overlay h-100 w-100 d-flex justify-content-center align-items-end">
+    <div class="">
     
         
     </div>
